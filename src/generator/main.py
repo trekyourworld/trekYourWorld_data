@@ -1,5 +1,14 @@
 import requests
 import json
+import sys
+import os
+from scrapy.crawler import CrawlerProcess
+from scrapy.utils.project import get_project_settings
+
+# Ensure Scrapy project is in the Python path
+sys.path.append(os.path.join(os.path.dirname(__file__), '../links_resolver'))
+
+from links_resolver.spiders.example_spider import ExampleSpider
 
 def download_file(url, local_filename):
     with requests.get(url, stream=True) as r:
@@ -22,6 +31,11 @@ def save_json(data, output_file):
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
+def run_spider():
+    process = CrawlerProcess(get_project_settings())
+    process.crawl(ExampleSpider)
+    process.start()
+
 def main(url, download_path, output_path):
     downloaded_file = download_file(url, download_path)
     print(f"File downloaded to {downloaded_file}")
@@ -41,3 +55,5 @@ if __name__ == "__main__":
     output_path = "cleaned_data.json"
 
     main(url, download_path, output_path)
+
+    run_spider()
