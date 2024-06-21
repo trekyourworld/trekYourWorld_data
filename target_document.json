@@ -1,0 +1,48 @@
+{
+  "title": "Pin Bhaba Pass Trek",
+  "subtitle": "The Most Dramatic Crossover Trek in India",
+  "difficulty": "Difficult",
+  "duration": "9 days",
+  "highest_altitude": "16,105 ft",
+  "description": "",
+  "itinerary": {
+    "day1": "Forests of Mulling",
+    "day2": "Grasslands of Mulling",
+    "day3": "Meadows of Karah",
+    "day4": "River delta of Phutsirang",
+    "day5": "Pin Bhaba Pass"
+  },
+  "campsites": ["Mulling Campsite", "Karah Campsite", "Phutsirang Campsite"],
+  "additional_info": {
+    "best_time": "Plan your trek well",
+    "how_to_reach": "Plan your travel",
+    "what_to_pack": "Things you must take on the trek",
+    "faq": "Get your questions answered here",
+    "videos": "Videos by other Youtube creators",
+    "photo_gallery": "Share Link",
+    "expert_speak": ""
+  },
+  "reasons_to_trek": [
+    "The Most Dramatic Crossover Trek",
+    "Remarkable changes in the landscape",
+    "Enchanting forests of Mulling",
+    "Grasslands of Mulling",
+    "Kashmir-like meadows of Karah",
+    "River delta of Phutsirang",
+    "Stunning vistas and different experiences each day"
+  ],
+  "safety_measures": [
+    "We Are India’s Safest Trekking Organisation",
+    "Daily 3-time health checks keep you safe at any altitude",
+    "Join any group, they are all women-friendly groups",
+    "Request Jain/Vegan-friendly food",
+    "Be comfortable and sustainable with bio toilets",
+    "Fresh, nutritious food at every camp"
+  ],
+  "contact": {
+    "phone": "",
+    "email": "",
+    "address_bengaluru": "",
+    "address_dehradun": ""
+  }
+}
