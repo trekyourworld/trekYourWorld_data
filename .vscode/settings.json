@@ -1,3 +1,6 @@
 {
-  "python.analysis.extraPaths": ["./src/links_resolver"]
+  "python.analysis.extraPaths": [
+    "./src/links_resolver"
+  ],
+  "python.REPL.enableREPLSmartSend": false
 }

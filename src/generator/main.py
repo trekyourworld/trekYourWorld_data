@@ -4,6 +4,10 @@ import sys
 import os
 from scrapy.crawler import CrawlerProcess
 from scrapy.utils.project import get_project_settings
+from dotenv import load_dotenv
+from scraper import parseToJson
+
+load_dotenv()
 
 # Ensure Scrapy project is in the Python path
 sys.path.append(os.path.join(os.path.dirname(__file__), '../links_resolver'))
@@ -25,7 +29,19 @@ def parse_json(file_path):
 
 def clean_data(data):
     # TODO:: add clean json logic
-    return data
+    treksList = data["pageProps"]["trekInfoToSearch"]
+    print(f"Found {len(treksList)} treks")
+    outputTreks = []
+    URL = os.getenv('TARGET_URL')
+
+    for trekInfo in treksList:
+        outputTreks.append({
+            "title": trekInfo["title"],
+            "uuid": trekInfo["uid"],
+            "url": URL + "/" + trekInfo["uid"]
+        })
+
+    return outputTreks
 
 def save_json(data, output_file):
     with open(output_file, 'w', encoding='utf-8') as f:
@@ -37,10 +53,12 @@ def run_spider():
     process.start()
 
 def main(url, download_path, output_path):
-    downloaded_file = download_file(url, download_path)
-    print(f"File downloaded to {downloaded_file}")
+    # downloaded_file = download_file(url, download_path)
+    # print(f"File downloaded to {downloaded_file}")
 
-    data = parse_json(downloaded_file)
+    print("Skipping File Download")
+
+    data = parse_json("input.json")
     print("JSON file parsed")
 
     cleaned_data = clean_data(data)
@@ -52,8 +70,10 @@ def main(url, download_path, output_path):
 if __name__ == "__main__":
     url = "http://dog-api.kinduff.com/api/facts?number=5"
     download_path = "downloaded_file.json"
-    output_path = "cleaned_data.json"
+    output_path = "output.json"
 
     main(url, download_path, output_path)
 
-    run_spider()
+    parseToJson("https://indiahikes.com/bhrigu-lake", "bhrigu.json")
+
+    # run_spider()
