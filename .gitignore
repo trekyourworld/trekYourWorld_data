@@ -11,3 +11,4 @@ dist/
 input.json
 output.json
 .env
+*.json

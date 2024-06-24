@@ -251,3 +251,8 @@ Here’s a practical example of how you might work with `requirements.txt`:
     ```
 
 By following these practices, you ensure that your `requirements.txt` file stays up-to-date with the packages your project depends on, facilitating easier collaboration and deployment.
+
+
+### Commands
+
+python3 ./src/generator/main.py -org="" -input="" -output=""
