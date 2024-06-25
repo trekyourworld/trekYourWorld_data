@@ -36,16 +36,16 @@ def parse_json(file_path):
     return data
 
 def clean_data(org, data):
-    # TODO:: add clean json logic
-    outputTreks = []
+    outputTreks = {}
 
     if org == "IH":
         treksList = data["pageProps"]["trekInfoToSearch"]
         print(f"Found {len(treksList)} treks")
         URL = os.getenv('IH_URL')
-
+        IH_KEY = os.getenv('IH_KEY')
+        generatedTreks = []
         for trekInfo in treksList:
-            outputTreks.append({
+            generatedTreks.append({
                 "uuid": str(uuid.uuid4()),
                 "title": trekInfo["title"],
                 "uid": trekInfo["uid"],
@@ -58,12 +58,16 @@ def clean_data(org, data):
                 "bestTimeToTarget": "",
                 "tags": []
             })
+        outputTreks["org"] = IH_KEY
+        outputTreks["treks"] = generatedTreks
     elif org == "TTH":
         treksList = data
         print(f"Found {len(treksList)} treks")
         URL = os.getenv('TTH_URL')
+        TTH_KEY = os.getenv('TTH_KEY')
+        generatedTreks = []
         for trekInfo in treksList:
-            outputTreks.append({
+            generatedTreks.append({
                 "uuid": str(uuid.uuid4()),
                 "title": trekInfo["title"],
                 "uid": trekInfo["uid"],
@@ -76,6 +80,8 @@ def clean_data(org, data):
                 "bestTimeToTarget": "",
                 "tags": []
             })
+        outputTreks["org"] = TTH_KEY
+        outputTreks["treks"] = generatedTreks
 
     return outputTreks
 
@@ -92,17 +98,27 @@ def main(org, input_path, output_path):
     print("Skipping File Download")
     print(f"Performing the operation for {org}")
 
-    data = parse_json(input_path)
-    print("JSON file parsed")
+    orgs_list = org.split(",")
+    input_path_list = input_path.split(",")
 
-    cleaned_data = clean_data(org, data)
-    print("Data cleaned")
+    if len(orgs_list) is not len(input_path_list):
+        print("Please enter correct input")
+        print(f"Orgs: {orgs_list} should be equivalent to input paths provided: {input_path_list}")
+        exit(1)
+    
+    complied_output = []
+    for i in range(len(orgs_list)):
+        parsed_data = parse_json(input_path_list[i])
+        cleaned_data = clean_data(orgs_list[i], parsed_data)
+        # print(cleaned_data)
+        complied_output.append(cleaned_data)
 
-    save_json(cleaned_data, output_path)
+    save_json(complied_output, output_path)
     print(f"Cleaned data saved to {output_path}")
 
-    result = DBHandler.builk_upsert(cleaned_data, "title")
-    print(result)
+    db_handler = DBHandler(complied_output)
+    db_handler.insert_data()
+    # print(result)
 
     # links_list = get_all_links("https://trekthehimalayas.com/interest/trekking")
     # print("Parsed links list")
