@@ -109,10 +109,6 @@ def main(org, input_path, output_path):
     # db_handler.insert_data()
     # print(result)
 
-    # links_list = get_all_links("https://trekthehimalayas.com/interest/trekking")
-    # print("Parsed links list")
-    # print(links_list)
-
 if __name__ == "__main__":
     args=parser.parse_args()
 
