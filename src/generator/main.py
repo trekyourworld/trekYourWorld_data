@@ -2,11 +2,8 @@ import requests
 import json
 import argparse, sys
 import os
-from scrapy.crawler import CrawlerProcess
-from scrapy.utils.project import get_project_settings
 from dotenv import load_dotenv
 import uuid
-from scraper import parseToJson, get_all_links
 from db_handler import DBHandler
 
 load_dotenv()
@@ -19,8 +16,6 @@ parser.add_argument("--output", type=str, required=True, help="Output file for t
 
 # Ensure Scrapy project is in the Python path
 sys.path.append(os.path.join(os.path.dirname(__file__), '../links_resolver'))
-
-from links_resolver.spiders.example_spider import ExampleSpider
 
 def download_file(url, local_filename):
     with requests.get(url, stream=True) as r:
@@ -89,11 +84,6 @@ def save_json(data, output_file):
     with open(output_file, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
-def run_spider():
-    process = CrawlerProcess(get_project_settings())
-    process.crawl(ExampleSpider)
-    process.start()
-
 def main(org, input_path, output_path):
     print("Skipping File Download")
     print(f"Performing the operation for {org}")
@@ -110,7 +100,6 @@ def main(org, input_path, output_path):
     for i in range(len(orgs_list)):
         parsed_data = parse_json(input_path_list[i])
         cleaned_data = clean_data(orgs_list[i], parsed_data)
-        # print(cleaned_data)
         complied_output.append(cleaned_data)
 
     save_json(complied_output, output_path)
@@ -128,5 +117,3 @@ if __name__ == "__main__":
     args=parser.parse_args()
 
     main(args.org, args.input, args.output)
-
-    # run_spider()

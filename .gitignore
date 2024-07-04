@@ -8,7 +8,5 @@ build/
 dist/
 *.egg-info/
 
-input.json
-output.json
 .env
 *.json
