@@ -105,8 +105,8 @@ def main(org, input_path, output_path):
     save_json(complied_output, output_path)
     print(f"Cleaned data saved to {output_path}")
 
-    db_handler = DBHandler(complied_output)
-    db_handler.insert_data()
+    # db_handler = DBHandler(complied_output)
+    # db_handler.insert_data()
     # print(result)
 
     # links_list = get_all_links("https://trekthehimalayas.com/interest/trekking")

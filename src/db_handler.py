@@ -6,6 +6,8 @@ import ssl
 
 load_dotenv()
 
+# db script to sync data to db on invocation
+
 class DBHandler:
     def __init__(self, data):
         URI = os.getenv('DB_URI')
