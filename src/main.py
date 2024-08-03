@@ -34,7 +34,7 @@ def clean_data(org, data):
     outputTreks = {}
 
     if org == "IH":
-        treksList = data["pageProps"]["trekInfoToSearch"]
+        treksList = data
         print(f"Found {len(treksList)} treks")
         URL = os.getenv('IH_URL')
         IH_KEY = os.getenv('IH_KEY')
@@ -45,11 +45,11 @@ def clean_data(org, data):
                 "title": trekInfo["title"],
                 "uid": trekInfo["uid"],
                 "url": URL + "/" + trekInfo["uid"],
-                "elevation": "",
-                "duration": "",
-                "cost": "",
-                "difficulty": "",
-                "location": "",
+                "elevation": trekInfo["elevation"],
+                "duration": trekInfo["duration"],
+                "cost": trekInfo["cost"],
+                "difficulty": trekInfo["difficulty"],
+                "location": trekInfo["location"],
                 "bestTimeToTarget": "",
                 "tags": []
             })
@@ -67,11 +67,11 @@ def clean_data(org, data):
                 "title": trekInfo["title"],
                 "uid": trekInfo["uid"],
                 "url": URL + "/" + trekInfo["uid"],
-                "elevation": "",
-                "duration": "",
-                "cost": "",
-                "difficulty": "",
-                "location": "",
+                "elevation": trekInfo["elevation"],
+                "duration": trekInfo["duration"],
+                "cost": trekInfo["cost"],
+                "difficulty": trekInfo["difficulty"],
+                "location": trekInfo["location"],
                 "bestTimeToTarget": "",
                 "tags": []
             })
