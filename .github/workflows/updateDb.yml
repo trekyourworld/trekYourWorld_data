@@ -9,9 +9,17 @@ jobs:
     update-data:
         runs-on: ubuntu-latest
 
+        strategy:
+            matrix:
+              environment: [prod]
+
         steps:
             - name: Checkout repository
               uses: actions/checkout@v3
+            - name: Set environment variables based on environment
+              run: | 
+                echo "Running for Environment:: ${{ matrix.environment }}"
+                echo "ENVIRONMENT=${{ matrix.environment }}" >> $GITHUB_ENV
             - name: Set Up Python
               uses: actions/setup-python@v4
               with:
@@ -22,6 +30,8 @@ jobs:
                 pip install -r requirements.txt
             - name: Update DB
               env:
-                MONGO_URI: ${{ secrets.MONGO_URI }}
+                DB_URI: ${{ vars.DB_URI }}
+                DB_NAME: ${{ vars.DB_NAME }}
+                COLLECTION_NAME: ${{ vars.COLLECTION_NAME }}
               run: |
-                python ./src/main.py
+                python ./src/main.py --org="IH,TTH" --input="./data/ih.json,./data/tth.json" --output="output.json"
