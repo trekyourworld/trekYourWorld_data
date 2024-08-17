@@ -1,4 +1,3 @@
-import requests
 import json
 import argparse, sys
 import os
@@ -16,14 +15,6 @@ parser.add_argument("--output", type=str, required=True, help="Output file for t
 
 # Ensure Scrapy project is in the Python path
 sys.path.append(os.path.join(os.path.dirname(__file__), '../links_resolver'))
-
-def download_file(url, local_filename):
-    with requests.get(url, stream=True) as r:
-        r.raise_for_status()
-        with open(local_filename, 'wb') as f:
-            for chunk in r.iter_content(chunk_size=8192):
-                f.write(chunk)
-    return local_filename
 
 def parse_json(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
