@@ -1,0 +1,562 @@
+[
+    {
+        "title": "Ali Bedni Bugyal Trek",
+        "uid": "ali-bedni-bugyal-trek",
+        "elevation": "12,000",
+        "duration": "6",
+        "cost": "9,300",
+        "difficulty": ["easy", "moderate"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Annapurna Base Camp Trek",
+        "uid": "annapurna-base-camp-trek",
+        "elevation": "13,550",
+        "duration": "9",
+        "cost": "30,000",
+        "difficulty": ["moderate", "difficult"],
+        "location": "Nepal",
+        "tags": []
+    },
+    {
+        "title": "Auden's Col Expedition",
+        "uid": "audens-col-expedition",
+        "elevation": "18,000",
+        "duration": "15",
+        "cost": "90,000",
+        "difficulty": ["difficult"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Bagini Glacier & Changbang Base Camp",
+        "uid": "bagini-glacier-and-changbang-base-camp",
+        "elevation": "14,800",
+        "duration": "9",
+        "cost": "19,900",
+        "difficulty": ["moderate"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Bagji Bugyal Trek",
+        "uid": "BagjiBugyalTrek",
+        "elevation": "11,100",
+        "duration": "6",
+        "cost": "9,800",
+        "difficulty": ["easy"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Bali Pass Trek",
+        "uid": "bali-pass-trek",
+        "elevation": "16,200",
+        "duration": "8",
+        "cost": "21,000",
+        "difficulty": ["difficult"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Bhrigu Lake Trek",
+        "uid": "bhrigu-lake-trek",
+        "elevation": "14,000",
+        "duration": "4",
+        "cost": "7,500",
+        "difficulty": ["easy", "moderate"],
+        "location": "Himanchal Pradesh",
+        "tags": []
+    },
+    {
+        "title": "Black Peak Expedition",
+        "uid": "black-peak-expedition",
+        "elevation": "20,950",
+        "duration": "15",
+        "cost": "80,000",
+        "difficulty": ["difficult", "challenging"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Brahmatal Trek",
+        "uid": "brahmatal-trek",
+        "elevation": "12,250",
+        "duration": "6",
+        "cost": "9,500",
+        "difficulty": ["easy", "moderate"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Buran Ghati Trek",
+        "uid": "buran-ghati-pass-trek",
+        "elevation": "15,000",
+        "duration": "7",
+        "cost": "15,500",
+        "difficulty": ["moderate", "difficult"],
+        "location": "Himanchal Pradesh",
+        "tags": []
+    },
+    {
+        "title": "Chadar Trek Frozen River",
+        "uid": "chadar-trek",
+        "elevation": "11,100",
+        "duration": "8",
+        "cost": "26,500",
+        "difficulty": ["difficult"],
+        "location": "Ladakh",
+        "tags": []
+    },
+    {
+        "title": "Chopta Chandrashila Tungnath Trek with Deorital",
+        "uid": "chopta-chandrashila-deoria-tal-trek",
+        "elevation": "12,100",
+        "duration": "5",
+        "cost": "8,200",
+        "difficulty": ["easy", "moderate"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Dayara Bugyal Trek",
+        "uid": "dayara-bugyal-trek",
+        "elevation": "12,100",
+        "duration": "6",
+        "cost": "9,500",
+        "difficulty": ["easy"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Deo Tibba Peak Expedition",
+        "uid": "deo-tibba-expedition",
+        "elevation": "19,700",
+        "duration": "13",
+        "cost": "64,500",
+        "difficulty": ["difficult"],
+        "location": "Himanchal Pradesh",
+        "tags": []
+    },
+    {
+        "title": "Deoban Weekend Trek",
+        "uid": "deoban-trek",
+        "elevation": "9,850",
+        "duration": "2",
+        "cost": "3,600",
+        "difficulty": ["easy", "moderate"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Dodital Darwa Pass Trek",
+        "uid": "dodital-darwa-pass-trek",
+        "elevation": "11,400",
+        "duration": "7",
+        "cost": "11,400",
+        "difficulty": ["easy", "moderate"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Doodhpathri Trek",
+        "uid": "doodhpathri-Trek",
+        "elevation": "13,060",
+        "duration": "7",
+        "cost": "14,800",
+        "difficulty": ["moderate", "difficult"],
+        "location": "Jammu and Kashmir",
+        "tags": []
+    },
+    {
+        "title": "Dzo Jongo Peak Trek Expedition",
+        "uid": "dzo-jongo-peak",
+        "elevation": "20,500",
+        "duration": "9",
+        "cost": "32,500",
+        "difficulty": ["difficult"],
+        "location": "Ladakh",
+        "tags": []
+    },
+    {
+        "title": "Everest Base Camp Trek",
+        "uid": "everest-base-camp-trek",
+        "elevation": "18,200",
+        "duration": "13",
+        "cost": "67,000",
+        "difficulty": ["difficult"],
+        "location": "Nepal",
+        "tags": []
+    },
+    {
+        "title": "Friendship Peak Expedition",
+        "uid": "friendship-peak-expedition",
+        "elevation": "17,345",
+        "duration": "7",
+        "cost": "36,000",
+        "difficulty": ["difficult"],
+        "location": "Himanchal Pradesh",
+        "tags": []
+    },
+    {
+        "title": "Gaumukh Tapovan Trek",
+        "uid": "gaumukh-tapovan-trek",
+        "elevation": "14,600",
+        "duration": "8",
+        "cost": "16,400",
+        "difficulty": ["moderate", "difficult"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Goechala Trek",
+        "uid": "goechala-trek",
+        "elevation": "15,100",
+        "duration": "11",
+        "cost": "16,400",
+        "difficulty": ["moderate", "difficult"],
+        "location": "Sikkim",
+        "tags": []
+    },
+    {
+        "title": "Hampta Pass Trek",
+        "uid": "hampta-pass-trek",
+        "elevation": "14,100",
+        "duration": "5",
+        "cost": "11,500",
+        "difficulty": ["easy", "moderate"],
+        "location": "Himanchal Pradesh",
+        "tags": []
+    },
+    {
+        "title": "Har Ki Doon Trek",
+        "uid": "har-ki-doon-trek",
+        "elevation": "12,000",
+        "duration": "7",
+        "cost": "12,500",
+        "difficulty": ["easy", "moderate"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Kanamo Peak Trek Expedition",
+        "uid": "kanamo-peak",
+        "elevation": "19,553",
+        "duration": "7",
+        "cost": "13,400",
+        "difficulty": ["difficult"],
+        "location": "Himanchal Pradesh",
+        "tags": []
+    },
+    {
+        "title": "Kang Yatse II Peak Trek Expedition",
+        "uid": "kang-yatse-ii",
+        "elevation": "20,500",
+        "duration": "10",
+        "cost": "45,000",
+        "difficulty": ["difficult"],
+        "location": "Ladakh",
+        "tags": []
+    },
+    {
+        "title": "Kareri Lake Trek",
+        "uid": "kareri-lake-trek",
+        "elevation": "9,650",
+        "duration": "3",
+        "cost": "5,500",
+        "difficulty": ["easy", "moderate"],
+        "location": "Himanchal Pradesh",
+        "tags": []
+    },
+    {
+        "title": "Kashmir Great Lakes Trek",
+        "uid": "kashmir-great-lakes-trek",
+        "elevation": "13,750",
+        "duration": "8",
+        "cost": "17,300",
+        "difficulty": ["moderate", "difficult"],
+        "location": "Jammu and Kashmir",
+        "tags": []
+    },
+    {
+        "title": "Kedar Tal Trek",
+        "uid": "kedar-tal-trek",
+        "elevation": "15,500",
+        "duration": "7",
+        "cost": "16,000",
+        "difficulty": ["difficult"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Kedarkantha Peak Trek",
+        "uid": "kedarkantha-trek",
+        "elevation": "12,500",
+        "duration": "6",
+        "cost": "9,500",
+        "difficulty": ["easy", "moderate"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Khopra Ridge",
+        "uid": "KhopraRidge",
+        "elevation": "15,650",
+        "duration": "9",
+        "cost": "30,000",
+        "difficulty": ["moderate"],
+        "location": "Nepal",
+        "tags": []
+    },
+    {
+        "title": "Kilimanjaro Peak Trek Expedition",
+        "uid": "kilimanjaro-expedition",
+        "elevation": "19,341",
+        "duration": "9",
+        "cost": "1,80,000",
+        "difficulty": ["moderate", "difficult"],
+        "location": "Tanzania",
+        "tags": []
+    },
+    {
+        "title": "Markha Valley Trek",
+        "uid": "markha-valley-trek",
+        "elevation": "17,100",
+        "duration": "7",
+        "cost": "22,500",
+        "difficulty": ["moderate", "difficult"],
+        "location": "Ladakh",
+        "tags": []
+    },
+    {
+        "title": "Mera Peak Expedition",
+        "uid": "Mera-Peak-Expedition",
+        "elevation": "21,247",
+        "duration": "14",
+        "cost": "1,75,000",
+        "difficulty": ["challenging"],
+        "location": "Nepal",
+        "tags": []
+    },
+    {
+        "title": "Nafran Valley Trek",
+        "uid": "nafran-valley-trek",
+        "elevation": "13,800",
+        "duration": "7",
+        "cost": "15,450",
+        "difficulty": ["moderate", "difficult"],
+        "location": "Jammu and Kashmir",
+        "tags": []
+    },
+    {
+        "title": "Nag Tibba Weekend Trek",
+        "uid": "nag-tibba-trek",
+        "elevation": "9,900",
+        "duration": "2",
+        "cost": "2,200",
+        "difficulty": ["easy"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Pangarchulla Peak Trek",
+        "uid": "pangarchulla-peak-trek",
+        "elevation": "15,100",
+        "duration": "7",
+        "cost": "11,800",
+        "difficulty": ["moderate"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Panwali Kantha Trek",
+        "uid": "panwali-kantha",
+        "elevation": "10,800",
+        "duration": "5",
+        "cost": "12,300",
+        "difficulty": ["moderate"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Phulara Ridge Trek",
+        "uid": "phulara-ridge-trek",
+        "elevation": "12,150",
+        "duration": "6",
+        "cost": "9,500",
+        "difficulty": ["easy", "moderate"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Pin Bhaba Pass Trek",
+        "uid": "pin-bhaba-pass-trek",
+        "elevation": "16,100",
+        "duration": "8",
+        "cost": "16,300",
+        "difficulty": ["moderate"],
+        "location": "Himanchal Pradesh",
+        "tags": []
+    },
+    {
+        "title": "Pin Parvati Pass Trek",
+        "uid": "pin-parvati-pass-trek",
+        "elevation": "17,500",
+        "duration": "11",
+        "cost": "45,000",
+        "difficulty": ["difficult"],
+        "location": "Himanchal Pradesh",
+        "tags": []
+    },
+    {
+        "title": "Pindari Glacier Trek",
+        "uid": "pindari-glacier-trek",
+        "elevation": "12,300",
+        "duration": "6",
+        "cost": "14,500",
+        "difficulty": ["moderate"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Pir Ki Gali / Girjan Valley Trek",
+        "uid": "girjan-valley-trek",
+        "elevation": "11,450",
+        "duration": "6",
+        "cost": "20,000",
+        "difficulty": ["easy", "moderate"],
+        "location": "Jammu and Kashmir",
+        "tags": []
+    },
+    {
+        "title": "Ranthan Kharak Trek",
+        "uid": "ranthan-kharak-trek",
+        "elevation": "12,887",
+        "duration": "7",
+        "cost": "9,500",
+        "difficulty": ["easy", "moderate"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Roopkund Trek",
+        "uid": "roopkund-trek",
+        "elevation": "15,696",
+        "duration": "8",
+        "cost": "13,700",
+        "difficulty": ["moderate", "difficult"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Rudragaira Peak Expedition",
+        "uid": "rudugaira-peak-expedition",
+        "elevation": "19,086",
+        "duration": "13",
+        "cost": "38,000",
+        "difficulty": ["difficult"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Rupin Pass Trek",
+        "uid": "rupin-pass-trek",
+        "elevation": "15,350",
+        "duration": "7",
+        "cost": "15,500",
+        "difficulty": ["moderate", "difficult"],
+        "location": "Himanchal Pradesh",
+        "tags": []
+    },
+    {
+        "title": "Sandakphu Trek",
+        "uid": "sandakphu-trek",
+        "elevation": "12,000",
+        "duration": "7",
+        "cost": "12,300",
+        "difficulty": ["moderate"],
+        "location": "West Bengal",
+        "tags": []
+    },
+    {
+        "title": "Sar Pass Trek",
+        "uid": "sar-pass-trek",
+        "elevation": "13,800",
+        "duration": "5",
+        "cost": "11,300",
+        "difficulty": ["moderate"],
+        "location": "Himanchal Pradesh",
+        "tags": []
+    },
+    {
+        "title": "Satopanth Lake Trek",
+        "uid": "Satopanth-Lake-Trek",
+        "elevation": "14,400",
+        "duration": "6",
+        "cost": "19,400",
+        "difficulty": ["moderate"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Stok Kangri Peak Trek Expedition",
+        "uid": "stok-kangri-trek",
+        "elevation": "20,180",
+        "duration": "9",
+        "cost": "37,000",
+        "difficulty": ["difficult"],
+        "location": "Ladakh",
+        "tags": []
+    },
+    {
+        "title": "Tarsar Marsar Trek",
+        "uid": "tarsar-marsar-trek",
+        "elevation": "13,500",
+        "duration": "7",
+        "cost": "14,900",
+        "difficulty": ["moderate"],
+        "location": "Jammu and Kashmir",
+        "tags": []
+    },
+    {
+        "title": "Twin Peak - Kang Yatse II, Dzo Jongo, Markha Valley Trek",
+        "uid": "Twin-Peak-Kang-Yatse-II-Dzo-Jongo-Markha-Velly-Trek",
+        "elevation": "20,500",
+        "duration": "13",
+        "cost": "64,500",
+        "difficulty": ["difficult"],
+        "location": "Ladakh",
+        "tags": []
+    },
+    {
+        "title": "Valley of Flowers Trek",
+        "uid": "valley-of-flowers-trek",
+        "elevation": "14,100",
+        "duration": "6",
+        "cost": "12,000",
+        "difficulty": ["easy", "moderate"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Winter Kuari Pass Trek",
+        "uid": "winter-kuari-pass-trek",
+        "elevation": "12,750",
+        "duration": "6",
+        "cost": "9,500",
+        "difficulty": ["moderate"],
+        "location": "Uttarakhand",
+        "tags": []
+    },
+    {
+        "title": "Yunam Peak Trek Expedition",
+        "uid": "yunam-peak-expedition",
+        "elevation": "20,100",
+        "duration": "8",
+        "cost": "28,900",
+        "difficulty": ["difficult"],
+        "location": "Himanchal Pradesh",
+        "tags": []
+    }
+]
