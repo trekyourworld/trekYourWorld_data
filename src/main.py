@@ -28,6 +28,7 @@ def clean_data(org, data):
         treksList = data
         print(f"Found {len(treksList)} treks")
         URL = os.getenv('IH_URL')
+        print(URL)
         IH_KEY = os.getenv('IH_KEY')
         generatedTreks = []
         for trekInfo in treksList:

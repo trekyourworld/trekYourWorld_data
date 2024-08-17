@@ -29,5 +29,10 @@ jobs:
                 python -m pip install --upgrade pip
                 pip install -r requirements.txt
             - name: Update DB
+              env:
+                IH_URL: ${{ vars.IH_URL }}
+                IH_KEY: ${{ vars.IH_KEY }}
+                TTH_URL: ${{ vars.TTH_URL }}
+                TTH_KEY: ${{ vars.TTH_KEY }}
               run: |
                 python src/main.py --org="IH,TTH" --input="./data/ih.json,./data/tth.json" --output="output.json"
