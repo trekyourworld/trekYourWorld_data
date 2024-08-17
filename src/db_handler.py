@@ -1,8 +1,6 @@
 import os
 from pymongo import MongoClient, UpdateOne
-from pymongo.server_api import ServerApi
 from dotenv import load_dotenv
-import ssl
 
 load_dotenv()
 
