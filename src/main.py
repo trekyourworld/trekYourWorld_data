@@ -28,7 +28,6 @@ def clean_data(org, data):
         treksList = data
         print(f"Found {len(treksList)} treks")
         URL = os.getenv('IH_URL')
-        print(URL)
         IH_KEY = os.getenv('IH_KEY')
         generatedTreks = []
         for trekInfo in treksList:
@@ -95,7 +94,7 @@ def main(org, input_path, output_path):
         complied_output.append(cleaned_data)
 
     save_json(complied_output, output_path)
-    print(f"Cleaned data saved to {output_path}")
+    print(json.dumps(complied_output))
 
     # db_handler = DBHandler(complied_output)
     # db_handler.insert_data()
