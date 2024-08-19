@@ -94,10 +94,9 @@ def main(org, input_path, output_path):
         complied_output.append(cleaned_data)
 
     save_json(complied_output, output_path)
-    print(json.dumps(complied_output))
 
-    # db_handler = DBHandler(complied_output)
-    # db_handler.insert_data()
+    db_handler = DBHandler(complied_output)
+    db_handler.update_data()
     # print(result)
 
 if __name__ == "__main__":

@@ -24,6 +24,26 @@ class DBHandler:
             result = self.collection.insert_one(document)
             print(f"Document inserted with ID: {result.inserted_id}")
 
+    def update_data(self):
+        for trek_data in self.input_data:
+            updated_document = { "treks": trek_data["treks"]}
+            result = self.collection.update_one(
+                {"org": trek_data["org"]},
+                { 
+                    "$set": updated_document,
+                    "$setOnInsert": { "org": trek_data["org"] }  # Ensures that 'org' is set if the document is inserted
+                },
+                upsert=True  # This enables the upsert behavior
+            )
+        
+        # Check if the document was updated or inserted
+        if result.matched_count > 0:
+            print("Update successful.")
+        elif result.upserted_id:
+            print(f"New document inserted with id: {result.upserted_id}")
+        else:
+            print("No operation performed.")
+
     def builk_upsert(self, data, unique_key):
         operations = [
             UpdateOne(
