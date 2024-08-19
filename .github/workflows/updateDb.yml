@@ -28,5 +28,8 @@ jobs:
                 IH_KEY: ${{ vars.IH_KEY }}
                 TTH_URL: ${{ vars.TTH_URL }}
                 TTH_KEY: ${{ vars.TTH_KEY }}
+                DB_NAME: ${{ secrets.DB_NAME }}
+                DB_URI: ${{ secrets.DB_URI }}
+                COLLECTION_NAME: ${{ secrets.COLLECTION_NAME }}
               run: |
                 python src/main.py --org="IH,TTH" --input="./data/ih.json,./data/tth.json" --output="output.json"
