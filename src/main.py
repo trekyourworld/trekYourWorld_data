@@ -67,7 +67,7 @@ def clean_data(org, data):
             })
         outputTreks["org"] = TTH_KEY
         outputTreks["treks"] = generatedTreks
-    elif org == "":
+    elif org == "BKT":
         print(f"Found {len(treksList)} treks")
         URL = os.getenv('BKT_URL')
         TTH_KEY = os.getenv('BKT_KEY')
