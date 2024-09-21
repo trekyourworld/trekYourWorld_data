@@ -23,9 +23,9 @@ def parse_json(file_path):
 
 def clean_data(org, data):
     outputTreks = {}
+    treksList = data
 
     if org == "IH":
-        treksList = data
         print(f"Found {len(treksList)} treks")
         URL = os.getenv('IH_URL')
         IH_KEY = os.getenv('IH_KEY')
@@ -47,7 +47,6 @@ def clean_data(org, data):
         outputTreks["org"] = IH_KEY
         outputTreks["treks"] = generatedTreks
     elif org == "TTH":
-        treksList = data
         print(f"Found {len(treksList)} treks")
         URL = os.getenv('TTH_URL')
         TTH_KEY = os.getenv('TTH_KEY')
@@ -67,6 +66,28 @@ def clean_data(org, data):
                 "tags": []
             })
         outputTreks["org"] = TTH_KEY
+        outputTreks["treks"] = generatedTreks
+    elif org == "":
+        print(f"Found {len(treksList)} treks")
+        URL = os.getenv('BKT_URL')
+        TTH_KEY = os.getenv('BKT_KEY')
+        generatedTreks = []
+        for trekInfo in treksList:
+            generatedTreks.append({
+                "uuid": str(uuid.uuid4()),
+                "title": trekInfo["title"],
+                "uid": trekInfo["uid"],
+                "url": URL + "/" + trekInfo["uid"],
+                "elevation": trekInfo["elevation"],
+                "duration": trekInfo["duration"],
+                "cost": trekInfo["cost"],
+                "difficulty": trekInfo["difficulty"],
+                "location": trekInfo["location"],
+                "distance": trekInfo["distance"],
+                "bestTimeToTarget": "",
+                "tags": []
+            })
+        outputTreks["org"] = BKT_KEY
         outputTreks["treks"] = generatedTreks
 
     return outputTreks
