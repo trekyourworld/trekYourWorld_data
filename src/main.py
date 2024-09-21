@@ -70,7 +70,7 @@ def clean_data(org, data):
     elif org == "BKT":
         print(f"Found {len(treksList)} treks")
         URL = os.getenv('BKT_URL')
-        TTH_KEY = os.getenv('BKT_KEY')
+        BKT_KEY = os.getenv('BKT_KEY')
         generatedTreks = []
         for trekInfo in treksList:
             generatedTreks.append({
