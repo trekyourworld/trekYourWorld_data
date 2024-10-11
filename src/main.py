@@ -41,6 +41,7 @@ def clean_data(org, data):
                 "cost": trekInfo["cost"],
                 "difficulty": trekInfo["difficulty"],
                 "location": trekInfo["location"],
+                "distance": trekInfo["distance"],
                 "bestTimeToTarget": "",
                 "tags": []
             })
@@ -62,6 +63,7 @@ def clean_data(org, data):
                 "cost": trekInfo["cost"],
                 "difficulty": trekInfo["difficulty"],
                 "location": trekInfo["location"],
+                "distance": trekInfo["distance"],
                 "bestTimeToTarget": "",
                 "tags": []
             })

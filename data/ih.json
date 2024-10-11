@@ -7,6 +7,7 @@
         "cost": "47,500",
         "difficulty": ["moderate", "difficult"],
         "location": "Kyrgyzstan",
+        "distance": "",
         "tags": [
             "Karakol",
             "July",
@@ -29,6 +30,7 @@
         "cost": "10,395",
         "difficulty": ["moderate"],
         "location": "Uttarakhand",
+        "distance": "",
         "tags": [
             "June",
             "uttarakhand",
@@ -59,6 +61,7 @@
         "cost": "49,500",
         "difficulty": ["moderate", "difficult"],
         "location": "Georgia",
+        "distance": "",
         "tags": [
             "July",
             "Monsoon",
@@ -79,6 +82,7 @@
         "cost": "16,950",
         "difficulty": ["difficult"],
         "location": "Uttarakhand",
+        "distance": "",
         "tags": [
             "June",
             "uttarakhand",
@@ -98,6 +102,7 @@
         "cost": "7,950",
         "difficulty": ["moderate"],
         "location": "Himanchal Pradesh",
+        "distance": "",
         "tags": [
             "Difficulty",
             "Monsoon (Jul, Aug, Mid-Sep)",
@@ -118,6 +123,7 @@
         "cost": "7,950",
         "difficulty": ["moderate"],
         "location": "Himanchal Pradesh",
+        "distance": "",
         "tags": [
             "Manali",
             "July",
@@ -139,6 +145,7 @@
         "cost": "4,450",
         "difficulty": ["easy"],
         "location": "Himanchal Pradesh",
+        "distance": "",
         "tags": [
             "Manali",
             "Easy",
@@ -157,6 +164,7 @@
         "cost": "15,450",
         "difficulty": ["moderate", "difficult"],
         "location": "Jammu and Kashmir",
+        "distance": "",
         "tags": [
             "Jammu and Kashmir",
             "July",
@@ -175,6 +183,7 @@
         "cost": "10,945",
         "difficulty": ["easy", "moderate"],
         "location": "Uttarakhand",
+        "distance": "",
         "tags": [
             "January",
             "February",
@@ -206,6 +215,7 @@
         "cost": "13,950",
         "difficulty": ["moderate"],
         "location": "Jammu and Kashmir",
+        "distance": "",
         "tags": [
             "Jammu and Kashmir",
             "june",
@@ -222,6 +232,7 @@
         "cost": "15,750",
         "difficulty": ["moderate", "difficult"],
         "location": "Himanchal Pradesh",
+        "distance": "",
         "tags": [
             "June",
             "Summer (May, Jun)",
@@ -242,6 +253,7 @@
         "cost": "9,850",
         "difficulty": ["moderate"],
         "location": "Himanchal Pradesh",
+        "distance": "",
         "tags": [
             "Himanchal trek",
             "Monsoon trek",
@@ -260,6 +272,7 @@
         "cost": "16,650",
         "difficulty": ["difficult"],
         "location": "Sikkim",
+        "distance": "",
         "tags": [
             "Spring",
             "Autumn",
@@ -279,6 +292,7 @@
         "cost": "9,845",
         "difficulty": ["easy", "moderate"],
         "location": "Uttarakhand",
+        "distance": "",
         "tags": [
             "Dayara Bugyal",
             "January",
@@ -311,6 +325,7 @@
         "cost": "11,450",
         "difficulty": ["easy", "moderate"],
         "location": "Uttarakhand",
+        "distance": "",
         "tags": [
             "Easy-moderate",
             "January",
@@ -341,6 +356,7 @@
         "cost": "28,950",
         "difficulty": ["difficult"],
         "location": "Nepal",
+        "distance": "",
         "tags": [
             "7+-days",
             "Spring",
@@ -360,6 +376,7 @@
         "cost": "59,650",
         "difficulty": ["difficult"],
         "location": "Nepal",
+        "distance": "",
         "tags": [
             "Lukla",
             "Himalaya",
@@ -385,6 +402,7 @@
         "cost": "16,450",
         "difficulty": ["moderate", "difficult"],
         "location": "Uttarakhand",
+        "distance": "",
         "tags": [
             "June",
             "Summer (May, Jun)",
@@ -403,6 +421,7 @@
         "cost": "13,950",
         "difficulty": ["moderate", "difficult"],
         "location": "Uttarakhand",
+        "distance": "",
         "tags": [
             "June",
             "Uttarakhand",
@@ -421,6 +440,7 @@
         "cost": "16,650",
         "difficulty": ["moderate", "difficult"],
         "location": "Sikkim",
+        "distance": "",
         "tags": [
             "Samiti Lake",
             "Kanchenjunga",
@@ -444,6 +464,7 @@
         "cost": "16,750",
         "difficulty": ["moderate"],
         "location": "Jammu and Kashmir",
+        "distance": "",
         "tags": [
             "Jammu and Kashmir",
             "July",
@@ -461,6 +482,7 @@
         "cost": "11,450",
         "difficulty": ["moderate"],
         "location": "Himanchal Pradesh",
+        "distance": "",
         "tags": [
             "Manali",
             "July",
@@ -485,6 +507,7 @@
         "cost": "12,950",
         "difficulty": ["moderate"],
         "location": "Uttarakhand",
+        "distance": "",
         "tags": [
             "Uttarkashi",
             "Himalaya",
@@ -512,6 +535,7 @@
         "cost": "17,450",
         "difficulty": ["moderate", "difficult"],
         "location": "Jammu and Kashmir",
+        "distance": "",
         "tags": [
             "Jammu and Kashmir",
             "July",
@@ -531,6 +555,7 @@
         "cost": "10,725",
         "difficulty": ["easy", "moderate"],
         "location": "Uttarakhand",
+        "distance": "",
         "tags": [
             "January",
             "February",
@@ -559,6 +584,7 @@
         "cost": "14,700",
         "difficulty": ["difficult"],
         "location": "Uttarakhand",
+        "distance": "",
         "tags": [
             "June",
             "Summer (May, Jun)",
@@ -577,6 +603,7 @@
         "cost": "32,450",
         "difficulty": ["moderate", "difficult"],
         "location": "Nepal",
+        "distance": "",
         "tags": [
             "Macchapucchare",
             "Kathmandu",
@@ -604,6 +631,7 @@
         "cost": "10,725",
         "difficulty": ["moderate"],
         "location": "Uttarakhand",
+        "distance": "",
         "tags": [
             "February",
             "Beginner",
@@ -635,6 +663,7 @@
         "cost": "12,950",
         "difficulty": ["moderate"],
         "location": "Himanchal Pradesh",
+        "distance": "",
         "tags": [
             "Monsoon (Jul, Aug, Mid-Sep)",
             "Himanchal Pradesh",
@@ -655,6 +684,7 @@
         "cost": "1,80,000",
         "difficulty": ["difficult"],
         "location": "Tanzania",
+        "distance": "",
         "tags": [
             "Moshi",
             "August",
@@ -686,6 +716,7 @@
         "cost": "39,750",
         "difficulty": ["difficult"],
         "location": "Bali",
+        "distance": "",
         "tags": [
             "Lombok",
             "August",
@@ -705,6 +736,7 @@
         "cost": "15,450",
         "difficulty": ["moderate", "difficult"],
         "location": "Jammu and Kashmir",
+        "distance": "",
         "tags": [
             "Monsoon (Jul, Aug, Mid-Sep)",
             "Monsoon",
@@ -726,6 +758,7 @@
         "cost": "3,450",
         "difficulty": ["moderate"],
         "location": "Uttarakhand",
+        "distance": "",
         "tags": [
             "January",
             "February",
@@ -753,6 +786,7 @@
         "cost": "12,450",
         "difficulty": ["difficult"],
         "location": "Uttarakhand",
+        "distance": "",
         "tags": [
             "Tapoban",
             "Nanda Devi",
@@ -772,6 +806,7 @@
         "cost": "10,750",
         "difficulty": ["moderate"],
         "location": "Uttarakhand",
+        "distance": "",
         "tags": [
             "June",
             "uttarakhand",
@@ -794,6 +829,7 @@
         "cost": "17,950",
         "difficulty": ["difficult"],
         "location": "Himanchal Pradesh",
+        "distance": "",
         "tags": [
             "July",
             "August",
@@ -814,6 +850,7 @@
         "cost": "14,450",
         "difficulty": ["moderate", "difficult"],
         "location": "Jammu and Kashmir",
+        "distance": "",
         "tags": [
             "alpine lakes",
             "trekking in Poonch",
@@ -835,6 +872,7 @@
         "cost": "9,450",
         "difficulty": ["moderate"],
         "location": "Uttarakhand",
+        "distance": "",
         "tags": [
             "Treks in kumaon",
             "June",
@@ -856,6 +894,7 @@
         "cost": "15,750",
         "difficulty": ["moderate", "difficult"],
         "location": "Himanchal Pradesh",
+        "distance": "",
         "tags": [
             "Himanchal Pradesh",
             "Moderate - Difficult",
@@ -878,6 +917,7 @@
         "cost": "12,950",
         "difficulty": ["moderate"],
         "location": "Sikkim",
+        "distance": "",
         "tags": [
             "January",
             "February",
@@ -906,6 +946,7 @@
         "cost": "11,950",
         "difficulty": ["moderate"],
         "location": "Uttarakhand",
+        "distance": "",
         "tags": [
             "snow",
             "July",
@@ -933,6 +974,7 @@
         "cost": "14,950",
         "difficulty": ["moderate"],
         "location": "Jammu and Kashmir",
+        "distance": "",
         "tags": [
             "Jammu and Kashmir",
             "July",
@@ -952,6 +994,7 @@
         "cost": "11,450",
         "difficulty": ["moderate"],
         "location": "Jammu and Kashmir",
+        "distance": "",
         "tags": [
             "Jammu and Kashmir",
             "July",
@@ -978,6 +1021,7 @@
         "cost": "11,950",
         "difficulty": ["moderate"],
         "location": "Uttarakhand",
+        "distance": "",
         "tags": [
             "July",
             "UNESCO World Heritage Site",
@@ -996,6 +1040,7 @@
         "cost": "19,750",
         "difficulty": ["difficult"],
         "location": "Jammu and Kashmir",
+        "distance": "",
         "tags": [
             "Jammu and Kashmir",
             "July",
