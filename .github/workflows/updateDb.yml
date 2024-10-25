@@ -34,4 +34,4 @@ jobs:
                 DB_URI: ${{ secrets.DB_URI }}
                 COLLECTION_NAME: ${{ secrets.COLLECTION_NAME }}
               run: |
-                python src/main.py --org="IH,TTH,BKT" --input="./data/ih.json,./data/tth.json,./data/bkt.json" --output="output.json"
+                python src/main.py --output="output.json"
