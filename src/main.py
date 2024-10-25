@@ -21,7 +21,7 @@ def parse_json(file_path):
         data = json.load(f)
     return data
 
-def clean_data(org, data):
+def clean_data(data):
     outputTreks = {}
     treksData = data
     
