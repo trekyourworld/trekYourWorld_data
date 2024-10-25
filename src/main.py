@@ -29,7 +29,7 @@ def clean_data(data):
     URL = treksData["meta"]["baseURL"]
     KEY = treksData["meta"]["key"]
     generatedTreks = []
-    for trekInfo in treksData.list:
+    for trekInfo in treksData["list"]:
         generatedTreks.append({
             "uuid": str(uuid.uuid4()),
             "title": trekInfo["title"],
