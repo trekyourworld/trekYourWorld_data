@@ -1,0 +1,747 @@
+{
+    "meta": {
+        "name": "TrekupIndia",
+        "key": "trek_up_india",
+        "baseURL": "https://www.trekupindia.com/"
+    },
+    "list": [
+        {
+            "title": "Ali Bedni Bugyal Trek",
+            "uid": "ali-bedni-bugyal-trek",
+            "elevation": "12,557",
+            "duration": "6",
+            "cost": "8,450",
+            "difficulty": [
+                "easy",
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "30",
+            "tags": []
+        },
+        {
+            "title": "Brahmatal Trek",
+            "uid": "brahmatal-trek",
+            "elevation": "12,250",
+            "duration": "6",
+            "cost": "6,380",
+            "difficulty": [
+                "easy",
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "30",
+            "tags": []
+        },
+        {
+            "title": "Bhrigu Lake Trek",
+            "uid": "bhrigu-lake-trek",
+            "elevation": "14,000",
+            "duration": "4",
+            "cost": "6,980",
+            "difficulty": [
+                "easy",
+                "moderate"
+            ],
+            "location": "Himanchal Pradesh",
+            "distance": "29",
+            "tags": []
+        },
+        {
+            "title": "Chopta Chandrashila Tungnath Trek with Deorital",
+            "uid": "chopta-chandrashilla-tungnath-trek",
+            "elevation": "12,100",
+            "duration": "5",
+            "cost": "7,450",
+            "difficulty": [
+                "easy",
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "30",
+            "tags": []
+        },
+        {
+            "title": "Har Ki Dun Trek",
+            "uid": "har-ki-dun-trek",
+            "elevation": "12,000",
+            "duration": "7",
+            "cost": "9,499",
+            "difficulty": [
+                "easy",
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "50",
+            "tags": []
+        },
+        {
+            "title": "Hampta Pass Trek",
+            "uid": "hampta-pass-trek",
+            "elevation": "14,000",
+            "duration": "5",
+            "cost": "7,950",
+            "difficulty": [
+                "easy",
+                "moderate"
+            ],
+            "location": "Himanchal Pradesh",
+            "distance": "35",
+            "tags": []
+        },
+        {
+            "title": "Kedarkantha Trek",
+            "uid": "kedarkantha-trek",
+            "elevation": "12,500",
+            "duration": "6",
+            "cost": "5,999",
+            "difficulty": [
+                "easy",
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "23",
+            "tags": []
+        },
+        {
+            "title": "Kuari Pass Trek",
+            "uid": "kuari-pass-trek",
+            "elevation": "13,750",
+            "duration": "6",
+            "cost": "8,350",
+            "difficulty": [
+                "easy",
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "30",
+            "tags": []
+        },
+        {
+            "title": "Marchoi Trek",
+            "uid": "marchoi-trek",
+            "elevation": "10,500",
+            "duration": "4",
+            "cost": "7,950",
+            "difficulty": [
+                "easy",
+                "moderate"
+            ],
+            "location": "Jammu and Kashmir",
+            "distance": "16",
+            "tags": []
+        },
+        {
+            "title": "Phulara Ridge Trek",
+            "uid": "phulara-ridge-trek",
+            "elevation": "12,250",
+            "duration": "6",
+            "cost": "8,499",
+            "difficulty": [
+                "easy",
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "30",
+            "tags": []
+        },
+        {
+            "title": "Valley Of Flowers Trek",
+            "uid": "valley-of-flowers-trek",
+            "elevation": "14,100",
+            "duration": "6",
+            "cost": "8,250",
+            "difficulty": [
+                "easy",
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "41",
+            "tags": []
+        },
+        {
+            "title": "Sar Pass Trek",
+            "uid": "sar-pass-trek",
+            "elevation": "13,797",
+            "duration": "5",
+            "cost": "7,980",
+            "difficulty": [
+                "easy",
+                "moderate"
+            ],
+            "location": "Himanchal Pradesh",
+            "distance": "28",
+            "tags": []
+        },
+        {
+            "title": "Chandrakhani Pass Trek",
+            "uid": "chandrakhani-pass-trek",
+            "elevation": "12,180",
+            "duration": "8",
+            "cost": "9,850",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Himanchal Pradesh",
+            "distance": "22",
+            "tags": []
+        },
+        {
+            "title": "Gurez Valley Trek",
+            "uid": "gurez-valley-trek",
+            "elevation": "13,185",
+            "duration": "6",
+            "cost": "18,980",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Jammu and Kashmir",
+            "distance": "38",
+            "tags": []
+        },
+        {
+            "title": "Nafran Valley Trek",
+            "uid": "nafran-valley-trek",
+            "elevation": "11,270",
+            "duration": "7",
+            "cost": "13,450",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Jammu and Kashmir",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "Tarsar Marsar Trek",
+            "uid": "tarsar-marsar-trek",
+            "elevation": "13,498",
+            "duration": "7",
+            "cost": "14,480",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Jammu and Kashmir",
+            "distance": "49",
+            "tags": []
+        },
+        {
+            "title": "Bodpathri Lakes Trek",
+            "uid": "bodpathri-lakes-trek",
+            "elevation": "13,098",
+            "duration": "7",
+            "cost": "15,250",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Jammu and Kashmir",
+            "distance": "45",
+            "tags": []
+        },
+        {
+            "title": "Gaumukh Tapovan Trek",
+            "uid": "gaumukh-tapovan-trek",
+            "elevation": "14,200",
+            "duration": "8",
+            "cost": "15,450",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "40",
+            "tags": []
+        },
+        {
+            "title": "Pangarchulla Peak Trek",
+            "uid": "pangarchulla",
+            "elevation": "15,000",
+            "duration": "7",
+            "cost": "10,350",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "47",
+            "tags": []
+        },
+        {
+            "title": "Miyar Valley Trek",
+            "uid": "miyar-valley-trek",
+            "elevation": "14,599",
+            "duration": "8",
+            "cost": "18,450",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Himanchal Pradesh",
+            "distance": "60",
+            "tags": []
+        },
+        {
+            "title": "Chadar Trek",
+            "uid": "chadar-trek",
+            "elevation": "11,100",
+            "duration": "9",
+            "cost": "24,980",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Ladakh",
+            "distance": "61",
+            "tags": []
+        },
+        {
+            "title": "Sandakphu Trek",
+            "uid": "sandakphu-trek",
+            "elevation": "12,950",
+            "duration": "7",
+            "cost": "11,980",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "West Bengal",
+            "distance": "81",
+            "tags": []
+        },
+        {
+            "title": "Beas Kund Trek",
+            "uid": "beas-kund-trek",
+            "elevation": "12,772",
+            "duration": "4",
+            "cost": "6,450",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Himanchal Pradesh",
+            "distance": "32",
+            "tags": []
+        },
+        {
+            "title": "Ranthan Kharak Trek",
+            "uid": "ranthan-kharak-trek",
+            "elevation": "12,885",
+            "duration": "7",
+            "cost": "11,850",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "37",
+            "tags": []
+        },
+        {
+            "title": "Surya Top Trek",
+            "uid": "surya-top-trek",
+            "elevation": "12,950",
+            "duration": "7",
+            "cost": "11,450",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "35",
+            "tags": []
+        },
+        {
+            "title": "Nag Tibba Trek",
+            "uid": "nag-tibba-trek",
+            "elevation": "13,750",
+            "duration": "2",
+            "cost": "3,450",
+            "difficulty": [
+                "easy",
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "20",
+            "tags": []
+        },
+        {
+            "title": "Deo Tibba Base Camp Trek",
+            "uid": "deo-tibba-base-camp-trek",
+            "elevation": "14,698",
+            "duration": "6",
+            "cost": "13,450",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Himanchal Pradesh",
+            "distance": "37",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        },
+        {
+            "title": "",
+            "uid": "",
+            "elevation": "",
+            "duration": "",
+            "cost": "",
+            "difficulty": [],
+            "location": "",
+            "distance": "",
+            "tags": []
+        }
+    ]
+}

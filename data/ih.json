@@ -1,1053 +1,1166 @@
-[
-    {
-        "title": "Ala-Kul Trek - Kyrgyzstan",
-        "uid": "ala-kul-trek-kyrgyzstan",
-        "elevation": "12,750",
-        "duration": "6",
-        "cost": "47,500",
-        "difficulty": ["moderate", "difficult"],
-        "location": "Kyrgyzstan",
-        "distance": "",
-        "tags": [
-            "Karakol",
-            "July",
-            "Monsoon (Jul, Aug, Mid-Sep)",
-            "Monsoon",
-            "Bishkek",
-            "Moderate - Difficult",
-            "International Trek",
-            "6-days",
-            "Moderate-Difficult",
-            "Tashkent",
-            "Kyrgyzstan"
-        ]
+{
+    "meta": {
+        "name": "Indiahikes",
+        "key": "indiahikes",
+        "baseURL": "https://indiahikes.com"
     },
-    {
-        "title": "Ali Bedni Bugyal Trek",
-        "uid": "ali-bedni-bugyal-trek",
-        "elevation": "12,550",
-        "duration": "6",
-        "cost": "10,395",
-        "difficulty": ["moderate"],
-        "location": "Uttarakhand",
-        "distance": "",
-        "tags": [
-            "June",
-            "uttarakhand",
-            "Moderate",
-            "Summer (May, Jun)",
-            "Spring",
-            "May",
-            "Winter",
-            "Winter (Dec, Jan, Feb)",
-            "DIY",
-            "October",
-            "September",
-            "Summer",
-            "November",
-            "April",
-            "March",
-            "Autumn (Mid-Sep, Oct, Nov)",
-            "Autumn",
-            "Family Treks",
-            "Spring (Mar, Apr)"
-        ]
-    },
-    {
-        "title": "Georgia Atsunta Pass Trek",
-        "uid": "atsunta-pass-trek-omalo-shatili-georgia",
-        "elevation": "11,581",
-        "duration": "7",
-        "cost": "49,500",
-        "difficulty": ["moderate", "difficult"],
-        "location": "Georgia",
-        "distance": "",
-        "tags": [
-            "July",
-            "Monsoon",
-            "7+-days",
-            "June",
-            "Moderate-Difficult",
-            "georgia",
-            "September",
-            "Summer",
-            "Autumn"
-        ]
-    },
-    {
-        "title": "Bali Pass Trek",
-        "uid": "bali-pass-ruinsara-tal",
-        "elevation": "16,207",
-        "duration": "8",
-        "cost": "16,950",
-        "difficulty": ["difficult"],
-        "location": "Uttarakhand",
-        "distance": "",
-        "tags": [
-            "June",
-            "uttarakhand",
-            "Summer (May, Jun)",
-            "Bali Pass",
-            "Difficult",
-            "September",
-            "Summer",
-            "Autumn (Mid-Sep, Oct, Nov)"
-        ]
-    },
-    {
-        "title": "Beas Kund Trek",
-        "uid": "beas-kund",
-        "elevation": "12,772",
-        "duration": "4",
-        "cost": "7,950",
-        "difficulty": ["moderate"],
-        "location": "Himanchal Pradesh",
-        "distance": "",
-        "tags": [
-            "Difficulty",
-            "Monsoon (Jul, Aug, Mid-Sep)",
-            "Monsoon",
-            "Himanchal Pradesh",
-            "June",
-            "Moderate",
-            "September",
-            "Summer",
-            "Autumn"
-        ]
-    },
-    {
-        "title": "Bhrigu Lake Trek",
-        "uid": "bhrigu-lake",
-        "elevation": "14,009",
-        "duration": "4",
-        "cost": "7,950",
-        "difficulty": ["moderate"],
-        "location": "Himanchal Pradesh",
-        "distance": "",
-        "tags": [
-            "Manali",
-            "July",
-            "August",
-            "Monsoon (Jul, Aug, Mid-Sep)",
-            "Monsoon",
-            "Himanchal Pradesh",
-            "June",
-            "Moderate",
-            "October",
-            "September"
-        ]
-    },
-    {
-        "title": "Bijli Mahadev Trek",
-        "uid": "bijli-mahadev-trek",
-        "elevation": "8,120",
-        "duration": "4",
-        "cost": "4,450",
-        "difficulty": ["easy"],
-        "location": "Himanchal Pradesh",
-        "distance": "",
-        "tags": [
-            "Manali",
-            "Easy",
-            "July",
-            "August",
-            "trekking in manali",
-            "June",
-            "forests of manali"
-        ]
-    },
-    {
-        "title": "Bodpathri Trek",
-        "uid": "bodpathri-meadows-trek",
-        "elevation": "13,060",
-        "duration": "7",
-        "cost": "15,450",
-        "difficulty": ["moderate", "difficult"],
-        "location": "Jammu and Kashmir",
-        "distance": "",
-        "tags": [
-            "Jammu and Kashmir",
-            "July",
-            "August",
-            "Monsoon (Jul, Aug, Mid-Sep)",
-            "Monsoon",
-            "Moderate-Difficult",
-            "September"
-        ]
-    },
-    {
-        "title": "Brahmatal Trek",
-        "uid": "brahmatal-trek",
-        "elevation": "12,250",
-        "duration": "6",
-        "cost": "10,945",
-        "difficulty": ["easy", "moderate"],
-        "location": "Uttarakhand",
-        "distance": "",
-        "tags": [
-            "January",
-            "February",
-            "Easy-Moderate",
-            "6 Day Trek",
-            "June",
-            "Uttarakhand",
-            "Spring",
-            "Winter",
-            "Winter (Dec, Jan, Feb)",
-            "October",
-            "September",
-            "Summer",
-            "November",
-            "April",
-            "March",
-            "December",
-            "Autumn (Mid-Sep, Oct, Nov)",
-            "Autumn",
-            "Family Treks",
-            "Spring (Mar, Apr)"
-        ]
-    },
-    {
-        "title": "Brammah Valley Trek",
-        "uid": "brammah-valley-trek",
-        "elevation": "11,600",
-        "duration": "7",
-        "cost": "13,950",
-        "difficulty": ["moderate"],
-        "location": "Jammu and Kashmir",
-        "distance": "",
-        "tags": [
-            "Jammu and Kashmir",
-            "june",
-            "Moderate",
-            "Summer (May, Jun)",
-            "may"
-        ]
-    },
-    {
-        "title": "Buran Ghati Trek",
-        "uid": "buran-ghati",
-        "elevation": "15,000",
-        "duration": "8",
-        "cost": "15,750",
-        "difficulty": ["moderate", "difficult"],
-        "location": "Himanchal Pradesh",
-        "distance": "",
-        "tags": [
-            "June",
-            "Summer (May, Jun)",
-            "Moderate-Difficult",
-            "May",
-            "October",
-            "September",
-            "Summer",
-            "Autumn (Mid-Sep, Oct, Nov)",
-            "Autumn"
-        ]
-    },
-    {
-        "title": "Chandrakhani Pass Trek",
-        "uid": "chandrakhani-pass-trek",
-        "elevation": "12,185",
-        "duration": "5",
-        "cost": "9,850",
-        "difficulty": ["moderate"],
-        "location": "Himanchal Pradesh",
-        "distance": "",
-        "tags": [
-            "Himanchal trek",
-            "Monsoon trek",
-            "Chandrakhani Pass Trek",
-            "Chandrakhani Pass",
-            "Treks near Manali",
-            "Moderate",
-            "Indiahikes"
-        ]
-    },
-    {
-        "title": "Dafeybhir Pass Trek",
-        "uid": "dafeybhir-pass",
-        "elevation": "15,015",
-        "duration": "10",
-        "cost": "16,650",
-        "difficulty": ["difficult"],
-        "location": "Sikkim",
-        "distance": "",
-        "tags": [
-            "Spring",
-            "Autumn",
-            "Difficult",
-            "April",
-            "October",
-            "Sikkim",
-            "Kanchenjunga",
-            "Rhododendrons"
-        ]
-    },
-    {
-        "title": "Dayara Bugyal Trek",
-        "uid": "dayara-bugyal-trek",
-        "elevation": "11,830",
-        "duration": "6",
-        "cost": "9,845",
-        "difficulty": ["easy", "moderate"],
-        "location": "Uttarakhand",
-        "distance": "",
-        "tags": [
-            "Dayara Bugyal",
-            "January",
-            "February",
-            "Easy-Moderate",
-            "June",
-            "Uttarakhand",
-            "Summer (May, Jun)",
-            "Spring",
-            "May",
-            "Winter (Dec, Jan, Feb)",
-            "October",
-            "September",
-            "Summer",
-            "November",
-            "April",
-            "family trek",
-            "March",
-            "December",
-            "Autumn (Mid-Sep, Oct, Nov)",
-            "Autumn",
-            "Spring (Mar, Apr)"
-        ]
-    },
-    {
-        "title": "Deoriatal Chandrashila Trek",
-        "uid": "deoriatal-chandrashila-trek",
-        "elevation": "12,083",
-        "duration": "6",
-        "cost": "11,450",
-        "difficulty": ["easy", "moderate"],
-        "location": "Uttarakhand",
-        "distance": "",
-        "tags": [
-            "Easy-moderate",
-            "January",
-            "February",
-            "Easy-Moderate",
-            "June",
-            "Summer (May, Jun)",
-            "Spring",
-            "May",
-            "Winter",
-            "Winter (Dec, Jan, Feb)",
-            "October",
-            "Post Monsoon Trek",
-            "September",
-            "Summer",
-            "November",
-            "April",
-            "March",
-            "December",
-            "Autumn Trek"
-        ]
-    },
-    {
-        "title": "Everest Base Camp (Classic Route)",
-        "uid": "everest-base-camp-trek-nepal",
-        "elevation": "18,200",
-        "duration": "12",
-        "cost": "28,950",
-        "difficulty": ["difficult"],
-        "location": "Nepal",
-        "distance": "",
-        "tags": [
-            "7+-days",
-            "Spring",
-            "Difficult",
-            "October",
-            "Summer",
-            "April",
-            "Autumn",
-            "Nepal"
-        ]
-    },
-    {
-        "title": "Everest Base Camp via Gokyo Ri Trek",
-        "uid": "everest-base-camp-via-gokyo-ri",
-        "elevation": "18,200",
-        "duration": "18",
-        "cost": "59,650",
-        "difficulty": ["difficult"],
-        "location": "Nepal",
-        "distance": "",
-        "tags": [
-            "Lukla",
-            "Himalaya",
-            "Kathmandu",
-            "EBC",
-            "Khumbu",
-            "7+-days",
-            "Mt Everest",
-            "Spring",
-            "Difficult",
-            "October",
-            "March",
-            "Gokyo Ri",
-            "Autumn",
-            "Nepal"
-        ]
-    },
-    {
-        "title": "Gaumukh Tapovan Trek",
-        "uid": "gaumukh-tapovan",
-        "elevation": "14,203",
-        "duration": "8",
-        "cost": "16,450",
-        "difficulty": ["moderate", "difficult"],
-        "location": "Uttarakhand",
-        "distance": "",
-        "tags": [
-            "June",
-            "Summer (May, Jun)",
-            "Moderate-Difficult",
-            "September",
-            "Summer",
-            "Autumn (Mid-Sep, Oct, Nov)",
-            "Autumn"
-        ]
-    },
-    {
-        "title": "Gidara Bugyal",
-        "uid": "gidara-bugyal",
-        "elevation": "13,900",
-        "duration": "8",
-        "cost": "13,950",
-        "difficulty": ["moderate", "difficult"],
-        "location": "Uttarakhand",
-        "distance": "",
-        "tags": [
-            "June",
-            "Uttarakhand",
-            "Moderate-Difficult",
-            "October",
-            "September",
-            "Summer",
-            "Autumn"
-        ]
-    },
-    {
-        "title": "Goechala Trek",
-        "uid": "goechala",
-        "elevation": "15,100",
-        "duration": "10",
-        "cost": "16,650",
-        "difficulty": ["moderate", "difficult"],
-        "location": "Sikkim",
-        "distance": "",
-        "tags": [
-            "Samiti Lake",
-            "Kanchenjunga",
-            "Summer (May, Jun)",
-            "Moderate-Difficult",
-            "Spring",
-            "October",
-            "Pandim",
-            "Sikkim",
-            "April",
-            "Autumn (Mid-Sep, Oct, Nov)",
-            "Autumn",
-            "Spring (Mar, Apr)"
-        ]
-    },
-    {
-        "title": "Gurez Valley Trek",
-        "uid": "gurez-valley-trek",
-        "elevation": "13,188",
-        "duration": "7",
-        "cost": "16,750",
-        "difficulty": ["moderate"],
-        "location": "Jammu and Kashmir",
-        "distance": "",
-        "tags": [
-            "Jammu and Kashmir",
-            "July",
-            "August",
-            "Monsoon (Jul, Aug, Mid-Sep)",
-            "Moderate",
-            "September"
-        ]
-    },
-    {
-        "title": "Hampta Pass Trek",
-        "uid": "hampta-pass",
-        "elevation": "14,065",
-        "duration": "6",
-        "cost": "11,450",
-        "difficulty": ["moderate"],
-        "location": "Himanchal Pradesh",
-        "distance": "",
-        "tags": [
-            "Manali",
-            "July",
-            "Spiti",
-            "August",
-            "Monsoon (Jul, Aug, Mid-Sep)",
-            "Monsoon",
-            "Himanchal Pradesh",
-            "Spiti Valley",
-            "Moderate",
-            "6-days",
-            "moderate",
-            "October",
-            "September"
-        ]
-    },
-    {
-        "title": "Har Ki Dun",
-        "uid": "har-ki-dun",
-        "elevation": "11,600",
-        "duration": "7",
-        "cost": "12,950",
-        "difficulty": ["moderate"],
-        "location": "Uttarakhand",
-        "distance": "",
-        "tags": [
-            "Uttarkashi",
-            "Himalaya",
-            "June",
-            "Moderate",
-            "Uttarakhand",
-            "Summer (May, Jun)",
-            "May",
-            "Sankri",
-            "Swargarohini",
-            "October",
-            "Himalayas",
-            "Kotgaon",
-            "April",
-            "Autumn (Mid-Sep, Oct, Nov)",
-            "Autumn",
-            "may"
-        ]
-    },
-    {
-        "title": "Kashmir Great Lakes Trek ",
-        "uid": "kashmir-great-lakes",
-        "elevation": "13,715",
-        "duration": "8",
-        "cost": "17,450",
-        "difficulty": ["moderate", "difficult"],
-        "location": "Jammu and Kashmir",
-        "distance": "",
-        "tags": [
-            "Jammu and Kashmir",
-            "July",
-            "August",
-            "Monsoon (Jul, Aug, Mid-Sep)",
-            "Monsoon",
-            "Moderate-Difficult",
-            "September",
-            "September "
-        ]
-    },
-    {
-        "title": "Kedarkantha Trek",
-        "uid": "kedarkantha-trek",
-        "elevation": "12,500",
-        "duration": "6",
-        "cost": "10,725",
-        "difficulty": ["easy", "moderate"],
-        "location": "Uttarakhand",
-        "distance": "",
-        "tags": [
-            "January",
-            "February",
-            "Beginner",
-            "Easy-Moderate",
-            "Gaichawan Gaon",
-            "Uttarakhand",
-            "Summer (May, Jun)",
-            "Winter",
-            "Winter (Dec, Jan, Feb)",
-            "Sankri",
-            "Kotgaon",
-            "March",
-            "December",
-            "Autumn (Mid-Sep, Oct, Nov)",
-            "himalayan trekking for beginners",
-            "Autumn",
-            "Spring (Mar, Apr)"
-        ]
-    },
-    {
-        "title": "Kedartal Trek",
-        "uid": "kedartal",
-        "elevation": "15,500",
-        "duration": "7",
-        "cost": "14,700",
-        "difficulty": ["difficult"],
-        "location": "Uttarakhand",
-        "distance": "",
-        "tags": [
-            "June",
-            "Summer (May, Jun)",
-            "Difficult",
-            "September",
-            "Summer",
-            "Autumn (Mid-Sep, Oct, Nov)",
-            "Autumn"
-        ]
-    },
-    {
-        "title": "Khopra Ridge Trek",
-        "uid": "khopra-ridge-khayar-lake",
-        "elevation": "15,710",
-        "duration": "9",
-        "cost": "32,450",
-        "difficulty": ["moderate", "difficult"],
-        "location": "Nepal",
-        "distance": "",
-        "tags": [
-            "Macchapucchare",
-            "Kathmandu",
-            "Pokhara",
-            "7+-days",
-            "Moderate - Difficult",
-            "Moderate-Difficult",
-            "Spring",
-            "October",
-            "Mt Annapurna",
-            "April",
-            "March",
-            "Autumn (Mid-Sep, Oct, Nov)",
-            "Autumn",
-            "Nepal",
-            "Mt Fishtail",
-            "Spring (Mar, Apr)"
-        ]
-    },
-    {
-        "title": "Kuari Pass Trek",
-        "uid": "kuari-pass",
-        "elevation": "12,516",
-        "duration": "6",
-        "cost": "10,725",
-        "difficulty": ["moderate"],
-        "location": "Uttarakhand",
-        "distance": "",
-        "tags": [
-            "February",
-            "Beginner",
-            "June",
-            "Moderate",
-            "Summer (May, Jun)",
-            "Spring",
-            "May",
-            "Winter",
-            "Winter (Dec, Jan, Feb)",
-            "October",
-            "Post Monsoon Trek",
-            "September",
-            "Summer",
-            "November",
-            "April",
-            "March",
-            "December",
-            "Autumn (Mid-Sep, Oct, Nov)",
-            "Spring (Mar, Apr)",
-            "Autumn Trek"
-        ]
-    },
-    {
-        "title": "Miyar Valley",
-        "uid": "miyar-valley-trek",
-        "elevation": "13,202",
-        "duration": "7",
-        "cost": "12,950",
-        "difficulty": ["moderate"],
-        "location": "Himanchal Pradesh",
-        "distance": "",
-        "tags": [
-            "Monsoon (Jul, Aug, Mid-Sep)",
-            "Himanchal Pradesh",
-            "Moderate",
-            "Spring",
-            "Lahaul",
-            "October",
-            "Lahaul Valley",
-            "April",
-            "Autumn"
-        ]
-    },
-    {
-        "title": "Mount Kilimanjaro Trek",
-        "uid": "mount-kilimanjaro-trek",
-        "elevation": "19,341",
-        "duration": "9",
-        "cost": "1,80,000",
-        "difficulty": ["difficult"],
-        "location": "Tanzania",
-        "distance": "",
-        "tags": [
-            "Moshi",
-            "August",
-            "Monsoon",
-            "Umbwe",
-            "Volcano",
-            "7+-days",
-            "Shira",
-            "Kilimanjaro",
-            "Arusha",
-            "Nothern Circuit",
-            "Machame",
-            "Lemosho",
-            "Kenya",
-            "africa",
-            "Rongai",
-            "Difficult",
-            "Tanzania",
-            "Marangu",
-            "Africa",
-            "Autumn"
-        ]
-    },
-    {
-        "title": "Mount Rinjani Trek",
-        "uid": "mount-rinjani-trek",
-        "elevation": "12,224",
-        "duration": "5",
-        "cost": "39,750",
-        "difficulty": ["difficult"],
-        "location": "Bali",
-        "distance": "",
-        "tags": [
-            "Lombok",
-            "August",
-            "5-days",
-            "June",
-            "May",
-            "Difficult",
-            "Indonesia",
-            "September"
-        ]
-    },
-    {
-        "title": "Nafran Valley Trek",
-        "uid": "nafran-valley-trek",
-        "elevation": "13,789",
-        "duration": "7",
-        "cost": "15,450",
-        "difficulty": ["moderate", "difficult"],
-        "location": "Jammu and Kashmir",
-        "distance": "",
-        "tags": [
-            "Monsoon (Jul, Aug, Mid-Sep)",
-            "Monsoon",
-            "7+-days",
-            "Moderate-Difficult",
-            "july",
-            "september",
-            "august",
-            "autumn",
-            "Kashmir",
-            "jammu-and-kashmir"
-        ]
-    },
-    {
-        "title": "Nag Tibba Weekend Trek",
-        "uid": "nag-tibba",
-        "elevation": "9,915",
-        "duration": "2",
-        "cost": "3,450",
-        "difficulty": ["moderate"],
-        "location": "Uttarakhand",
-        "distance": "",
-        "tags": [
-            "January",
-            "February",
-            "June",
-            "Moderate",
-            "Summer (May, Jun)",
-            "May",
-            "Dehradun",
-            "Winter (Dec, Jan, Feb)",
-            "October",
-            "September",
-            "November",
-            "April",
-            "March",
-            "December",
-            "Autumn (Mid-Sep, Oct, Nov)",
-            "Spring (Mar, Apr)"
-        ]
-    },
-    {
-        "title": "Pangarchulla Peak Trek",
-        "uid": "pangarchulla",
-        "elevation": "15,069",
-        "duration": "7",
-        "cost": "12,450",
-        "difficulty": ["difficult"],
-        "location": "Uttarakhand",
-        "distance": "",
-        "tags": [
-            "Tapoban",
-            "Nanda Devi",
-            "Auli",
-            "Spring",
-            "Joshimath",
-            "Difficult",
-            "April",
-            "Spring (Mar, Apr)"
-        ]
-    },
-    {
-        "title": "Phulara Ridge Trek",
-        "uid": "phulara-ridge-trek",
-        "elevation": "12,345",
-        "duration": "6",
-        "cost": "10,750",
-        "difficulty": ["moderate"],
-        "location": "Uttarakhand",
-        "distance": "",
-        "tags": [
-            "June",
-            "uttarakhand",
-            "Moderate",
-            "6-days",
-            "Summer (May, Jun)",
-            "May",
-            "October",
-            "September",
-            "Summer",
-            "Autumn (Mid-Sep, Oct, Nov)",
-            "Autumn"
-        ]
-    },
-    {
-        "title": "Pin Bhaba Pass Trek",
-        "uid": "pin-bhaba-pass-trek",
-        "elevation": "16,105",
-        "duration": "9",
-        "cost": "17,950",
-        "difficulty": ["difficult"],
-        "location": "Himanchal Pradesh",
-        "distance": "",
-        "tags": [
-            "July",
-            "August",
-            "Monsoon (Jul, Aug, Mid-Sep)",
-            "Monsoon",
-            "Pin Valley",
-            "Himanchal Pradesh",
-            "Moderate-Difficult",
-            "Difficult",
-            "September"
-        ]
-    },
-    {
-        "title": "Pir Panjal Lakes Trek",
-        "uid": "pir-panjal-lakes-trek",
-        "elevation": "13,330",
-        "duration": "7",
-        "cost": "14,450",
-        "difficulty": ["moderate", "difficult"],
-        "location": "Jammu and Kashmir",
-        "distance": "",
-        "tags": [
-            "alpine lakes",
-            "trekking in Poonch",
-            "lakes trek",
-            "pir panjal range",
-            "Pir Panjal",
-            "treks in Jammu",
-            "treks in Jammu and Kashmir",
-            "Pir Panjal Lakes",
-            "monsoon trek",
-            "poonch"
-        ]
-    },
-    {
-        "title": "Ranthan Kharak Trek",
-        "uid": "ranthan-top-trek",
-        "elevation": "12,887",
-        "duration": "7",
-        "cost": "9,450",
-        "difficulty": ["moderate"],
-        "location": "Uttarakhand",
-        "distance": "",
-        "tags": [
-            "Treks in kumaon",
-            "June",
-            "Kumaon",
-            "Moderate",
-            "Summer (May, Jun)",
-            "May",
-            "October",
-            "September",
-            "Autumn (Mid-Sep, Oct, Nov)",
-            "Uttrakhand"
-        ]
-    },
-    {
-        "title": "Rupin Pass",
-        "uid": "rupin-pass",
-        "elevation": "15,279",
-        "duration": "7",
-        "cost": "15,750",
-        "difficulty": ["moderate", "difficult"],
-        "location": "Himanchal Pradesh",
-        "distance": "",
-        "tags": [
-            "Himanchal Pradesh",
-            "Moderate - Difficult",
-            "June",
-            "Summer (May, Jun)",
-            "Moderate-Difficult",
-            "May",
-            "October",
-            "September",
-            "Summer",
-            "Autumn (Mid-Sep, Oct, Nov)",
-            "Autumn"
-        ]
-    },
-    {
-        "title": "Sandakphu Phalut Trek",
-        "uid": "sandakphu-phalut",
-        "elevation": "11,930",
-        "duration": "7",
-        "cost": "12,950",
-        "difficulty": ["moderate"],
-        "location": "Sikkim",
-        "distance": "",
-        "tags": [
-            "January",
-            "February",
-            "Moderate",
-            "Summer (May, Jun)",
-            "Spring",
-            "West Bengal",
-            "Winter",
-            "Winter (Dec, Jan, Feb)",
-            "Summer",
-            "Sikkim",
-            "April",
-            "March",
-            "December",
-            "Autumn (Mid-Sep, Oct, Nov)",
-            "Autumn",
-            "Nepal",
-            "Spring (Mar, Apr)"
-        ]
-    },
-    {
-        "title": "Surya Top",
-        "uid": "surya-top",
-        "elevation": "12,900",
-        "duration": "7",
-        "cost": "11,950",
-        "difficulty": ["moderate"],
-        "location": "Uttarakhand",
-        "distance": "",
-        "tags": [
-            "snow",
-            "July",
-            "yamunotri",
-            "Trekking in Kumaon",
-            "march",
-            "meadows",
-            "solo women trekkers",
-            "Gangotri",
-            "summit",
-            "Moderate",
-            "Spring",
-            "ridge",
-            "Trekking In Uttarakhand",
-            "Soorya top",
-            "Mountain lover",
-            "March"
-        ]
-    },
-    {
-        "title": "Tarsar Marsar Trek",
-        "uid": "tarsar-marsar",
-        "elevation": "13,165",
-        "duration": "7",
-        "cost": "14,950",
-        "difficulty": ["moderate"],
-        "location": "Jammu and Kashmir",
-        "distance": "",
-        "tags": [
-            "Jammu and Kashmir",
-            "July",
-            "August",
-            "Monsoon (Jul, Aug, Mid-Sep)",
-            "Monsoon",
-            "Moderate",
-            "Rainy",
-            "September"
-        ]
-    },
-    {
-        "title": "Tulian Lake Trek",
-        "uid": "tulian-lake",
-        "elevation": "12,087",
-        "duration": "5",
-        "cost": "11,450",
-        "difficulty": ["moderate"],
-        "location": "Jammu and Kashmir",
-        "distance": "",
-        "tags": [
-            "Jammu and Kashmir",
-            "July",
-            "August",
-            "Monsoon (Jul, Aug, Mid-Sep)",
-            "Monsoon",
-            "Tulian Valley",
-            "Deno Valley",
-            "Tulyan Lake",
-            "Moderate",
-            "Tulian Lake trek",
-            "Baisaran",
-            "Rainy",
-            "September",
-            "Tulian Lake",
-            "Kashmir Valley"
-        ]
-    },
-    {
-        "title": "Valley of Flowers",
-        "uid": "valley-of-flowers",
-        "elevation": "14,107",
-        "duration": "6",
-        "cost": "11,950",
-        "difficulty": ["moderate"],
-        "location": "Uttarakhand",
-        "distance": "",
-        "tags": [
-            "July",
-            "UNESCO World Heritage Site",
-            "Monsoon (Jul, Aug, Mid-Sep)",
-            "Monsoon",
-            "Moderate",
-            "Uttarakhand",
-            "September"
-        ]
-    },
-    {
-        "title": "Warwan Valley Trek",
-        "uid": "warwan-valley",
-        "elevation": "14,495",
-        "duration": "9",
-        "cost": "19,750",
-        "difficulty": ["difficult"],
-        "location": "Jammu and Kashmir",
-        "distance": "",
-        "tags": [
-            "Jammu and Kashmir",
-            "July",
-            "August",
-            "Monsoon (Jul, Aug, Mid-Sep)",
-            "Monsoon",
-            "Difficult"
-        ]
-    }
-]
+    "list": [
+        {
+            "title": "Ala-Kul Trek - Kyrgyzstan",
+            "uid": "ala-kul-trek-kyrgyzstan",
+            "elevation": "12,750",
+            "duration": "6",
+            "cost": "47,500",
+            "difficulty": [
+                "moderate",
+                "difficult"
+            ],
+            "location": "Kyrgyzstan",
+            "distance": "",
+            "tags": [
+                "Karakol",
+                "July",
+                "Monsoon (Jul, Aug, Mid-Sep)",
+                "Monsoon",
+                "Bishkek",
+                "Moderate - Difficult",
+                "International Trek",
+                "6-days",
+                "Moderate-Difficult",
+                "Tashkent",
+                "Kyrgyzstan"
+            ]
+        },
+        {
+            "title": "Ali Bedni Bugyal Trek",
+            "uid": "ali-bedni-bugyal-trek",
+            "elevation": "12,550",
+            "duration": "6",
+            "cost": "10,395",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "",
+            "tags": [
+                "June",
+                "uttarakhand",
+                "Moderate",
+                "Summer (May, Jun)",
+                "Spring",
+                "May",
+                "Winter",
+                "Winter (Dec, Jan, Feb)",
+                "DIY",
+                "October",
+                "September",
+                "Summer",
+                "November",
+                "April",
+                "March",
+                "Autumn (Mid-Sep, Oct, Nov)",
+                "Autumn",
+                "Family Treks",
+                "Spring (Mar, Apr)"
+            ]
+        },
+        {
+            "title": "Georgia Atsunta Pass Trek",
+            "uid": "atsunta-pass-trek-omalo-shatili-georgia",
+            "elevation": "11,581",
+            "duration": "7",
+            "cost": "49,500",
+            "difficulty": [
+                "moderate",
+                "difficult"
+            ],
+            "location": "Georgia",
+            "distance": "",
+            "tags": [
+                "July",
+                "Monsoon",
+                "7+-days",
+                "June",
+                "Moderate-Difficult",
+                "georgia",
+                "September",
+                "Summer",
+                "Autumn"
+            ]
+        },
+        {
+            "title": "Bali Pass Trek",
+            "uid": "bali-pass-ruinsara-tal",
+            "elevation": "16,207",
+            "duration": "8",
+            "cost": "16,950",
+            "difficulty": [
+                "difficult"
+            ],
+            "location": "Uttarakhand",
+            "distance": "",
+            "tags": [
+                "June",
+                "uttarakhand",
+                "Summer (May, Jun)",
+                "Bali Pass",
+                "Difficult",
+                "September",
+                "Summer",
+                "Autumn (Mid-Sep, Oct, Nov)"
+            ]
+        },
+        {
+            "title": "Beas Kund Trek",
+            "uid": "beas-kund",
+            "elevation": "12,772",
+            "duration": "4",
+            "cost": "7,950",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Himanchal Pradesh",
+            "distance": "",
+            "tags": [
+                "Difficulty",
+                "Monsoon (Jul, Aug, Mid-Sep)",
+                "Monsoon",
+                "Himanchal Pradesh",
+                "June",
+                "Moderate",
+                "September",
+                "Summer",
+                "Autumn"
+            ]
+        },
+        {
+            "title": "Bhrigu Lake Trek",
+            "uid": "bhrigu-lake",
+            "elevation": "14,009",
+            "duration": "4",
+            "cost": "7,950",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Himanchal Pradesh",
+            "distance": "",
+            "tags": [
+                "Manali",
+                "July",
+                "August",
+                "Monsoon (Jul, Aug, Mid-Sep)",
+                "Monsoon",
+                "Himanchal Pradesh",
+                "June",
+                "Moderate",
+                "October",
+                "September"
+            ]
+        },
+        {
+            "title": "Bijli Mahadev Trek",
+            "uid": "bijli-mahadev-trek",
+            "elevation": "8,120",
+            "duration": "4",
+            "cost": "4,450",
+            "difficulty": [
+                "easy"
+            ],
+            "location": "Himanchal Pradesh",
+            "distance": "",
+            "tags": [
+                "Manali",
+                "Easy",
+                "July",
+                "August",
+                "trekking in manali",
+                "June",
+                "forests of manali"
+            ]
+        },
+        {
+            "title": "Bodpathri Trek",
+            "uid": "bodpathri-meadows-trek",
+            "elevation": "13,060",
+            "duration": "7",
+            "cost": "15,450",
+            "difficulty": [
+                "moderate",
+                "difficult"
+            ],
+            "location": "Jammu and Kashmir",
+            "distance": "",
+            "tags": [
+                "Jammu and Kashmir",
+                "July",
+                "August",
+                "Monsoon (Jul, Aug, Mid-Sep)",
+                "Monsoon",
+                "Moderate-Difficult",
+                "September"
+            ]
+        },
+        {
+            "title": "Brahmatal Trek",
+            "uid": "brahmatal-trek",
+            "elevation": "12,250",
+            "duration": "6",
+            "cost": "10,945",
+            "difficulty": [
+                "easy",
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "",
+            "tags": [
+                "January",
+                "February",
+                "Easy-Moderate",
+                "6 Day Trek",
+                "June",
+                "Uttarakhand",
+                "Spring",
+                "Winter",
+                "Winter (Dec, Jan, Feb)",
+                "October",
+                "September",
+                "Summer",
+                "November",
+                "April",
+                "March",
+                "December",
+                "Autumn (Mid-Sep, Oct, Nov)",
+                "Autumn",
+                "Family Treks",
+                "Spring (Mar, Apr)"
+            ]
+        },
+        {
+            "title": "Brammah Valley Trek",
+            "uid": "brammah-valley-trek",
+            "elevation": "11,600",
+            "duration": "7",
+            "cost": "13,950",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Jammu and Kashmir",
+            "distance": "",
+            "tags": [
+                "Jammu and Kashmir",
+                "june",
+                "Moderate",
+                "Summer (May, Jun)",
+                "may"
+            ]
+        },
+        {
+            "title": "Buran Ghati Trek",
+            "uid": "buran-ghati",
+            "elevation": "15,000",
+            "duration": "8",
+            "cost": "15,750",
+            "difficulty": [
+                "moderate",
+                "difficult"
+            ],
+            "location": "Himanchal Pradesh",
+            "distance": "",
+            "tags": [
+                "June",
+                "Summer (May, Jun)",
+                "Moderate-Difficult",
+                "May",
+                "October",
+                "September",
+                "Summer",
+                "Autumn (Mid-Sep, Oct, Nov)",
+                "Autumn"
+            ]
+        },
+        {
+            "title": "Chandrakhani Pass Trek",
+            "uid": "chandrakhani-pass-trek",
+            "elevation": "12,185",
+            "duration": "5",
+            "cost": "9,850",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Himanchal Pradesh",
+            "distance": "",
+            "tags": [
+                "Himanchal trek",
+                "Monsoon trek",
+                "Chandrakhani Pass Trek",
+                "Chandrakhani Pass",
+                "Treks near Manali",
+                "Moderate",
+                "Indiahikes"
+            ]
+        },
+        {
+            "title": "Dafeybhir Pass Trek",
+            "uid": "dafeybhir-pass",
+            "elevation": "15,015",
+            "duration": "10",
+            "cost": "16,650",
+            "difficulty": [
+                "difficult"
+            ],
+            "location": "Sikkim",
+            "distance": "",
+            "tags": [
+                "Spring",
+                "Autumn",
+                "Difficult",
+                "April",
+                "October",
+                "Sikkim",
+                "Kanchenjunga",
+                "Rhododendrons"
+            ]
+        },
+        {
+            "title": "Dayara Bugyal Trek",
+            "uid": "dayara-bugyal-trek",
+            "elevation": "11,830",
+            "duration": "6",
+            "cost": "9,845",
+            "difficulty": [
+                "easy",
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "",
+            "tags": [
+                "Dayara Bugyal",
+                "January",
+                "February",
+                "Easy-Moderate",
+                "June",
+                "Uttarakhand",
+                "Summer (May, Jun)",
+                "Spring",
+                "May",
+                "Winter (Dec, Jan, Feb)",
+                "October",
+                "September",
+                "Summer",
+                "November",
+                "April",
+                "family trek",
+                "March",
+                "December",
+                "Autumn (Mid-Sep, Oct, Nov)",
+                "Autumn",
+                "Spring (Mar, Apr)"
+            ]
+        },
+        {
+            "title": "Deoriatal Chandrashila Trek",
+            "uid": "deoriatal-chandrashila-trek",
+            "elevation": "12,083",
+            "duration": "6",
+            "cost": "11,450",
+            "difficulty": [
+                "easy",
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "",
+            "tags": [
+                "Easy-moderate",
+                "January",
+                "February",
+                "Easy-Moderate",
+                "June",
+                "Summer (May, Jun)",
+                "Spring",
+                "May",
+                "Winter",
+                "Winter (Dec, Jan, Feb)",
+                "October",
+                "Post Monsoon Trek",
+                "September",
+                "Summer",
+                "November",
+                "April",
+                "March",
+                "December",
+                "Autumn Trek"
+            ]
+        },
+        {
+            "title": "Everest Base Camp (Classic Route)",
+            "uid": "everest-base-camp-trek-nepal",
+            "elevation": "18,200",
+            "duration": "12",
+            "cost": "28,950",
+            "difficulty": [
+                "difficult"
+            ],
+            "location": "Nepal",
+            "distance": "",
+            "tags": [
+                "7+-days",
+                "Spring",
+                "Difficult",
+                "October",
+                "Summer",
+                "April",
+                "Autumn",
+                "Nepal"
+            ]
+        },
+        {
+            "title": "Everest Base Camp via Gokyo Ri Trek",
+            "uid": "everest-base-camp-via-gokyo-ri",
+            "elevation": "18,200",
+            "duration": "18",
+            "cost": "59,650",
+            "difficulty": [
+                "difficult"
+            ],
+            "location": "Nepal",
+            "distance": "",
+            "tags": [
+                "Lukla",
+                "Himalaya",
+                "Kathmandu",
+                "EBC",
+                "Khumbu",
+                "7+-days",
+                "Mt Everest",
+                "Spring",
+                "Difficult",
+                "October",
+                "March",
+                "Gokyo Ri",
+                "Autumn",
+                "Nepal"
+            ]
+        },
+        {
+            "title": "Gaumukh Tapovan Trek",
+            "uid": "gaumukh-tapovan",
+            "elevation": "14,203",
+            "duration": "8",
+            "cost": "16,450",
+            "difficulty": [
+                "moderate",
+                "difficult"
+            ],
+            "location": "Uttarakhand",
+            "distance": "",
+            "tags": [
+                "June",
+                "Summer (May, Jun)",
+                "Moderate-Difficult",
+                "September",
+                "Summer",
+                "Autumn (Mid-Sep, Oct, Nov)",
+                "Autumn"
+            ]
+        },
+        {
+            "title": "Gidara Bugyal",
+            "uid": "gidara-bugyal",
+            "elevation": "13,900",
+            "duration": "8",
+            "cost": "13,950",
+            "difficulty": [
+                "moderate",
+                "difficult"
+            ],
+            "location": "Uttarakhand",
+            "distance": "",
+            "tags": [
+                "June",
+                "Uttarakhand",
+                "Moderate-Difficult",
+                "October",
+                "September",
+                "Summer",
+                "Autumn"
+            ]
+        },
+        {
+            "title": "Goechala Trek",
+            "uid": "goechala",
+            "elevation": "15,100",
+            "duration": "10",
+            "cost": "16,650",
+            "difficulty": [
+                "moderate",
+                "difficult"
+            ],
+            "location": "Sikkim",
+            "distance": "",
+            "tags": [
+                "Samiti Lake",
+                "Kanchenjunga",
+                "Summer (May, Jun)",
+                "Moderate-Difficult",
+                "Spring",
+                "October",
+                "Pandim",
+                "Sikkim",
+                "April",
+                "Autumn (Mid-Sep, Oct, Nov)",
+                "Autumn",
+                "Spring (Mar, Apr)"
+            ]
+        },
+        {
+            "title": "Gurez Valley Trek",
+            "uid": "gurez-valley-trek",
+            "elevation": "13,188",
+            "duration": "7",
+            "cost": "16,750",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Jammu and Kashmir",
+            "distance": "",
+            "tags": [
+                "Jammu and Kashmir",
+                "July",
+                "August",
+                "Monsoon (Jul, Aug, Mid-Sep)",
+                "Moderate",
+                "September"
+            ]
+        },
+        {
+            "title": "Hampta Pass Trek",
+            "uid": "hampta-pass",
+            "elevation": "14,065",
+            "duration": "6",
+            "cost": "11,450",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Himanchal Pradesh",
+            "distance": "",
+            "tags": [
+                "Manali",
+                "July",
+                "Spiti",
+                "August",
+                "Monsoon (Jul, Aug, Mid-Sep)",
+                "Monsoon",
+                "Himanchal Pradesh",
+                "Spiti Valley",
+                "Moderate",
+                "6-days",
+                "moderate",
+                "October",
+                "September"
+            ]
+        },
+        {
+            "title": "Har Ki Dun",
+            "uid": "har-ki-dun",
+            "elevation": "11,600",
+            "duration": "7",
+            "cost": "12,950",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "",
+            "tags": [
+                "Uttarkashi",
+                "Himalaya",
+                "June",
+                "Moderate",
+                "Uttarakhand",
+                "Summer (May, Jun)",
+                "May",
+                "Sankri",
+                "Swargarohini",
+                "October",
+                "Himalayas",
+                "Kotgaon",
+                "April",
+                "Autumn (Mid-Sep, Oct, Nov)",
+                "Autumn",
+                "may"
+            ]
+        },
+        {
+            "title": "Kashmir Great Lakes Trek ",
+            "uid": "kashmir-great-lakes",
+            "elevation": "13,715",
+            "duration": "8",
+            "cost": "17,450",
+            "difficulty": [
+                "moderate",
+                "difficult"
+            ],
+            "location": "Jammu and Kashmir",
+            "distance": "",
+            "tags": [
+                "Jammu and Kashmir",
+                "July",
+                "August",
+                "Monsoon (Jul, Aug, Mid-Sep)",
+                "Monsoon",
+                "Moderate-Difficult",
+                "September",
+                "September "
+            ]
+        },
+        {
+            "title": "Kedarkantha Trek",
+            "uid": "kedarkantha-trek",
+            "elevation": "12,500",
+            "duration": "6",
+            "cost": "10,725",
+            "difficulty": [
+                "easy",
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "",
+            "tags": [
+                "January",
+                "February",
+                "Beginner",
+                "Easy-Moderate",
+                "Gaichawan Gaon",
+                "Uttarakhand",
+                "Summer (May, Jun)",
+                "Winter",
+                "Winter (Dec, Jan, Feb)",
+                "Sankri",
+                "Kotgaon",
+                "March",
+                "December",
+                "Autumn (Mid-Sep, Oct, Nov)",
+                "himalayan trekking for beginners",
+                "Autumn",
+                "Spring (Mar, Apr)"
+            ]
+        },
+        {
+            "title": "Kedartal Trek",
+            "uid": "kedartal",
+            "elevation": "15,500",
+            "duration": "7",
+            "cost": "14,700",
+            "difficulty": [
+                "difficult"
+            ],
+            "location": "Uttarakhand",
+            "distance": "",
+            "tags": [
+                "June",
+                "Summer (May, Jun)",
+                "Difficult",
+                "September",
+                "Summer",
+                "Autumn (Mid-Sep, Oct, Nov)",
+                "Autumn"
+            ]
+        },
+        {
+            "title": "Khopra Ridge Trek",
+            "uid": "khopra-ridge-khayar-lake",
+            "elevation": "15,710",
+            "duration": "9",
+            "cost": "32,450",
+            "difficulty": [
+                "moderate",
+                "difficult"
+            ],
+            "location": "Nepal",
+            "distance": "",
+            "tags": [
+                "Macchapucchare",
+                "Kathmandu",
+                "Pokhara",
+                "7+-days",
+                "Moderate - Difficult",
+                "Moderate-Difficult",
+                "Spring",
+                "October",
+                "Mt Annapurna",
+                "April",
+                "March",
+                "Autumn (Mid-Sep, Oct, Nov)",
+                "Autumn",
+                "Nepal",
+                "Mt Fishtail",
+                "Spring (Mar, Apr)"
+            ]
+        },
+        {
+            "title": "Kuari Pass Trek",
+            "uid": "kuari-pass",
+            "elevation": "12,516",
+            "duration": "6",
+            "cost": "10,725",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "",
+            "tags": [
+                "February",
+                "Beginner",
+                "June",
+                "Moderate",
+                "Summer (May, Jun)",
+                "Spring",
+                "May",
+                "Winter",
+                "Winter (Dec, Jan, Feb)",
+                "October",
+                "Post Monsoon Trek",
+                "September",
+                "Summer",
+                "November",
+                "April",
+                "March",
+                "December",
+                "Autumn (Mid-Sep, Oct, Nov)",
+                "Spring (Mar, Apr)",
+                "Autumn Trek"
+            ]
+        },
+        {
+            "title": "Miyar Valley",
+            "uid": "miyar-valley-trek",
+            "elevation": "13,202",
+            "duration": "7",
+            "cost": "12,950",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Himanchal Pradesh",
+            "distance": "",
+            "tags": [
+                "Monsoon (Jul, Aug, Mid-Sep)",
+                "Himanchal Pradesh",
+                "Moderate",
+                "Spring",
+                "Lahaul",
+                "October",
+                "Lahaul Valley",
+                "April",
+                "Autumn"
+            ]
+        },
+        {
+            "title": "Mount Kilimanjaro Trek",
+            "uid": "mount-kilimanjaro-trek",
+            "elevation": "19,341",
+            "duration": "9",
+            "cost": "1,80,000",
+            "difficulty": [
+                "difficult"
+            ],
+            "location": "Tanzania",
+            "distance": "",
+            "tags": [
+                "Moshi",
+                "August",
+                "Monsoon",
+                "Umbwe",
+                "Volcano",
+                "7+-days",
+                "Shira",
+                "Kilimanjaro",
+                "Arusha",
+                "Nothern Circuit",
+                "Machame",
+                "Lemosho",
+                "Kenya",
+                "africa",
+                "Rongai",
+                "Difficult",
+                "Tanzania",
+                "Marangu",
+                "Africa",
+                "Autumn"
+            ]
+        },
+        {
+            "title": "Mount Rinjani Trek",
+            "uid": "mount-rinjani-trek",
+            "elevation": "12,224",
+            "duration": "5",
+            "cost": "39,750",
+            "difficulty": [
+                "difficult"
+            ],
+            "location": "Bali",
+            "distance": "",
+            "tags": [
+                "Lombok",
+                "August",
+                "5-days",
+                "June",
+                "May",
+                "Difficult",
+                "Indonesia",
+                "September"
+            ]
+        },
+        {
+            "title": "Nafran Valley Trek",
+            "uid": "nafran-valley-trek",
+            "elevation": "13,789",
+            "duration": "7",
+            "cost": "15,450",
+            "difficulty": [
+                "moderate",
+                "difficult"
+            ],
+            "location": "Jammu and Kashmir",
+            "distance": "",
+            "tags": [
+                "Monsoon (Jul, Aug, Mid-Sep)",
+                "Monsoon",
+                "7+-days",
+                "Moderate-Difficult",
+                "july",
+                "september",
+                "august",
+                "autumn",
+                "Kashmir",
+                "jammu-and-kashmir"
+            ]
+        },
+        {
+            "title": "Nag Tibba Weekend Trek",
+            "uid": "nag-tibba",
+            "elevation": "9,915",
+            "duration": "2",
+            "cost": "3,450",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "",
+            "tags": [
+                "January",
+                "February",
+                "June",
+                "Moderate",
+                "Summer (May, Jun)",
+                "May",
+                "Dehradun",
+                "Winter (Dec, Jan, Feb)",
+                "October",
+                "September",
+                "November",
+                "April",
+                "March",
+                "December",
+                "Autumn (Mid-Sep, Oct, Nov)",
+                "Spring (Mar, Apr)"
+            ]
+        },
+        {
+            "title": "Pangarchulla Peak Trek",
+            "uid": "pangarchulla",
+            "elevation": "15,069",
+            "duration": "7",
+            "cost": "12,450",
+            "difficulty": [
+                "difficult"
+            ],
+            "location": "Uttarakhand",
+            "distance": "",
+            "tags": [
+                "Tapoban",
+                "Nanda Devi",
+                "Auli",
+                "Spring",
+                "Joshimath",
+                "Difficult",
+                "April",
+                "Spring (Mar, Apr)"
+            ]
+        },
+        {
+            "title": "Phulara Ridge Trek",
+            "uid": "phulara-ridge-trek",
+            "elevation": "12,345",
+            "duration": "6",
+            "cost": "10,750",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "",
+            "tags": [
+                "June",
+                "uttarakhand",
+                "Moderate",
+                "6-days",
+                "Summer (May, Jun)",
+                "May",
+                "October",
+                "September",
+                "Summer",
+                "Autumn (Mid-Sep, Oct, Nov)",
+                "Autumn"
+            ]
+        },
+        {
+            "title": "Pin Bhaba Pass Trek",
+            "uid": "pin-bhaba-pass-trek",
+            "elevation": "16,105",
+            "duration": "9",
+            "cost": "17,950",
+            "difficulty": [
+                "difficult"
+            ],
+            "location": "Himanchal Pradesh",
+            "distance": "",
+            "tags": [
+                "July",
+                "August",
+                "Monsoon (Jul, Aug, Mid-Sep)",
+                "Monsoon",
+                "Pin Valley",
+                "Himanchal Pradesh",
+                "Moderate-Difficult",
+                "Difficult",
+                "September"
+            ]
+        },
+        {
+            "title": "Pir Panjal Lakes Trek",
+            "uid": "pir-panjal-lakes-trek",
+            "elevation": "13,330",
+            "duration": "7",
+            "cost": "14,450",
+            "difficulty": [
+                "moderate",
+                "difficult"
+            ],
+            "location": "Jammu and Kashmir",
+            "distance": "",
+            "tags": [
+                "alpine lakes",
+                "trekking in Poonch",
+                "lakes trek",
+                "pir panjal range",
+                "Pir Panjal",
+                "treks in Jammu",
+                "treks in Jammu and Kashmir",
+                "Pir Panjal Lakes",
+                "monsoon trek",
+                "poonch"
+            ]
+        },
+        {
+            "title": "Ranthan Kharak Trek",
+            "uid": "ranthan-top-trek",
+            "elevation": "12,887",
+            "duration": "7",
+            "cost": "9,450",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "",
+            "tags": [
+                "Treks in kumaon",
+                "June",
+                "Kumaon",
+                "Moderate",
+                "Summer (May, Jun)",
+                "May",
+                "October",
+                "September",
+                "Autumn (Mid-Sep, Oct, Nov)",
+                "Uttrakhand"
+            ]
+        },
+        {
+            "title": "Rupin Pass",
+            "uid": "rupin-pass",
+            "elevation": "15,279",
+            "duration": "7",
+            "cost": "15,750",
+            "difficulty": [
+                "moderate",
+                "difficult"
+            ],
+            "location": "Himanchal Pradesh",
+            "distance": "",
+            "tags": [
+                "Himanchal Pradesh",
+                "Moderate - Difficult",
+                "June",
+                "Summer (May, Jun)",
+                "Moderate-Difficult",
+                "May",
+                "October",
+                "September",
+                "Summer",
+                "Autumn (Mid-Sep, Oct, Nov)",
+                "Autumn"
+            ]
+        },
+        {
+            "title": "Sandakphu Phalut Trek",
+            "uid": "sandakphu-phalut",
+            "elevation": "11,930",
+            "duration": "7",
+            "cost": "12,950",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Sikkim",
+            "distance": "",
+            "tags": [
+                "January",
+                "February",
+                "Moderate",
+                "Summer (May, Jun)",
+                "Spring",
+                "West Bengal",
+                "Winter",
+                "Winter (Dec, Jan, Feb)",
+                "Summer",
+                "Sikkim",
+                "April",
+                "March",
+                "December",
+                "Autumn (Mid-Sep, Oct, Nov)",
+                "Autumn",
+                "Nepal",
+                "Spring (Mar, Apr)"
+            ]
+        },
+        {
+            "title": "Surya Top",
+            "uid": "surya-top",
+            "elevation": "12,900",
+            "duration": "7",
+            "cost": "11,950",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "",
+            "tags": [
+                "snow",
+                "July",
+                "yamunotri",
+                "Trekking in Kumaon",
+                "march",
+                "meadows",
+                "solo women trekkers",
+                "Gangotri",
+                "summit",
+                "Moderate",
+                "Spring",
+                "ridge",
+                "Trekking In Uttarakhand",
+                "Soorya top",
+                "Mountain lover",
+                "March"
+            ]
+        },
+        {
+            "title": "Tarsar Marsar Trek",
+            "uid": "tarsar-marsar",
+            "elevation": "13,165",
+            "duration": "7",
+            "cost": "14,950",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Jammu and Kashmir",
+            "distance": "",
+            "tags": [
+                "Jammu and Kashmir",
+                "July",
+                "August",
+                "Monsoon (Jul, Aug, Mid-Sep)",
+                "Monsoon",
+                "Moderate",
+                "Rainy",
+                "September"
+            ]
+        },
+        {
+            "title": "Tulian Lake Trek",
+            "uid": "tulian-lake",
+            "elevation": "12,087",
+            "duration": "5",
+            "cost": "11,450",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Jammu and Kashmir",
+            "distance": "",
+            "tags": [
+                "Jammu and Kashmir",
+                "July",
+                "August",
+                "Monsoon (Jul, Aug, Mid-Sep)",
+                "Monsoon",
+                "Tulian Valley",
+                "Deno Valley",
+                "Tulyan Lake",
+                "Moderate",
+                "Tulian Lake trek",
+                "Baisaran",
+                "Rainy",
+                "September",
+                "Tulian Lake",
+                "Kashmir Valley"
+            ]
+        },
+        {
+            "title": "Valley of Flowers",
+            "uid": "valley-of-flowers",
+            "elevation": "14,107",
+            "duration": "6",
+            "cost": "11,950",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": "",
+            "tags": [
+                "July",
+                "UNESCO World Heritage Site",
+                "Monsoon (Jul, Aug, Mid-Sep)",
+                "Monsoon",
+                "Moderate",
+                "Uttarakhand",
+                "September"
+            ]
+        },
+        {
+            "title": "Warwan Valley Trek",
+            "uid": "warwan-valley",
+            "elevation": "14,495",
+            "duration": "9",
+            "cost": "19,750",
+            "difficulty": [
+                "difficult"
+            ],
+            "location": "Jammu and Kashmir",
+            "distance": "",
+            "tags": [
+                "Jammu and Kashmir",
+                "July",
+                "August",
+                "Monsoon (Jul, Aug, Mid-Sep)",
+                "Monsoon",
+                "Difficult"
+            ]
+        }
+    ]
+}
