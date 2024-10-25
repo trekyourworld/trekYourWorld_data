@@ -143,6 +143,7 @@ def main(output_path):
     complied_output = []
     for i in range(len(input_path_list)):
         parsed_data = parse_json(input_path_list[i])
+        print(parsed_data)
         cleaned_data = clean_data(parsed_data)
         complied_output.append(cleaned_data)
 
