@@ -130,7 +130,7 @@ def get_all_data_files(base_path):
 
 def main(output_path):
     print("Skipping File Download")
-    print(f"Performing the operation for {org}")
+    # print(f"Performing the operation for {org}")
 
     # orgs_list = org.split(",")
     input_path_list = get_all_data_files("./data")
