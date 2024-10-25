@@ -134,7 +134,7 @@ def main(output_path):
 
     # orgs_list = org.split(",")
     input_path_list = get_all_data_files("./data")
-    print(input_path_list)
+    # print(input_path_list)
     # if len(orgs_list) is not len(input_path_list):
     #     print("Please enter correct input")
     #     print(f"Orgs: {orgs_list} should be equivalent to input paths provided: {input_path_list}")
@@ -149,11 +149,11 @@ def main(output_path):
 
     save_json(complied_output, output_path)
 
-    print(complied_output)
+    # print(complied_output)
 
-    # db_handler = DBHandler(complied_output)
-    # db_handler.update_data()
-    # print(result)
+    db_handler = DBHandler(complied_output)
+    db_handler.update_data()
+    print(result)
 
 if __name__ == "__main__":
     args=parser.parse_args()

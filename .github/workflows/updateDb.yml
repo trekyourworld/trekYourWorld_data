@@ -24,12 +24,6 @@ jobs:
                 pip install -r requirements.txt
             - name: Update DB
               env:
-                IH_URL: ${{ vars.IH_URL }}
-                IH_KEY: ${{ vars.IH_KEY }}
-                TTH_URL: ${{ vars.TTH_URL }}
-                TTH_KEY: ${{ vars.TTH_KEY }}
-                BKT_URL: ${{ vars.BKT_URL }}
-                BKT_KEY: ${{ vars.BKT_KEY }}
                 DB_NAME: ${{ secrets.DB_NAME }}
                 DB_URI: ${{ secrets.DB_URI }}
                 COLLECTION_NAME: ${{ secrets.COLLECTION_NAME }}
