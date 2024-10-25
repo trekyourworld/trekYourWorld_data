@@ -128,7 +128,7 @@ def get_all_data_files(base_path):
             file_paths.append(os.path.join(root, file))
     return file_paths
 
-def main(org, input_path, output_path):
+def main(output_path):
     print("Skipping File Download")
     print(f"Performing the operation for {org}")
 
@@ -157,4 +157,4 @@ def main(org, input_path, output_path):
 if __name__ == "__main__":
     args=parser.parse_args()
 
-    main(args.org, args.input, args.output)
+    main(args.output)
