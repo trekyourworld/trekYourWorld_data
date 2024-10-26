@@ -759,6 +759,32 @@
             "location": "Himanchal Pradesh",
             "distance": "22",
             "tags": []
+        },
+        {
+            "title": "Bandarpunch Peak",
+            "uid": "bandarpunch-peak-expedition",
+            "elevation": "20,722",
+            "duration": "17",
+            "cost": "1,80,000",
+            "difficulty": [
+                "challenging"
+            ],
+            "location": "Uttarakhand",
+            "distance": "22",
+            "tags": []
+        },
+        {
+            "title": "Arwa Tower Peak Expedition",
+            "uid": "arwa-tower-peak-expedition",
+            "elevation": "20,840",
+            "duration": "29",
+            "cost": "2,50,000",
+            "difficulty": [
+                "challenging"
+            ],
+            "location": "Uttarakhand",
+            "distance": "22",
+            "tags": []
         }
     ]
 }
