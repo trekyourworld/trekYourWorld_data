@@ -29,7 +29,8 @@
                 "Moderate-Difficult",
                 "Tashkent",
                 "Kyrgyzstan"
-            ]
+            ],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Ali Bedni Bugyal Trek",
@@ -62,7 +63,8 @@
                 "Autumn",
                 "Family Treks",
                 "Spring (Mar, Apr)"
-            ]
+            ],
+            "bestTimeToTarget": ["March", "April", "May", "June", "September", "October", "November", "December", "January", "February"]
         },
         {
             "title": "Georgia Atsunta Pass Trek",
@@ -86,7 +88,8 @@
                 "September",
                 "Summer",
                 "Autumn"
-            ]
+            ],
+            "bestTimeToTarget": ["June", "July", "September"]
         },
         {
             "title": "Bali Pass Trek",
@@ -108,7 +111,8 @@
                 "September",
                 "Summer",
                 "Autumn (Mid-Sep, Oct, Nov)"
-            ]
+            ],
+            "bestTimeToTarget": ["May", "June", "September", "October", "November"]
         },
         {
             "title": "Beas Kund Trek",
@@ -131,7 +135,8 @@
                 "September",
                 "Summer",
                 "Autumn"
-            ]
+            ],
+            "bestTimeToTarget": ["June", "July", "August", "September"]
         },
         {
             "title": "Bhrigu Lake Trek",
@@ -155,7 +160,8 @@
                 "Moderate",
                 "October",
                 "September"
-            ]
+            ],
+            "bestTimeToTarget": ["June", "July", "August", "September", "October"]
         },
         {
             "title": "Bijli Mahadev Trek",
@@ -176,7 +182,8 @@
                 "trekking in manali",
                 "June",
                 "forests of manali"
-            ]
+            ],
+            "bestTimeToTarget": ["June", "July", "August"]
         },
         {
             "title": "Bodpathri Trek",
@@ -198,7 +205,8 @@
                 "Monsoon",
                 "Moderate-Difficult",
                 "September"
-            ]
+            ],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Brahmatal Trek",
@@ -233,7 +241,8 @@
                 "Autumn",
                 "Family Treks",
                 "Spring (Mar, Apr)"
-            ]
+            ],
+            "bestTimeToTarget": ["March", "April", "May", "June", "September", "October", "November", "December", "January", "February"]
         },
         {
             "title": "Brammah Valley Trek",
@@ -252,7 +261,8 @@
                 "Moderate",
                 "Summer (May, Jun)",
                 "may"
-            ]
+            ],
+            "bestTimeToTarget": ["May", "June"]
         },
         {
             "title": "Buran Ghati Trek",
@@ -276,7 +286,8 @@
                 "Summer",
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Autumn"
-            ]
+            ],
+            "bestTimeToTarget": ["May", "June", "September", "October", "November"]
         },
         {
             "title": "Chandrakhani Pass Trek",
@@ -297,7 +308,8 @@
                 "Treks near Manali",
                 "Moderate",
                 "Indiahikes"
-            ]
+            ],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Dafeybhir Pass Trek",
@@ -319,7 +331,8 @@
                 "Sikkim",
                 "Kanchenjunga",
                 "Rhododendrons"
-            ]
+            ],
+            "bestTimeToTarget": ["April", "October"]
         },
         {
             "title": "Dayara Bugyal Trek",
@@ -355,7 +368,8 @@
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Autumn",
                 "Spring (Mar, Apr)"
-            ]
+            ],
+            "bestTimeToTarget": ["March", "April", "May", "June", "September", "October", "November", "December", "January", "February"]
         },
         {
             "title": "Deoriatal Chandrashila Trek",
@@ -389,7 +403,8 @@
                 "March",
                 "December",
                 "Autumn Trek"
-            ]
+            ],
+            "bestTimeToTarget": ["January", "February", "March", "April", "May", "June", "September", "October", "November", "December"]
         },
         {
             "title": "Everest Base Camp (Classic Route)",
@@ -411,7 +426,8 @@
                 "April",
                 "Autumn",
                 "Nepal"
-            ]
+            ],
+            "bestTimeToTarget": ["April", "May", "September", "October", "November"]
         },
         {
             "title": "Everest Base Camp via Gokyo Ri Trek",
@@ -439,7 +455,8 @@
                 "Gokyo Ri",
                 "Autumn",
                 "Nepal"
-            ]
+            ],
+            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"]
         },
         {
             "title": "Gaumukh Tapovan Trek",
@@ -461,7 +478,8 @@
                 "Summer",
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Autumn"
-            ]
+            ],
+            "bestTimeToTarget": ["May", "June", "September", "October", "November"]
         },
         {
             "title": "Gidara Bugyal",
@@ -483,7 +501,8 @@
                 "September",
                 "Summer",
                 "Autumn"
-            ]
+            ],
+            "bestTimeToTarget": ["June", "September", "October"]
         },
         {
             "title": "Goechala Trek",
@@ -510,7 +529,8 @@
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Autumn",
                 "Spring (Mar, Apr)"
-            ]
+            ],
+            "bestTimeToTarget": ["March", "April", "May", "June", "September", "October", "November"]
         },
         {
             "title": "Gurez Valley Trek",
@@ -530,7 +550,8 @@
                 "Monsoon (Jul, Aug, Mid-Sep)",
                 "Moderate",
                 "September"
-            ]
+            ],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Hampta Pass Trek",
@@ -557,7 +578,8 @@
                 "moderate",
                 "October",
                 "September"
-            ]
+            ],
+            "bestTimeToTarget": ["July", "August", "September", "October"]
         },
         {
             "title": "Har Ki Dun",
@@ -587,7 +609,8 @@
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Autumn",
                 "may"
-            ]
+            ],
+            "bestTimeToTarget": ["April", "May", "June", "September", "October", "November"]
         },
         {
             "title": "Kashmir Great Lakes Trek ",
@@ -610,7 +633,8 @@
                 "Moderate-Difficult",
                 "September",
                 "September "
-            ]
+            ],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Kedarkantha Trek",
@@ -642,7 +666,8 @@
                 "himalayan trekking for beginners",
                 "Autumn",
                 "Spring (Mar, Apr)"
-            ]
+            ],
+            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "June", "September", "October", "November"]
         },
         {
             "title": "Kedartal Trek",
@@ -663,7 +688,8 @@
                 "Summer",
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Autumn"
-            ]
+            ],
+            "bestTimeToTarget": ["May", "June", "September", "October", "November"]
         },
         {
             "title": "Khopra Ridge Trek",
@@ -694,7 +720,8 @@
                 "Nepal",
                 "Mt Fishtail",
                 "Spring (Mar, Apr)"
-            ]
+            ],
+            "bestTimeToTarget": ["March", "April", "September", "October", "November"]
         },
         {
             "title": "Kuari Pass Trek",
@@ -728,7 +755,8 @@
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Spring (Mar, Apr)",
                 "Autumn Trek"
-            ]
+            ],
+            "bestTimeToTarget": ["February", "March", "April", "May", "June", "September", "October", "November", "December"]
         },
         {
             "title": "Miyar Valley",
@@ -751,7 +779,8 @@
                 "Lahaul Valley",
                 "April",
                 "Autumn"
-            ]
+            ],
+            "bestTimeToTarget": ["April", "July", "August", "September", "October"]
         },
         {
             "title": "Mount Kilimanjaro Trek",
@@ -785,7 +814,8 @@
                 "Marangu",
                 "Africa",
                 "Autumn"
-            ]
+            ],
+            "bestTimeToTarget": ["January", "February", "June", "July", "August", "September", "October"]
         },
         {
             "title": "Mount Rinjani Trek",
@@ -807,7 +837,8 @@
                 "Difficult",
                 "Indonesia",
                 "September"
-            ]
+            ],
+            "bestTimeToTarget": ["May", "June", "August", "September"]
         },
         {
             "title": "Nafran Valley Trek",
@@ -832,7 +863,8 @@
                 "autumn",
                 "Kashmir",
                 "jammu-and-kashmir"
-            ]
+            ],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Nag Tibba Weekend Trek",
@@ -862,7 +894,8 @@
                 "December",
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Spring (Mar, Apr)"
-            ]
+            ],
+            "bestTimeToTarget": ["January", "February", "March", "April", "May", "June", "September", "October", "November", "December"]
         },
         {
             "title": "Pangarchulla Peak Trek",
@@ -884,7 +917,8 @@
                 "Difficult",
                 "April",
                 "Spring (Mar, Apr)"
-            ]
+            ],
+            "bestTimeToTarget": ["March", "April"]
         },
         {
             "title": "Phulara Ridge Trek",
@@ -909,7 +943,8 @@
                 "Summer",
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Autumn"
-            ]
+            ],
+            "bestTimeToTarget": ["May", "June", "September", "October", "November"]
         },
         {
             "title": "Pin Bhaba Pass Trek",
@@ -932,7 +967,8 @@
                 "Moderate-Difficult",
                 "Difficult",
                 "September"
-            ]
+            ],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Pir Panjal Lakes Trek",
@@ -957,7 +993,8 @@
                 "Pir Panjal Lakes",
                 "monsoon trek",
                 "poonch"
-            ]
+            ],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Ranthan Kharak Trek",
@@ -981,7 +1018,8 @@
                 "September",
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Uttrakhand"
-            ]
+            ],
+            "bestTimeToTarget": ["May", "June", "September", "October", "November"]
         },
         {
             "title": "Rupin Pass",
@@ -1007,7 +1045,8 @@
                 "Summer",
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Autumn"
-            ]
+            ],
+            "bestTimeToTarget": ["May", "June", "September", "October", "November"]
         },
         {
             "title": "Sandakphu Phalut Trek",
@@ -1038,7 +1077,8 @@
                 "Autumn",
                 "Nepal",
                 "Spring (Mar, Apr)"
-            ]
+            ],
+            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "June", "September", "October", "November"]
         },
         {
             "title": "Surya Top",
@@ -1068,7 +1108,8 @@
                 "Soorya top",
                 "Mountain lover",
                 "March"
-            ]
+            ],
+            "bestTimeToTarget": ["March", "July"]
         },
         {
             "title": "Tarsar Marsar Trek",
@@ -1090,7 +1131,8 @@
                 "Moderate",
                 "Rainy",
                 "September"
-            ]
+            ],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Tulian Lake Trek",
@@ -1119,7 +1161,8 @@
                 "September",
                 "Tulian Lake",
                 "Kashmir Valley"
-            ]
+            ],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Valley of Flowers",
@@ -1140,7 +1183,8 @@
                 "Moderate",
                 "Uttarakhand",
                 "September"
-            ]
+            ],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Warwan Valley Trek",
@@ -1160,7 +1204,8 @@
                 "Monsoon (Jul, Aug, Mid-Sep)",
                 "Monsoon",
                 "Difficult"
-            ]
+            ],
+            "bestTimeToTarget": ["July", "August", "September"]
         }
     ]
 }

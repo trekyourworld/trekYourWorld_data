@@ -17,7 +17,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "30",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["March", "April", "May", "June", "September", "October", "November"]
         },
         {
             "title": "Brahmatal Trek",
@@ -31,7 +32,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "30",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "October", "November"]
         },
         {
             "title": "Bhrigu Lake Trek",
@@ -45,7 +47,8 @@
             ],
             "location": "Himanchal Pradesh",
             "distance": "29",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["June", "July", "August", "September"]
         },
         {
             "title": "Chopta Chandrashila Tungnath Trek with Deorital",
@@ -59,7 +62,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "30",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "September", "October", "November"]
         },
         {
             "title": "Har Ki Dun Trek",
@@ -73,7 +77,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "50",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["April", "May", "June", "September", "October", "November"]
         },
         {
             "title": "Hampta Pass Trek",
@@ -87,7 +92,8 @@
             ],
             "location": "Himanchal Pradesh",
             "distance": "35",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["June", "July", "August", "September"]
         },
         {
             "title": "Kedarkantha Trek",
@@ -101,7 +107,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "23",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "October", "November"]
         },
         {
             "title": "Kuari Pass Trek",
@@ -115,7 +122,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "30",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "June", "September", "October", "November"]
         },
         {
             "title": "Marchoi Trek",
@@ -129,7 +137,8 @@
             ],
             "location": "Jammu and Kashmir",
             "distance": "16",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Phulara Ridge Trek",
@@ -143,7 +152,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "30",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["May", "June", "September", "October"]
         },
         {
             "title": "Valley Of Flowers Trek",
@@ -157,7 +167,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "41",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Sar Pass Trek",
@@ -171,7 +182,8 @@
             ],
             "location": "Himanchal Pradesh",
             "distance": "28",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["May", "June", "September", "October"]
         },
         {
             "title": "Chandrakhani Pass Trek",
@@ -184,7 +196,8 @@
             ],
             "location": "Himanchal Pradesh",
             "distance": "22",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["May", "June", "September", "October"]
         },
         {
             "title": "Gurez Valley Trek",
@@ -197,7 +210,8 @@
             ],
             "location": "Jammu and Kashmir",
             "distance": "38",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Nafran Valley Trek",
@@ -210,7 +224,8 @@
             ],
             "location": "Jammu and Kashmir",
             "distance": "",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Tarsar Marsar Trek",
@@ -223,7 +238,8 @@
             ],
             "location": "Jammu and Kashmir",
             "distance": "49",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Bodpathri Lakes Trek",
@@ -237,7 +253,8 @@
             ],
             "location": "Jammu and Kashmir",
             "distance": "45",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Gaumukh Tapovan Trek",
@@ -250,7 +267,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "40",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["May", "June", "September", "October"]
         },
         {
             "title": "Pangarchulla Peak Trek",
@@ -263,7 +281,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "47",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["March", "April", "May"]
         },
         {
             "title": "Miyar Valley Trek",
@@ -276,7 +295,8 @@
             ],
             "location": "Himanchal Pradesh",
             "distance": "60",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Chadar Trek",
@@ -289,7 +309,8 @@
             ],
             "location": "Ladakh",
             "distance": "61",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["January", "February"]
         },
         {
             "title": "Sandakphu Trek",
@@ -302,7 +323,8 @@
             ],
             "location": "West Bengal",
             "distance": "81",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["March", "April", "May", "October", "November", "December"]
         },
         {
             "title": "Beas Kund Trek",
@@ -315,7 +337,8 @@
             ],
             "location": "Himanchal Pradesh",
             "distance": "32",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["June", "July", "August", "September"]
         },
         {
             "title": "Ranthan Kharak Trek",
@@ -328,7 +351,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "37",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["May", "June", "September", "October", "November"]
         },
         {
             "title": "Surya Top Trek",
@@ -341,7 +365,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "35",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["March", "July"]
         },
         {
             "title": "Nag Tibba Trek",
@@ -355,7 +380,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "20",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["January", "February", "March", "April", "May", "October", "November", "December"]
         },
         {
             "title": "Deo Tibba Base Camp Trek",
@@ -368,7 +394,8 @@
             ],
             "location": "Himanchal Pradesh",
             "distance": "37",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["May", "June", "September", "October"]
         },
         {
             "title": "Rupin Pass Trek",
@@ -382,7 +409,8 @@
             ],
             "location": "Himanchal Pradesh",
             "distance": "40",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["May", "June", "September", "October"]
         },
         {
             "title": "Buran Ghati Trek",
@@ -396,7 +424,8 @@
             ],
             "location": "Himanchal Pradesh",
             "distance": "40",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["May", "June", "September", "October"]
         },
         {
             "title": "Kashmir Great Lakes Trek",
@@ -410,7 +439,8 @@
             ],
             "location": "Jammu and Kashmir",
             "distance": "69",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Bali Pass Trek",
@@ -423,7 +453,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "52",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["May", "June", "September", "October"]
         },
         {
             "title": "Goechala Trek",
@@ -437,7 +468,8 @@
             ],
             "location": "Sikkim",
             "distance": "87",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"]
         },
         {
             "title": "Bharadsar Lake Trek",
@@ -451,7 +483,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "61",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["June", "July", "August", "September"]
         },
         {
             "title": "Khopra Ridge Trek",
@@ -465,7 +498,8 @@
             ],
             "location": "Nepal",
             "distance": "60",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"]
         },
         {
             "title": "Pir Panjal Lakes Trek",
@@ -479,7 +513,8 @@
             ],
             "location": "Jammu and Kashmir",
             "distance": "48",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Satopanth Lake Trek",
@@ -492,7 +527,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "41",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["June", "July", "August", "September"]
         },
         {
             "title": "Kedartal Trek",
@@ -506,7 +542,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "33",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["May", "June", "September", "October"]
         },
         {
             "title": "Annapurna Base Camp Trek",
@@ -520,7 +557,8 @@
             ],
             "location": "Nepal",
             "distance": "64",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"]
         },
         {
             "title": "Markha Valley Trek",
@@ -534,7 +572,8 @@
             ],
             "location": "Ladakh",
             "distance": "67",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["June", "July", "August", "September"]
         },
         {
             "title": "Mt. Hanuman Tibba Expedition",
@@ -547,7 +586,8 @@
             ],
             "location": "Himanchal Pradesh",
             "distance": "",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["May", "June", "September", "October"]
         },
         {
             "title": "Pin Bhaba Pass Trek",
@@ -560,7 +600,8 @@
             ],
             "location": "Himanchal Pradesh",
             "distance": "51",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Warwan Valley Trek",
@@ -573,7 +614,8 @@
             ],
             "location": "Jammu and Kashmir",
             "distance": "85",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["July", "August", "September"]
         },
         {
             "title": "Kilimanjaro Trek",
@@ -587,7 +629,8 @@
             ],
             "location": "Tanzania",
             "distance": "64",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["January", "February", "June", "July", "August", "September", "December"]
         },
         {
             "title": "Dafeybhir Pass Trek",
@@ -600,7 +643,8 @@
             ],
             "location": "Sikkim",
             "distance": "",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["April", "October"]
         },
         {
             "title": "Everest Base Camp Trek",
@@ -613,7 +657,8 @@
             ],
             "location": "Nepal",
             "distance": "126",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"]
         },
         {
             "title": "Mentok Kangri II Trek",
@@ -626,7 +671,8 @@
             ],
             "location": "Ladakh",
             "distance": "34",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["June", "July", "August", "September"]
         },
         {
             "title": "Pindari Glacier Trek",
@@ -640,7 +686,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "50",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["May", "June", "September", "October"]
         },
         {
             "title": "Mt. Black Peak Expedition",
@@ -653,7 +700,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["May", "June", "September", "October"]
         },
         {
             "title": "Borasu Pass Trek",
@@ -667,7 +715,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "63",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["June", "July", "August", "September"]
         },
         {
             "title": "Dhumdhar Kandi Pass Trek",
@@ -680,7 +729,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["June", "July", "August", "September"]
         },
         {
             "title": "Nanda Devi Base Camp",
@@ -694,7 +744,8 @@
             ],
             "location": "Uttarakhand",
             "distance": "103",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["May", "June", "September", "October"]
         },
         {
             "title": "Kang Yatse 2 Trek",
@@ -708,7 +759,8 @@
             ],
             "location": "Ladakh",
             "distance": "78",
-            "tags": []
+            "tags": [],
+            "bestTimeToTarget": ["June", "July", "August", "September"]
         }
     ]
 }
