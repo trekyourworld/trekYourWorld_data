@@ -18,7 +18,8 @@
             "location": "Uttarakhand",
             "distance": "30",
             "tags": [],
-            "bestTimeToTarget": ["March", "April", "May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["March", "April", "May", "June", "September", "October", "November"],
+            "description": "The Ali Bedni Bugyal Trek is a delightful journey through the pristine meadows of Uttarakhand. Trekkers are treated to stunning views of the Nanda Ghunti and Trishul peaks, especially from the Bedni Bugyal campsite. The trek is rich in flora and fauna, with chances to spot the elusive snow leopard. This trek is ideal for those looking to experience the serene beauty of the Himalayas without the usual crowds."
         },
         {
             "title": "Brahmatal Trek",
@@ -33,7 +34,8 @@
             "location": "Uttarakhand",
             "distance": "30",
             "tags": [],
-            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "October", "November"]
+            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "October", "November"],
+            "description": "The Brahmatal Trek is a hidden gem in the Indian Himalayas, offering a perfect blend of adventure and tranquility. The trek takes you through ancient forests, charming villages, and pristine alpine lakes. The highlight is the Brahmatal Lake, which reflects the surrounding peaks, creating a mesmerizing sight. This trek is perfect for those seeking solitude and a deeper connection with nature."
         },
         {
             "title": "Bhrigu Lake Trek",
@@ -48,7 +50,8 @@
             "location": "Himanchal Pradesh",
             "distance": "29",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Bhrigu Lake Trek is a captivating journey that leads to one of the most beautiful high-altitude lakes in the Kullu Valley. The trek offers stunning views of the Pir Panjal and Dhauladhar ranges. Trekkers will enjoy walking through lush green meadows, dense forests, and rocky terrains. The lake itself is a sight to behold, with its crystal-clear waters reflecting the surrounding mountains. This trek is ideal for those looking to experience the raw beauty of the Himalayas."
         },
         {
             "title": "Chopta Chandrashila Tungnath Trek with Deorital",
@@ -63,7 +66,8 @@
             "location": "Uttarakhand",
             "distance": "30",
             "tags": [],
-            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "September", "October", "November"]
+            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "September", "October", "November"],
+            "description": "The Chopta Chandrashila Tungnath Trek with Deorital is a mesmerizing journey that combines stunning landscapes with rich cultural experiences. The trek takes you to the Tungnath temple, one of the highest Shiva temples in the world, and offers panoramic views of the Himalayan peaks from Chandrashila. The Deorital lake, with its emerald waters, adds to the trek's charm. This trek is perfect for those seeking a spiritual and scenic adventure."
         },
         {
             "title": "Har Ki Dun Trek",
@@ -78,7 +82,8 @@
             "location": "Uttarakhand",
             "distance": "50",
             "tags": [],
-            "bestTimeToTarget": ["April", "May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["April", "May", "June", "September", "October", "November"],
+            "description": "The Har Ki Dun Trek is a classic Himalayan trek that takes you to the beautiful Har Ki Dun valley, known for its stunning vistas and rich biodiversity. The trek offers a perfect blend of lush green meadows, dense forests, and snow-capped peaks. Trekkers will also get a chance to explore the ancient villages and get a glimpse of the local culture. This trek is ideal for those looking to experience the untouched beauty of the Indian Himalayas."
         },
         {
             "title": "Hampta Pass Trek",
@@ -93,7 +98,8 @@
             "location": "Himanchal Pradesh",
             "distance": "35",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Hampta Pass Trek is a fascinating journey that takes you through the lush green valleys of Kullu to the barren landscapes of Lahaul. The trek offers stunning views of the Himalayan ranges and takes you through charming villages, dense forests, and beautiful meadows. The pass itself offers a breathtaking 360-degree view of the surrounding peaks. This trek is perfect for those seeking a diverse and scenic trekking experience."
         },
         {
             "title": "Kedarkantha Trek",
@@ -108,7 +114,8 @@
             "location": "Uttarakhand",
             "distance": "23",
             "tags": [],
-            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "October", "November"]
+            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "October", "November"],
+            "description": "The Kedarkantha Trek is a popular winter trek in India, known for its stunning snow-covered landscapes and panoramic views of the Himalayan peaks. The trek takes you through beautiful pine forests, charming villages, and pristine meadows. The summit of Kedarkantha offers a breathtaking view of the surrounding peaks and valleys. This trek is ideal for those looking to experience the beauty of the Himalayas in winter."
         },
         {
             "title": "Kuari Pass Trek",
@@ -123,7 +130,8 @@
             "location": "Uttarakhand",
             "distance": "30",
             "tags": [],
-            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "June", "September", "October", "November"],
+            "description": "The Kuari Pass Trek, also known as the 'Lord Curzon Trail', is a delightful journey that offers stunning views of the Nanda Devi and Dhauladhar ranges. The trek takes you through beautiful forests, lush meadows, and charming villages. The pass itself offers a breathtaking view of the surrounding peaks and valleys. This trek is perfect for those seeking a scenic and culturally rich trekking experience."
         },
         {
             "title": "Marchoi Trek",
@@ -138,7 +146,8 @@
             "location": "Jammu and Kashmir",
             "distance": "16",
             "tags": [],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "The Marchoi Trek is a hidden gem in the Indian Himalayas, offering a perfect blend of adventure and tranquility. The trek takes you through ancient forests, charming villages, and pristine alpine lakes. The highlight is the Marchoi Lake, which reflects the surrounding peaks, creating a mesmerizing sight. This trek is ideal for those seeking solitude and a deeper connection with nature."
         },
         {
             "title": "Phulara Ridge Trek",
@@ -153,7 +162,8 @@
             "location": "Uttarakhand",
             "distance": "30",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Phulara Ridge Trek is a captivating journey that offers stunning views of the Himalayan peaks and the beautiful valleys of Uttarakhand. The trek takes you through lush green meadows, dense forests, and charming villages. The ridge itself offers a breathtaking 180-degree view of the surrounding peaks and valleys. This trek is perfect for those seeking a scenic and peaceful trekking experience."
         },
         {
             "title": "Valley Of Flowers Trek",
@@ -168,7 +178,8 @@
             "location": "Uttarakhand",
             "distance": "41",
             "tags": [],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "The Valley of Flowers Trek is a UNESCO World Heritage site and a paradise for nature lovers. The trek takes you through a vibrant carpet of endemic alpine flowers, lush green meadows, and pristine rivers. The valley is also home to a diverse range of flora and fauna, including the elusive snow leopard. This trek is ideal for those seeking a unique and breathtaking natural experience."
         },
         {
             "title": "Sar Pass Trek",
@@ -183,7 +194,8 @@
             "location": "Himanchal Pradesh",
             "distance": "28",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Sar Pass Trek is a delightful journey that offers stunning views of the Parvati Valley and the surrounding peaks. The trek takes you through beautiful forests, lush meadows, and charming villages. The pass itself offers a breathtaking view of the surrounding peaks and valleys. This trek is perfect for those seeking a scenic and culturally rich trekking experience."
         },
         {
             "title": "Chandrakhani Pass Trek",
@@ -197,7 +209,8 @@
             "location": "Himanchal Pradesh",
             "distance": "22",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Chandrakhani Pass Trek is a scenic journey that offers stunning views of the Kullu Valley and the surrounding peaks. The trek takes you through beautiful forests, lush meadows, and charming villages. The pass itself offers a breathtaking view of the surrounding peaks and valleys. This trek is perfect for those seeking a scenic and culturally rich trekking experience."
         },
         {
             "title": "Gurez Valley Trek",
@@ -211,7 +224,8 @@
             "location": "Jammu and Kashmir",
             "distance": "38",
             "tags": [],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "The Gurez Valley Trek is a hidden gem in the Indian Himalayas, offering a perfect blend of adventure and tranquility. The trek takes you through ancient forests, charming villages, and pristine alpine lakes. The highlight is the Gurez Valley, with its emerald waters and stunning mountain backdrop. This trek is ideal for those seeking solitude and a deeper connection with nature."
         },
         {
             "title": "Nafran Valley Trek",
@@ -225,7 +239,8 @@
             "location": "Jammu and Kashmir",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "The Nafran Valley Trek is a captivating journey that offers stunning views of the Himalayan peaks and the beautiful valleys of Jammu and Kashmir. The trek takes you through lush green meadows, dense forests, and charming villages. The valley is also home to a diverse range of flora and fauna, including the elusive snow leopard. This trek is ideal for those seeking a unique and breathtaking natural experience."
         },
         {
             "title": "Tarsar Marsar Trek",
@@ -239,7 +254,8 @@
             "location": "Jammu and Kashmir",
             "distance": "49",
             "tags": [],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "The Tarsar Marsar Trek is a mesmerizing journey that takes you to two stunning alpine lakes, Tarsar and Marsar, in the Indian Himalayas. The trek offers breathtaking views of the surrounding peaks and valleys. Trekkers will enjoy walking through lush green meadows, dense forests, and rocky terrains. This trek is ideal for those looking to experience the raw beauty of the Himalayas."
         },
         {
             "title": "Bodpathri Lakes Trek",
@@ -254,7 +270,8 @@
             "location": "Jammu and Kashmir",
             "distance": "45",
             "tags": [],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "The Bodpathri Lakes Trek is a hidden gem in the Indian Himalayas, offering a perfect blend of adventure and tranquility. The trek takes you through ancient forests, charming villages, and pristine alpine lakes. The highlight is the Bodpathri Lake, which reflects the surrounding peaks, creating a mesmerizing sight. This trek is ideal for those seeking solitude and a deeper connection with nature."
         },
         {
             "title": "Gaumukh Tapovan Trek",
@@ -268,7 +285,8 @@
             "location": "Uttarakhand",
             "distance": "40",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Gaumukh Tapovan Trek is a classic Himalayan trek that takes you to the source of the Ganges River, Gaumukh, and the stunning Tapovan meadow. The trek offers breathtaking views of the surrounding peaks and glaciers. Trekkers will enjoy walking through lush green meadows, dense forests, and rocky terrains. This trek is ideal for those looking to experience the raw beauty of the Himalayas."
         },
         {
             "title": "Pangarchulla Peak Trek",
@@ -282,7 +300,8 @@
             "location": "Uttarakhand",
             "distance": "47",
             "tags": [],
-            "bestTimeToTarget": ["March", "April", "May"]
+            "bestTimeToTarget": ["March", "April", "May"],
+            "description": "The Pangarchulla Peak Trek is a challenging yet rewarding journey that takes you to the summit of Pangarchulla Peak, offering breathtaking views of the Himalayan ranges. The trek takes you through beautiful forests, lush meadows, and rocky terrains. The summit offers a stunning 360-degree view of the surrounding peaks and valleys. This trek is ideal for those seeking a thrilling and scenic adventure."
         },
         {
             "title": "Miyar Valley Trek",
@@ -296,7 +315,8 @@
             "location": "Himanchal Pradesh",
             "distance": "60",
             "tags": [],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "The Miyar Valley Trek is a hidden gem in the Indian Himalayas, offering a perfect blend of adventure and tranquility. The trek takes you through ancient forests, charming villages, and pristine alpine lakes. The highlight is the Miyar Valley, with its emerald waters and stunning mountain backdrop. This trek is ideal for those seeking solitude and a deeper connection with nature."
         },
         {
             "title": "Chadar Trek",
@@ -310,7 +330,8 @@
             "location": "Ladakh",
             "distance": "61",
             "tags": [],
-            "bestTimeToTarget": ["January", "February"]
+            "bestTimeToTarget": ["January", "February"],
+            "description": "The Chadar Trek is a unique and thrilling journey that takes you on the frozen Zanskar River in Ladakh. The trek offers breathtaking views of the surrounding peaks and the stunning ice formations on the river. Trekkers will enjoy walking through ancient monasteries, charming villages, and pristine landscapes. This trek is ideal for those seeking a once-in-a-lifetime adventure in the Himalayas."
         },
         {
             "title": "Sandakphu Trek",
@@ -324,7 +345,8 @@
             "location": "West Bengal",
             "distance": "81",
             "tags": [],
-            "bestTimeToTarget": ["March", "April", "May", "October", "November", "December"]
+            "bestTimeToTarget": ["March", "April", "May", "October", "November", "December"],
+            "description": "The Sandakphu Trek is a classic Himalayan trek that takes you to the highest peak in West Bengal, Sandakphu, offering breathtaking views of the Kanchenjunga and Everest ranges. The trek takes you through beautiful forests, lush meadows, and charming villages. The summit offers a stunning 360-degree view of the surrounding peaks and valleys. This trek is ideal for those seeking a thrilling and scenic adventure."
         },
         {
             "title": "Beas Kund Trek",
@@ -338,7 +360,8 @@
             "location": "Himanchal Pradesh",
             "distance": "32",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Beas Kund Trek is a short and scenic trek that takes you to the Beas Kund, the source of the Beas River, in the Indian Himalayas. The trek offers stunning views of the surrounding peaks and valleys. Trekkers will enjoy walking through lush green meadows, dense forests, and rocky terrains. This trek is ideal for those looking for a quick escape into the mountains."
         },
         {
             "title": "Ranthan Kharak Trek",
@@ -352,7 +375,8 @@
             "location": "Uttarakhand",
             "distance": "37",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["May", "June", "September", "October", "November"],
+            "description": "The Ranthan Kharak Trek is a delightful journey that offers stunning views of the Himalayan peaks and the beautiful valleys of Uttarakhand. The trek takes you through ancient forests, charming villages, and pristine meadows. The kharak (shepherd's hut) offers a unique glimpse into the life of the local shepherds. This trek is ideal for those seeking a scenic and culturally rich trekking experience."
         },
         {
             "title": "Surya Top Trek",
@@ -366,7 +390,8 @@
             "location": "Uttarakhand",
             "distance": "35",
             "tags": [],
-            "bestTimeToTarget": ["March", "July"]
+            "bestTimeToTarget": ["March", "July"],
+            "description": "The Surya Top Trek is a rewarding journey that takes you to the Surya Top, offering breathtaking views of the Himalayan ranges. The trek takes you through beautiful forests, lush meadows, and rocky terrains. The summit offers a stunning 360-degree view of the surrounding peaks and valleys. This trek is ideal for those seeking a thrilling and scenic adventure."
         },
         {
             "title": "Nag Tibba Trek",
@@ -381,7 +406,8 @@
             "location": "Uttarakhand",
             "distance": "20",
             "tags": [],
-            "bestTimeToTarget": ["January", "February", "March", "April", "May", "October", "November", "December"]
+            "bestTimeToTarget": ["January", "February", "March", "April", "May", "October", "November", "December"],
+            "description": "The Nag Tibba Trek is a short and scenic trek that takes you to the Nag Tibba, the highest peak in the Nag Tibba range, offering stunning views of the surrounding peaks and valleys. The trek takes you through beautiful forests, lush meadows, and rocky terrains. This trek is ideal for those looking for a quick escape into the mountains."
         },
         {
             "title": "Deo Tibba Base Camp Trek",
@@ -395,7 +421,8 @@
             "location": "Himanchal Pradesh",
             "distance": "37",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Deo Tibba Base Camp Trek is a classic Himalayan trek that takes you to the base camp of the Deo Tibba, offering breathtaking views of the surrounding peaks and glaciers. The trek takes you through beautiful forests, lush meadows, and rocky terrains. This trek is ideal for those looking to experience the raw beauty of the Himalayas."
         },
         {
             "title": "Rupin Pass Trek",
@@ -410,7 +437,8 @@
             "location": "Himanchal Pradesh",
             "distance": "40",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Rupin Pass Trek is a challenging yet rewarding journey that takes you over the Rupin Pass, offering breathtaking views of the Himalayan ranges. The trek takes you through beautiful forests, lush meadows, and rocky terrains. The pass itself offers a stunning 360-degree view of the surrounding peaks and valleys. This trek is ideal for those seeking a thrilling and scenic adventure."
         },
         {
             "title": "Buran Ghati Trek",
@@ -425,7 +453,8 @@
             "location": "Himanchal Pradesh",
             "distance": "40",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Buran Ghati Trek is a thrilling journey that takes you over the Buran Ghati, offering breathtaking views of the Himalayan ranges. The trek takes you through beautiful forests, lush meadows, and rocky terrains. The pass itself offers a stunning 360-degree view of the surrounding peaks and valleys. This trek is ideal for those seeking a challenging and scenic adventure."
         },
         {
             "title": "Kashmir Great Lakes Trek",
@@ -440,7 +469,8 @@
             "location": "Jammu and Kashmir",
             "distance": "69",
             "tags": [],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "The Kashmir Great Lakes Trek is a mesmerizing journey that takes you to some of the most beautiful alpine lakes in the Indian Himalayas. The trek offers breathtaking views of the surrounding peaks and valleys. Trekkers will enjoy walking through lush green meadows, dense forests, and rocky terrains. This trek is ideal for those looking to experience the raw beauty of the Himalayas."
         },
         {
             "title": "Bali Pass Trek",
@@ -454,7 +484,8 @@
             "location": "Uttarakhand",
             "distance": "52",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Bali Pass Trek is a challenging yet rewarding journey that takes you over the Bali Pass, offering breathtaking views of the Himalayan ranges. The trek takes you through beautiful forests, lush meadows, and rocky terrains. The pass itself offers a stunning 360-degree view of the surrounding peaks and valleys. This trek is ideal for those seeking a thrilling and scenic adventure."
         },
         {
             "title": "Goechala Trek",
@@ -469,7 +500,8 @@
             "location": "Sikkim",
             "distance": "87",
             "tags": [],
-            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"]
+            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"],
+            "description": "The Goechala Trek is a spectacular journey that takes you to the Goechala Pass, offering breathtaking views of the Kanchenjunga and other Himalayan peaks. The trek takes you through beautiful forests, lush meadows, and rocky terrains. The pass itself offers a stunning 360-degree view of the surrounding peaks and valleys. This trek is ideal for those seeking a challenging and scenic adventure."
         },
         {
             "title": "Bharadsar Lake Trek",
@@ -484,7 +516,8 @@
             "location": "Uttarakhand",
             "distance": "61",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Bharadsar Lake Trek is a hidden gem in the Indian Himalayas, offering a perfect blend of adventure and tranquility. The trek takes you through ancient forests, charming villages, and pristine alpine lakes. The highlight is the Bharadsar Lake, which reflects the surrounding peaks, creating a mesmerizing sight. This trek is ideal for those seeking solitude and a deeper connection with nature."
         },
         {
             "title": "Khopra Ridge Trek",
@@ -499,7 +532,8 @@
             "location": "Nepal",
             "distance": "60",
             "tags": [],
-            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"]
+            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"],
+            "description": "The Khopra Ridge Trek is a stunning journey that offers breathtaking views of the Annapurna and Dhauladhar ranges. The trek takes you through beautiful forests, lush meadows, and rocky terrains. The ridge itself offers a stunning 180-degree view of the surrounding peaks and valleys. This trek is perfect for those seeking a scenic and peaceful trekking experience."
         },
         {
             "title": "Pir Panjal Lakes Trek",
@@ -514,7 +548,8 @@
             "location": "Jammu and Kashmir",
             "distance": "48",
             "tags": [],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "The Pir Panjal Lakes Trek is a captivating journey that offers stunning views of the Himalayan peaks and the beautiful valleys of Jammu and Kashmir. The trek takes you through lush green meadows, dense forests, and rocky terrains. The lakes are a sight to behold, with their crystal-clear waters reflecting the surrounding mountains. This trek is ideal for those looking to experience the raw beauty of the Himalayas."
         },
         {
             "title": "Satopanth Lake Trek",
@@ -528,7 +563,8 @@
             "location": "Uttarakhand",
             "distance": "41",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Satopanth Lake Trek is a classic Himalayan trek that takes you to the stunning Satopanth Lake, known for its emerald waters and breathtaking mountain backdrop. The trek offers a perfect blend of adventure and tranquility, taking you through ancient forests, charming villages, and pristine alpine lakes. This trek is ideal for those seeking a spiritual and scenic adventure."
         },
         {
             "title": "Kedartal Trek",
@@ -543,7 +579,8 @@
             "location": "Uttarakhand",
             "distance": "33",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Kedartal Trek is a challenging yet rewarding journey that takes you to the stunning Kedartal, a high-altitude lake cradled by towering peaks. The trek offers breathtaking views of the surrounding mountains and glaciers. Trekkers will enjoy walking through lush green meadows, dense forests, and rocky terrains. This trek is ideal for those seeking a thrilling and scenic adventure."
         },
         {
             "title": "Annapurna Base Camp Trek",
@@ -558,7 +595,8 @@
             "location": "Nepal",
             "distance": "64",
             "tags": [],
-            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"]
+            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"],
+            "description": "The Annapurna Base Camp Trek is a classic Himalayan trek that takes you to the base camp of the Annapurna massif, offering breathtaking views of the surrounding peaks and glaciers. The trek takes you through beautiful forests, lush meadows, and rocky terrains. This trek is ideal for those looking to experience the raw beauty of the Himalayas."
         },
         {
             "title": "Markha Valley Trek",
@@ -573,7 +611,8 @@
             "location": "Ladakh",
             "distance": "67",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Markha Valley Trek is a mesmerizing journey that takes you through the stunning landscapes of the Markha Valley in Ladakh. The trek offers breathtaking views of the surrounding peaks and valleys. Trekkers will enjoy walking through ancient monasteries, charming villages, and pristine landscapes. This trek is ideal for those looking to experience the unique culture and breathtaking beauty of Ladakh."
         },
         {
             "title": "Mt. Hanuman Tibba Expedition",
@@ -587,7 +626,8 @@
             "location": "Himanchal Pradesh",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Mt. Hanuman Tibba Expedition is a challenging and rewarding journey that takes you to the summit of Mt. Hanuman Tibba, offering breathtaking views of the surrounding peaks and valleys. The trek takes you through beautiful forests, lush meadows, and rocky terrains. The summit offers a stunning 360-degree view of the surrounding peaks and valleys. This trek is ideal for those seeking a thrilling and scenic adventure."
         },
         {
             "title": "Pin Bhaba Pass Trek",
@@ -601,7 +641,8 @@
             "location": "Himanchal Pradesh",
             "distance": "51",
             "tags": [],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "The Pin Bhaba Pass Trek is a challenging yet rewarding journey that takes you over the Pin Bhaba Pass, offering breathtaking views of the Himalayan ranges. The trek takes you through beautiful forests, lush meadows, and rocky terrains. The pass itself offers a stunning 360-degree view of the surrounding peaks and valleys. This trek is ideal for those seeking a thrilling and scenic adventure."
         },
         {
             "title": "Warwan Valley Trek",
@@ -615,7 +656,8 @@
             "location": "Jammu and Kashmir",
             "distance": "85",
             "tags": [],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "The Warwan Valley Trek is a hidden gem in the Indian Himalayas, offering a perfect blend of adventure and tranquility. The trek takes you through ancient forests, charming villages, and pristine alpine lakes. The highlight is the Warwan Valley, with its emerald waters and stunning mountain backdrop. This trek is ideal for those seeking solitude and a deeper connection with nature."
         },
         {
             "title": "Kilimanjaro Trek",
@@ -630,7 +672,8 @@
             "location": "Tanzania",
             "distance": "64",
             "tags": [],
-            "bestTimeToTarget": ["January", "February", "June", "July", "August", "September", "December"]
+            "bestTimeToTarget": ["January", "February", "June", "July", "August", "September", "December"],
+            "description": "The Kilimanjaro Trek is a once-in-a-lifetime adventure that takes you to the summit of Mount Kilimanjaro, the highest peak in Africa. The trek offers breathtaking views of the surrounding landscapes and a chance to experience the unique flora and fauna of the Kilimanjaro National Park. This trek is ideal for those seeking a challenging and rewarding adventure."
         },
         {
             "title": "Dafeybhir Pass Trek",
@@ -644,7 +687,8 @@
             "location": "Sikkim",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["April", "October"]
+            "bestTimeToTarget": ["April", "October"],
+            "description": "The Dafeybhir Pass Trek is a challenging journey that takes you over the Dafeybhir Pass, offering breathtaking views of the Himalayan ranges. The trek takes you through beautiful forests, lush meadows, and rocky terrains. The pass itself offers a stunning 360-degree view of the surrounding peaks and valleys. This trek is ideal for those seeking a thrilling and scenic adventure."
         },
         {
             "title": "Everest Base Camp Trek",
@@ -658,7 +702,8 @@
             "location": "Nepal",
             "distance": "126",
             "tags": [],
-            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"]
+            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"],
+            "description": "The Everest Base Camp Trek is a classic Himalayan trek that takes you to the base camp of Mount Everest, the highest peak in the world. The trek offers breathtaking views of the surrounding peaks and glaciers. Trekkers will enjoy walking through ancient monasteries, charming villages, and pristine landscapes. This trek is ideal for those looking to experience the raw beauty of the Himalayas."
         },
         {
             "title": "Mentok Kangri II Trek",
@@ -672,7 +717,8 @@
             "location": "Ladakh",
             "distance": "34",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Mentok Kangri II Trek is a challenging journey that takes you to the summit of Mentok Kangri II, offering breathtaking views of the Himalayan ranges. The trek takes you through beautiful forests, lush meadows, and rocky terrains. The summit offers a stunning 360-degree view of the surrounding peaks and valleys. This trek is ideal for those seeking a thrilling and scenic adventure."
         },
         {
             "title": "Pindari Glacier Trek",
@@ -687,7 +733,8 @@
             "location": "Uttarakhand",
             "distance": "50",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Pindari Glacier Trek is a classic Himalayan trek that takes you to the Pindari Glacier, one of the most accessible glaciers in the Indian Himalayas. The trek offers breathtaking views of the surrounding peaks and glaciers. Trekkers will enjoy walking through lush green meadows, dense forests, and rocky terrains. This trek is ideal for those looking to experience the raw beauty of the Himalayas."
         },
         {
             "title": "Mt. Black Peak Expedition",
@@ -701,7 +748,8 @@
             "location": "Uttarakhand",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Mt. Black Peak Expedition is a challenging and rewarding journey that takes you to the summit of Mt. Black Peak, offering breathtaking views of the surrounding peaks and valleys. The trek takes you through beautiful forests, lush meadows, and rocky terrains. The summit offers a stunning 360-degree view of the surrounding peaks and valleys. This trek is ideal for those seeking a thrilling and scenic adventure."
         },
         {
             "title": "Borasu Pass Trek",
@@ -716,7 +764,8 @@
             "location": "Uttarakhand",
             "distance": "63",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Borasu Pass Trek is a challenging yet rewarding journey that takes you over the Borasu Pass, offering breathtaking views of the Himalayan ranges. The trek takes you through beautiful forests, lush meadows, and rocky terrains. The pass itself offers a stunning 360-degree view of the surrounding peaks and valleys. This trek is ideal for those seeking a thrilling and scenic adventure."
         },
         {
             "title": "Dhumdhar Kandi Pass Trek",
@@ -730,7 +779,8 @@
             "location": "Uttarakhand",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Dhumdhar Kandi Pass Trek is a challenging and rewarding journey that takes you over the Dhumdhar Kandi Pass, offering breathtaking views of the surrounding peaks and valleys. The trek takes you through beautiful forests, lush meadows, and rocky terrains. The pass itself offers a stunning 360-degree view of the surrounding peaks and valleys. This trek is ideal for those seeking a thrilling and scenic adventure."
         },
         {
             "title": "Nanda Devi Base Camp",
@@ -745,7 +795,8 @@
             "location": "Uttarakhand",
             "distance": "103",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Nanda Devi Base Camp Trek is a classic Himalayan trek that takes you to the base camp of Nanda Devi, the second highest peak in India. The trek offers breathtaking views of the surrounding peaks and glaciers. Trekkers will enjoy walking through ancient monasteries, charming villages, and pristine landscapes. This trek is ideal for those looking to experience the raw beauty of the Himalayas."
         },
         {
             "title": "Kang Yatse 2 Trek",
@@ -760,7 +811,23 @@
             "location": "Ladakh",
             "distance": "78",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Kang Yatse 2 Trek is a challenging yet rewarding journey that takes you to the summit of Kang Yatse 2, offering breathtaking views of the Himalayan ranges. The trek takes you through beautiful forests, lush meadows, and rocky terrains. The summit offers a stunning 360-degree view of the surrounding peaks and valleys. This trek is ideal for those seeking a thrilling and scenic adventure."
+        },
+        {
+            "title": "Ala-Kul Trek - Kyrgyzstan",
+            "uid": "ala-kul-trek-kyrgyzstan",
+            "elevation": "12,750",
+            "duration": "3",
+            "cost": "15,000",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Kyrgyzstan",
+            "distance": "30",
+            "tags": [],
+            "bestTimeToTarget": ["June", "July", "August"],
+            "description": "The Ala-Kul Trek in Kyrgyzstan is a breathtaking journey through the heart of the Tien Shan mountains. Trekkers traverse lush valleys, alpine meadows, and dense coniferous forests before ascending to the stunning Ala-Kul Lake, a turquoise gem cradled at 12,750 ft. The route offers panoramic views of snow-capped peaks, encounters with nomadic culture in yurt camps, and the vibrant life of Kyrgyz bazaars. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion in Central Asia."
         }
     ]
 }

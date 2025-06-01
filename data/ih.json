@@ -30,7 +30,9 @@
                 "Tashkent",
                 "Kyrgyzstan"
             ],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "itinerary": "- Trek to Kyrgyzstan’s Pristine Glacial Lake, crossing the Ala-Kul Pass at 12,750 ft.\n- Experience coniferous forests, grasslands, wildflowers, and rivers in the Altyn Arashan and Karakol Valleys.\n- Day-wise guide, travel, packing, and preparation details available on the trek page.\n- Highlights: Ala-Kul Lake, wide valleys, Issyk Kul Lake, yurt camps, and vibrant bazaars.\n- See the full day-wise itinerary and details at: https://indiahikes.com/trek/ala-kul-trek-kyrgyzstan",
+            "description": "The Ala-Kul Trek in Kyrgyzstan is a breathtaking journey through the heart of the Tien Shan mountains. Trekkers traverse lush valleys, alpine meadows, and dense coniferous forests before ascending to the stunning Ala-Kul Lake, a turquoise gem cradled at 12,750 ft. The route offers panoramic views of snow-capped peaks, encounters with nomadic culture in yurt camps, and the vibrant life of Kyrgyz bazaars. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion in Central Asia."
         },
         {
             "title": "Ali Bedni Bugyal Trek",
@@ -64,7 +66,9 @@
                 "Family Treks",
                 "Spring (Mar, Apr)"
             ],
-            "bestTimeToTarget": ["March", "April", "May", "June", "September", "October", "November", "December", "January", "February"]
+            "bestTimeToTarget": ["March", "April", "May", "June", "September", "October", "November", "December", "January", "February"],
+            "itinerary": "- Trek through dense forests, meadows, and ridges with grand views of Mt. Trishul and Mt. Nanda Ghunti.\n- Experience blooming rhododendrons in spring, ancient oaks, and the vast Ali and Bedni Bugyal meadows.\n- Day-wise guide, travel, packing, and preparation details available on the trek page.\n- Highlights: Gehroli Patal, Bedni Top, Abin Kharak campsite, and local folklore.\n- See the full day-wise itinerary and details at: https://indiahikes.com/trek/ali-bedni-bugyal-trek",
+            "description": "Ali Bedni Bugyal Trek is a classic Himalayan meadow trek, renowned for its rolling grasslands and spectacular views of Mt. Trishul and Mt. Nanda Ghunti. The trail winds through ancient oak and rhododendron forests, opening up to the vast Bugyals (meadows) that burst into color during spring. Trekkers experience serene campsites, local folklore, and the unique charm of high-altitude pastures, making it ideal for nature lovers and photographers alike."
         },
         {
             "title": "Georgia Atsunta Pass Trek",
@@ -89,7 +93,9 @@
                 "Summer",
                 "Autumn"
             ],
-            "bestTimeToTarget": ["June", "July", "September"]
+            "bestTimeToTarget": ["June", "July", "September"],
+            "itinerary": "- Trek through the Caucasus Mountains, grasslands, and wildflower meadows.\n- Stay in ancient Georgian villages, experience local culture and cuisine.\n- Cross the thrilling Atsunta Pass and explore fortresses and towers.\n- Day-wise guide, travel, packing, and preparation details available on the trek page.\n- Highlights: Omalo, Dartlo, Girevi, Khidotani meadows, and Georgian hospitality.\n- See the full day-wise itinerary and details at: https://indiahikes.com/trek/atsunta-pass-trek-omalo-shatili-georgia",
+            "description": "The Atsunta Pass Trek in Georgia is a wild adventure through the remote Caucasus Mountains. This trek features dramatic grasslands, wildflower meadows, and ancient stone villages. Trekkers cross the thrilling Atsunta Pass, explore medieval fortresses, and immerse themselves in Georgian hospitality and culture. The journey is a blend of challenging mountain terrain and rich history, perfect for those seeking offbeat international trekking experiences."
         },
         {
             "title": "Bali Pass Trek",
@@ -112,7 +118,9 @@
                 "Summer",
                 "Autumn (Mid-Sep, Oct, Nov)"
             ],
-            "bestTimeToTarget": ["May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["May", "June", "September", "October", "November"],
+            "itinerary": "- High-altitude adventure connecting Har Ki Dun valley with Yamunotri region.\n- Trek through ancient villages, alpine meadows, and the Ruinsara Lake.\n- Cross Bali Pass at 16,207 ft with views of Swargarohini, Bandarpoonch, and Kalanag.\n- Day-wise guide, travel, packing, and preparation details available on the trek page.\n- Highlights: Osla, Gangad, Devsu Thach, Ruinsara Lake, and challenging pass crossing.\n- See the full day-wise itinerary and details at: https://indiahikes.com/trek/bali-pass-ruinsara-tal",
+            "description": "Bali Pass Trek is a high-altitude adventure connecting the Har Ki Dun valley with the Yamunotri region. The trail traverses ancient Himalayan villages, alpine meadows, and the pristine Ruinsara Lake before a challenging ascent to Bali Pass at 16,207 ft. Trekkers are rewarded with panoramic views of Swargarohini, Bandarpoonch, and Kalanag peaks. This trek is ideal for seasoned trekkers seeking a remote, rugged, and rewarding Himalayan experience."
         },
         {
             "title": "Beas Kund Trek",
@@ -136,7 +144,9 @@
                 "Summer",
                 "Autumn"
             ],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "itinerary": "- Trek to the source of the Beas River with views of Friendship Peak, Hanuman Tibba, and Pir Panjal range.\n- Walk through grasslands of Bakarthach and Dhundhi, and ancient deodar forests.\n- Day-wise guide, travel, packing, and preparation details available on the trek page.\n- Highlights: Beas Kund, lush meadows, and mountain amphitheatre.\n- See the full day-wise itinerary and details at: https://indiahikes.com/trek/beas-kund",
+            "description": "Beas Kund Trek is a short yet spectacular journey to the source of the Beas River in Himachal Pradesh. The trail passes through lush meadows, ancient deodar forests, and offers grand views of Friendship Peak, Hanuman Tibba, and the Pir Panjal range. Ideal for beginners and families, this trek combines easy accessibility with the magic of high-altitude Himalayan landscapes."
         },
         {
             "title": "Bhrigu Lake Trek",
@@ -161,7 +171,9 @@
                 "October",
                 "September"
             ],
-            "bestTimeToTarget": ["June", "July", "August", "September", "October"]
+            "bestTimeToTarget": ["June", "July", "August", "September", "October"],
+            "itinerary": "- Trek to the mythological Bhrigu Lake, known for its rolling grasslands and mountain views.\n- Experience meadows, Rola Kholi campsite, and reflections of mountains in the lake.\n- Day-wise guide, travel, packing, and preparation details available on the trek page.\n- Highlights: Grasslands, Pir Panjal and Dhauladhar ranges, and local legends.\n- See the full day-wise itinerary and details at: https://indiahikes.com/trek/bhrigu-lake",
+            "description": "Bhrigu Lake Trek is famed for its rolling grasslands and the mythological Bhrigu Lake, which changes color with the seasons. The trail offers sweeping views of the Pir Panjal and Dhauladhar ranges, and the meadows are a riot of wildflowers in summer. This trek is perfect for those seeking a quick Himalayan escape with stunning alpine scenery and local legends."
         },
         {
             "title": "Bijli Mahadev Trek",
@@ -183,7 +195,8 @@
                 "June",
                 "forests of manali"
             ],
-            "bestTimeToTarget": ["June", "July", "August"]
+            "bestTimeToTarget": ["June", "July", "August"],
+            "description": "Bijli Mahadev Trek is a gentle hike through the forests of Manali, leading to the sacred Bijli Mahadev temple perched atop a ridge. The trek offers panoramic views of the Kullu and Parvati valleys, and is known for its spiritual significance and the unique phenomenon of the temple's lightning-struck Shiva lingam. Ideal for beginners and those seeking a blend of nature and culture."
         },
         {
             "title": "Bodpathri Trek",
@@ -206,7 +219,8 @@
                 "Moderate-Difficult",
                 "September"
             ],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "Bodpathri Meadows Trek in Jammu and Kashmir is a hidden gem, taking trekkers through vast alpine meadows, pristine lakes, and remote valleys. The route is dotted with wildflowers during the monsoon and offers solitude amidst breathtaking Himalayan scenery. This trek is perfect for those looking to explore the untouched beauty of Kashmir."
         },
         {
             "title": "Brahmatal Trek",
@@ -242,7 +256,8 @@
                 "Family Treks",
                 "Spring (Mar, Apr)"
             ],
-            "bestTimeToTarget": ["March", "April", "May", "June", "September", "October", "November", "December", "January", "February"]
+            "bestTimeToTarget": ["March", "April", "May", "June", "September", "October", "November", "December", "January", "February"],
+            "description": "Brahmatal Trek is a winter wonderland, offering snow-laden trails, frozen lakes, and grand views of Mt. Trishul and Nanda Ghunti. The trek passes through dense forests, open meadows, and charming campsites, making it a favorite for both beginners and experienced trekkers. The highlight is the panoramic summit view and the magical experience of trekking in snow."
         },
         {
             "title": "Brammah Valley Trek",
@@ -262,7 +277,8 @@
                 "Summer (May, Jun)",
                 "may"
             ],
-            "bestTimeToTarget": ["May", "June"]
+            "bestTimeToTarget": ["May", "June"],
+            "description": "Brammah Valley Trek in Jammu and Kashmir is a scenic journey through lush valleys, alpine meadows, and traditional Himalayan villages. The trail is less frequented, offering solitude and pristine landscapes, with the majestic Brammah massif as a constant companion. Ideal for trekkers seeking offbeat routes and authentic mountain culture."
         },
         {
             "title": "Buran Ghati Trek",
@@ -287,7 +303,8 @@
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Autumn"
             ],
-            "bestTimeToTarget": ["May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["May", "June", "September", "October", "November"],
+            "description": "Buran Ghati Trek is an adventure-packed trail in Himachal Pradesh, known for its dramatic pass crossing, snow slides, and diverse landscapes. Trekkers traverse dense forests, charming villages, and high-altitude meadows before tackling the thrilling Buran Ghati Pass at 15,000 ft. The trek is a perfect blend of challenge and beauty, suitable for those seeking variety and excitement."
         },
         {
             "title": "Chandrakhani Pass Trek",
@@ -309,7 +326,8 @@
                 "Moderate",
                 "Indiahikes"
             ],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "Chandrakhani Pass Trek is a moderate trek near Manali, offering sweeping views of the Kullu valley and the Dhauladhar range. The trail meanders through pine forests, quaint villages, and lush meadows, culminating at the scenic Chandrakhani Pass. This trek is ideal for those looking for a short Himalayan adventure with cultural and natural highlights."
         },
         {
             "title": "Dafeybhir Pass Trek",
@@ -332,7 +350,8 @@
                 "Kanchenjunga",
                 "Rhododendrons"
             ],
-            "bestTimeToTarget": ["April", "October"]
+            "bestTimeToTarget": ["April", "October"],
+            "description": "Dafeybhir Pass Trek in Sikkim is a challenging journey through rhododendron forests, high-altitude meadows, and the dramatic Dafeybhir Pass. The trek offers close-up views of Kanchenjunga and is renowned for its springtime blooms and autumn colors. Perfect for experienced trekkers seeking solitude and Himalayan grandeur."
         },
         {
             "title": "Dayara Bugyal Trek",
@@ -369,7 +388,8 @@
                 "Autumn",
                 "Spring (Mar, Apr)"
             ],
-            "bestTimeToTarget": ["March", "April", "May", "June", "September", "October", "November", "December", "January", "February"]
+            "bestTimeToTarget": ["March", "April", "May", "June", "September", "October", "November", "December", "January", "February"],
+            "description": "Dayara Bugyal Trek is a delightful walk through some of Uttarakhand's most beautiful meadows. The trail is gentle, passing through forests and opening up to vast grasslands with views of Bandarpoonch and other Himalayan peaks. This trek is suitable for families, beginners, and anyone looking to experience the magic of alpine meadows."
         },
         {
             "title": "Deoriatal Chandrashila Trek",
@@ -404,7 +424,8 @@
                 "December",
                 "Autumn Trek"
             ],
-            "bestTimeToTarget": ["January", "February", "March", "April", "May", "June", "September", "October", "November", "December"]
+            "bestTimeToTarget": ["January", "February", "March", "April", "May", "June", "September", "October", "November", "December"],
+            "description": "Deoriatal Chandrashila Trek is a versatile trek offering a mix of forests, lakes, and summit views. The highlight is the 360-degree panorama from Chandrashila summit, including Nanda Devi, Trishul, and Chaukhamba. The trail is accessible year-round and is perfect for beginners, families, and photographers."
         },
         {
             "title": "Everest Base Camp (Classic Route)",
@@ -427,7 +448,8 @@
                 "Autumn",
                 "Nepal"
             ],
-            "bestTimeToTarget": ["April", "May", "September", "October", "November"]
+            "bestTimeToTarget": ["April", "May", "September", "October", "November"],
+            "description": "The Everest Base Camp Trek (Classic Route) is a legendary journey through the heart of the Khumbu region. Trekkers experience Sherpa culture, ancient monasteries, and breathtaking views of the world's highest peaks. The trail is a test of endurance and spirit, culminating at the iconic Everest Base Camp. A must-do for every serious trekker."
         },
         {
             "title": "Everest Base Camp via Gokyo Ri Trek",
@@ -456,7 +478,8 @@
                 "Autumn",
                 "Nepal"
             ],
-            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"]
+            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"],
+            "description": "This extended Everest Base Camp trek includes the stunning Gokyo Lakes and the challenging Cho La Pass. Trekkers witness turquoise glacial lakes, panoramic Himalayan vistas from Gokyo Ri, and the classic Everest Base Camp experience. The route is demanding but offers unparalleled diversity and beauty in the Everest region."
         },
         {
             "title": "Gaumukh Tapovan Trek",
@@ -479,7 +502,8 @@
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Autumn"
             ],
-            "bestTimeToTarget": ["May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["May", "June", "September", "October", "November"],
+            "description": "Gaumukh Tapovan Trek is a spiritual and scenic journey to the source of the Ganges. The trail passes through Gangotri National Park, with views of Bhagirathi peaks, Shivling, and Meru. Tapovan is a high-altitude meadow with a mystical aura, making this trek a favorite for both adventure and spiritual seekers."
         },
         {
             "title": "Gidara Bugyal",
@@ -502,7 +526,8 @@
                 "Summer",
                 "Autumn"
             ],
-            "bestTimeToTarget": ["June", "September", "October"]
+            "bestTimeToTarget": ["June", "September", "October"],
+            "description": "Gidara Bugyal Trek is an offbeat adventure to one of the largest and least explored meadows in Uttarakhand. The trail offers solitude, sweeping grasslands, and grand views of the Gangotri and Yamunotri ranges. Ideal for experienced trekkers looking for untouched Himalayan beauty."
         },
         {
             "title": "Goechala Trek",
@@ -530,7 +555,8 @@
                 "Autumn",
                 "Spring (Mar, Apr)"
             ],
-            "bestTimeToTarget": ["March", "April", "May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["March", "April", "May", "June", "September", "October", "November"],
+            "description": "Goechala Trek in Sikkim is a classic high-altitude trek, famous for its close-up views of Mt. Kanchenjunga and the dramatic Samiti Lake. The trail passes through rhododendron forests, alpine meadows, and remote villages, offering a blend of adventure, culture, and natural beauty."
         },
         {
             "title": "Gurez Valley Trek",
@@ -551,7 +577,8 @@
                 "Moderate",
                 "September"
             ],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "Gurez Valley Trek is a journey into the remote and pristine valleys of Jammu and Kashmir. The trail is dotted with wildflowers, alpine lakes, and traditional villages, offering a glimpse into the unique culture and untouched landscapes of the region."
         },
         {
             "title": "Hampta Pass Trek",
@@ -579,7 +606,8 @@
                 "October",
                 "September"
             ],
-            "bestTimeToTarget": ["July", "August", "September", "October"]
+            "bestTimeToTarget": ["July", "August", "September", "October"],
+            "description": "Hampta Pass Trek is a dramatic crossover trek from the lush Kullu valley to the arid Spiti valley. The trail features river crossings, wildflower meadows, and the thrilling Hampta Pass crossing. This trek is perfect for those seeking variety in landscapes and a moderate challenge."
         },
         {
             "title": "Har Ki Dun",
@@ -610,7 +638,8 @@
                 "Autumn",
                 "may"
             ],
-            "bestTimeToTarget": ["April", "May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["April", "May", "June", "September", "October", "November"],
+            "description": "Har Ki Dun Trek is a timeless classic, taking trekkers through the cradle-shaped Har Ki Dun valley, ancient villages, and alpine meadows. The route is rich in mythology and offers views of Swargarohini and Bandarpoonch peaks. Ideal for those seeking a blend of culture, history, and natural beauty."
         },
         {
             "title": "Kashmir Great Lakes Trek ",
@@ -634,7 +663,8 @@
                 "September",
                 "September "
             ],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "Kashmir Great Lakes Trek is a visual feast, with a series of stunning alpine lakes set against the backdrop of snow-capped peaks. The trail meanders through meadows, ridges, and remote valleys, showcasing the best of Kashmir's natural beauty. A must-do for every trekker seeking Himalayan grandeur."
         },
         {
             "title": "Kedarkantha Trek",
@@ -667,7 +697,8 @@
                 "Autumn",
                 "Spring (Mar, Apr)"
             ],
-            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "June", "September", "October", "November"],
+            "description": "Kedarkantha Trek is a popular winter trek, known for its snow-covered trails, beautiful campsites, and a rewarding summit climb. The trek is accessible to beginners and offers panoramic views of the Himalayas, making it a favorite for first-timers and seasoned trekkers alike."
         },
         {
             "title": "Kedartal Trek",
@@ -689,7 +720,8 @@
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Autumn"
             ],
-            "bestTimeToTarget": ["May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["May", "June", "September", "October", "November"],
+            "description": "Kedartal Trek is a challenging high-altitude trek to the glacial Kedartal lake, set beneath the towering Thalay Sagar and Bhrigupanth peaks. The trail is rugged and demanding, offering dramatic mountain scenery and a sense of true Himalayan adventure."
         },
         {
             "title": "Khopra Ridge Trek",
@@ -721,7 +753,8 @@
                 "Mt Fishtail",
                 "Spring (Mar, Apr)"
             ],
-            "bestTimeToTarget": ["March", "April", "September", "October", "November"]
+            "bestTimeToTarget": ["March", "April", "September", "October", "November"],
+            "description": "Khopra Ridge Trek in Nepal is an offbeat alternative to the Annapurna Base Camp trek. The trail offers spectacular ridge walks, views of Dhaulagiri and Annapurna, and the sacred Khayar Lake. Trekkers experience authentic village life and diverse landscapes, making it a rewarding Himalayan journey."
         },
         {
             "title": "Kuari Pass Trek",
@@ -756,7 +789,8 @@
                 "Spring (Mar, Apr)",
                 "Autumn Trek"
             ],
-            "bestTimeToTarget": ["February", "March", "April", "May", "June", "September", "October", "November", "December"]
+            "bestTimeToTarget": ["February", "March", "April", "May", "June", "September", "October", "November", "December"],
+            "description": "Kuari Pass Trek is a historic trail, once traversed by Lord Curzon, offering grand views of Nanda Devi, Kamet, and Dronagiri. The trek features oak forests, alpine meadows, and charming campsites, making it suitable for beginners and those seeking classic Himalayan vistas."
         },
         {
             "title": "Miyar Valley",
@@ -780,7 +814,8 @@
                 "April",
                 "Autumn"
             ],
-            "bestTimeToTarget": ["April", "July", "August", "September", "October"]
+            "bestTimeToTarget": ["April", "July", "August", "September", "October"],
+            "description": "Miyar Valley Trek is a journey into the remote and wild Lahaul region of Himachal Pradesh. The trail passes through flower-filled meadows, glacial streams, and traditional villages, offering solitude and pristine Himalayan landscapes."
         },
         {
             "title": "Mount Kilimanjaro Trek",
@@ -815,7 +850,8 @@
                 "Africa",
                 "Autumn"
             ],
-            "bestTimeToTarget": ["January", "February", "June", "July", "August", "September", "October"]
+            "bestTimeToTarget": ["January", "February", "June", "July", "August", "September", "October"],
+            "description": "Mount Kilimanjaro Trek is Africa's highest trekking adventure, taking trekkers through five distinct ecological zones to the summit of Uhuru Peak at 19,341 ft. The journey is both physically and mentally demanding, offering a once-in-a-lifetime experience of climbing one of the world's Seven Summits."
         },
         {
             "title": "Mount Rinjani Trek",
@@ -838,7 +874,8 @@
                 "Indonesia",
                 "September"
             ],
-            "bestTimeToTarget": ["May", "June", "August", "September"]
+            "bestTimeToTarget": ["May", "June", "August", "September"],
+            "description": "Mount Rinjani Trek in Indonesia is a volcanic adventure, featuring crater lakes, hot springs, and the challenging summit climb. The trek offers dramatic landscapes, unique flora and fauna, and a glimpse into the local Sasak culture."
         },
         {
             "title": "Nafran Valley Trek",
@@ -864,7 +901,8 @@
                 "Kashmir",
                 "jammu-and-kashmir"
             ],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "Nafran Valley Trek is a monsoon delight in Kashmir, taking trekkers through lush meadows, alpine lakes, and remote valleys. The trail is vibrant with wildflowers and offers solitude amidst the grandeur of the Himalayas."
         },
         {
             "title": "Nag Tibba Weekend Trek",
@@ -895,7 +933,8 @@
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Spring (Mar, Apr)"
             ],
-            "bestTimeToTarget": ["January", "February", "March", "April", "May", "June", "September", "October", "November", "December"]
+            "bestTimeToTarget": ["January", "February", "March", "April", "May", "June", "September", "October", "November", "December"],
+            "description": "Nag Tibba Trek is a perfect weekend escape near Dehradun, offering a short yet rewarding climb to the summit of Nag Tibba. The trail passes through forests, meadows, and offers views of the Bandarpoonch and Swargarohini ranges. Ideal for beginners and those with limited time."
         },
         {
             "title": "Pangarchulla Peak Trek",
@@ -918,7 +957,8 @@
                 "April",
                 "Spring (Mar, Apr)"
             ],
-            "bestTimeToTarget": ["March", "April"]
+            "bestTimeToTarget": ["March", "April"],
+            "description": "Pangarchulla Peak Trek is a springtime adventure in Uttarakhand, featuring a challenging summit climb, snowfields, and panoramic views of Nanda Devi, Kamet, and Dronagiri. The trek is best for experienced trekkers seeking a thrilling Himalayan ascent."
         },
         {
             "title": "Phulara Ridge Trek",
@@ -944,7 +984,8 @@
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Autumn"
             ],
-            "bestTimeToTarget": ["May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["May", "June", "September", "October", "November"],
+            "description": "Phulara Ridge Trek is a unique ridge walk in Uttarakhand, offering 360-degree views of snow-capped peaks and endless meadows. The trail is less crowded, making it ideal for those seeking solitude and a different trekking experience."
         },
         {
             "title": "Pin Bhaba Pass Trek",
@@ -968,7 +1009,8 @@
                 "Difficult",
                 "September"
             ],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "Pin Bhaba Pass Trek is a dramatic crossover from the lush Bhaba valley to the stark Pin valley in Spiti. The trail features river crossings, high-altitude meadows, and the thrilling Pin Bhaba Pass crossing. This trek is a favorite for those seeking variety and adventure."
         },
         {
             "title": "Pir Panjal Lakes Trek",
@@ -994,7 +1036,8 @@
                 "monsoon trek",
                 "poonch"
             ],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "Pir Panjal Lakes Trek explores the hidden alpine lakes of the Pir Panjal range in Jammu and Kashmir. The trail is dotted with pristine lakes, wildflower meadows, and offers solitude amidst untouched Himalayan landscapes."
         },
         {
             "title": "Ranthan Kharak Trek",
@@ -1019,7 +1062,8 @@
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Uttrakhand"
             ],
-            "bestTimeToTarget": ["May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["May", "June", "September", "October", "November"],
+            "description": "Ranthan Kharak Trek in Kumaon is a scenic journey through oak and rhododendron forests, alpine meadows, and remote villages. The trail offers grand views of the Kumaon Himalayas and is perfect for those seeking offbeat trekking experiences."
         },
         {
             "title": "Rupin Pass",
@@ -1046,7 +1090,8 @@
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Autumn"
             ],
-            "bestTimeToTarget": ["May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["May", "June", "September", "October", "November"],
+            "description": "Rupin Pass Trek is a classic Himalayan adventure, featuring dramatic waterfalls, hanging villages, and the thrilling Rupin Pass crossing. The trail is known for its ever-changing scenery and challenging terrain, making it a favorite among seasoned trekkers."
         },
         {
             "title": "Sandakphu Phalut Trek",
@@ -1078,7 +1123,8 @@
                 "Nepal",
                 "Spring (Mar, Apr)"
             ],
-            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "June", "September", "October", "November"],
+            "description": "Sandakphu Phalut Trek is the highest trek in West Bengal, offering views of four of the world's tallest peaks: Everest, Kanchenjunga, Lhotse, and Makalu. The trail passes through rhododendron forests, charming villages, and the unique Singalila ridge."
         },
         {
             "title": "Surya Top",
@@ -1109,7 +1155,8 @@
                 "Mountain lover",
                 "March"
             ],
-            "bestTimeToTarget": ["March", "July"]
+            "bestTimeToTarget": ["March", "July"],
+            "description": "Surya Top Trek is a lesser-known gem in Uttarakhand, featuring snowfields, meadows, and panoramic views of the Yamunotri and Gangotri ranges. The trail is ideal for those seeking solitude and a challenging Himalayan experience."
         },
         {
             "title": "Tarsar Marsar Trek",
@@ -1132,7 +1179,8 @@
                 "Rainy",
                 "September"
             ],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "Tarsar Marsar Trek in Kashmir is a journey to two of the most beautiful alpine lakes in the region. The trail meanders through meadows, pine forests, and remote valleys, offering tranquility and breathtaking scenery."
         },
         {
             "title": "Tulian Lake Trek",
@@ -1162,7 +1210,8 @@
                 "Tulian Lake",
                 "Kashmir Valley"
             ],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "Tulian Lake Trek is a short and scenic trek in Kashmir, leading to the pristine Tulian Lake surrounded by snow-capped peaks. The trail passes through pine forests, meadows, and offers a peaceful Himalayan escape."
         },
         {
             "title": "Valley of Flowers",
@@ -1184,7 +1233,8 @@
                 "Uttarakhand",
                 "September"
             ],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "Valley of Flowers Trek is a UNESCO World Heritage Site, renowned for its vibrant alpine blooms and breathtaking valley views. The trail is gentle, making it accessible to most trekkers, and is a paradise for botanists and photographers."
         },
         {
             "title": "Warwan Valley Trek",
@@ -1205,7 +1255,8 @@
                 "Monsoon",
                 "Difficult"
             ],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "Warwan Valley Trek is a remote and challenging journey in Jammu and Kashmir, featuring wildflower meadows, glacial streams, and traditional villages. The trek offers solitude and a glimpse into the untouched beauty of the Himalayas."
         }
     ]
 }

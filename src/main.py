@@ -40,6 +40,7 @@ def clean_data(data):
             "location": trekInfo["location"],
             "distance": trekInfo["distance"],
             "bestTimeToTarget": trekInfo["bestTimeToTarget"],
+            "description": trekInfo["description"],
             "tags": []
         })
     outputTreks["org"] = KEY

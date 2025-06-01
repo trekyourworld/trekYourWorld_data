@@ -18,7 +18,8 @@
             "location": "Uttarakhand",
             "distance": "30",
             "tags": [],
-            "bestTimeToTarget": ["March", "April", "May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["March", "April", "May", "June", "September", "October", "November"],
+            "description": "The Ali Bedni Bugyal Trek is a delightful journey through the lush green meadows of Uttarakhand. Trekkers are treated to stunning views of the Himalayan peaks, including Nanda Ghunti and Trishul, as they make their way to the high-altitude bugyals (meadows) of Ali and Bedni. The trek offers a perfect blend of natural beauty, with its vibrant flora and fauna, and cultural experiences, as trekkers pass through quaint villages and interact with the friendly locals. It's an ideal trek for both novice and experienced trekkers seeking a peaceful yet invigorating escape into the mountains."
         },
         {
             "title": "Annapurna Base Camp Trek",
@@ -33,7 +34,8 @@
             "location": "Nepal",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"]
+            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"],
+            "description": "The Annapurna Base Camp Trek is a classic Himalayan journey that takes trekkers into the heart of the Annapurna massif in Nepal. The trek offers a diverse range of landscapes, from lush subtropical forests and terraced fields to alpine meadows and high-altitude deserts. Trekkers will experience the rich cultural heritage of the Gurung and Magar communities, stay in traditional teahouses, and enjoy the breathtaking views of some of the world's highest peaks, including Annapurna I, Annapurna South, and Machapuchare. This trek is a true feast for the senses and a must-do for adventure enthusiasts."
         },
         {
             "title": "Auden's Col Expedition",
@@ -47,7 +49,8 @@
             "location": "Uttarakhand",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "Auden's Col Expedition is a challenging and rewarding trek in the Indian Himalayas, taking adventurers to the remote and stunningly beautiful Auden's Col. The trek involves traversing high mountain passes, including the daunting Auden's Col at 18,000 ft, and offers unparalleled views of the surrounding peaks and glaciers. Trekkers will experience the pristine beauty of the Himalayas, with its snow-capped mountains, deep valleys, and glacial lakes. This expedition is perfect for experienced trekkers seeking a true wilderness adventure in one of the world's most spectacular mountain ranges."
         },
         {
             "title": "Bagini Glacier & Changbang Base Camp",
@@ -61,7 +64,8 @@
             "location": "Uttarakhand",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Bagini Glacier & Changbang Base Camp trek is a stunning journey in the Indian Himalayas, offering trekkers a chance to explore the pristine beauty of the Bagini Glacier and the majestic Changbang peak. The trek takes you through lush green valleys, ancient forests, and high-altitude meadows, with breathtaking views of the surrounding peaks and glaciers. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is a perfect blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Bagji Bugyal Trek",
@@ -75,7 +79,8 @@
             "location": "Uttarakhand",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["April", "May", "June", "September", "October"]
+            "bestTimeToTarget": ["April", "May", "June", "September", "October"],
+            "description": "The Bagji Bugyal Trek is a delightful and relatively easy trek in the Indian Himalayas, perfect for beginners and nature enthusiasts. The trek takes you through the beautiful bugyals (meadows) of Bagji, offering stunning views of the surrounding peaks and valleys. Trekkers will experience the vibrant flora and fauna of the region, with chances to spot various species of birds and butterflies. The trek also offers a unique opportunity to interact with the local shepherds and learn about their traditional way of life. This trek is a perfect escape into the serene and pristine beauty of the Himalayas."
         },
         {
             "title": "Bali Pass Trek",
@@ -89,7 +94,8 @@
             "location": "Uttarakhand",
             "distance": "54",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Bali Pass Trek is a challenging and rewarding trek in the Indian Himalayas, taking adventurers over the Bali Pass at an altitude of 16,200 ft. The trek offers stunning views of the surrounding peaks, glaciers, and valleys, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for experienced trekkers seeking a true wilderness adventure in one of the world's most spectacular mountain ranges."
         },
         {
             "title": "Bhrigu Lake Trek",
@@ -104,7 +110,8 @@
             "location": "Himanchal Pradesh",
             "distance": "29",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Bhrigu Lake Trek is a beautiful and moderately challenging trek in the Indian Himalayas, taking you to the stunning Bhrigu Lake at an altitude of 14,000 ft. The trek offers breathtaking views of the surrounding peaks, valleys, and forests, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Black Peak Expedition",
@@ -119,7 +126,8 @@
             "location": "Uttarakhand",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Black Peak Expedition is a challenging and adventurous trek in the Indian Himalayas, taking you to the summit of the Black Peak at an altitude of 20,950 ft. The trek offers stunning views of the surrounding peaks, glaciers, and valleys, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This expedition is perfect for experienced trekkers seeking a true wilderness adventure in one of the world's most spectacular mountain ranges."
         },
         {
             "title": "Brahmatal Trek",
@@ -134,7 +142,8 @@
             "location": "Uttarakhand",
             "distance": "30",
             "tags": [],
-            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "October", "November"]
+            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "October", "November"],
+            "description": "The Brahmatal Trek is a delightful and moderately challenging trek in the Indian Himalayas, taking you to the beautiful Brahmatal Lake at an altitude of 12,250 ft. The trek offers stunning views of the surrounding peaks, valleys, and forests, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Buran Ghati Trek",
@@ -149,7 +158,8 @@
             "location": "Himanchal Pradesh",
             "distance": "40",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Buran Ghati Trek is a thrilling and moderately challenging trek in the Indian Himalayas, taking you over the Buran Ghati Pass at an altitude of 15,000 ft. The trek offers breathtaking views of the surrounding peaks, valleys, and glaciers, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking an adventurous and scenic escape into the mountains."
         },
         {
             "title": "Chadar Trek Frozen River",
@@ -163,7 +173,8 @@
             "location": "Ladakh",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["January", "February"]
+            "bestTimeToTarget": ["January", "February"],
+            "description": "The Chadar Trek, also known as the Frozen River Trek, is a unique and challenging trek in Ladakh, India. It involves walking on the frozen Zanskar River, surrounded by towering snow-capped mountains and stunning icy landscapes. The trek offers a rare opportunity to experience the stark beauty of the Indian Himalayas in winter and to visit ancient monasteries and villages along the way. This trek is perfect for adventurous souls seeking a one-of-a-kind experience in one of the world's most remote and beautiful regions."
         },
         {
             "title": "Chopta Chandrashila Tungnath Trek with Deorital",
@@ -178,7 +189,8 @@
             "location": "Uttarakhand",
             "distance": "30",
             "tags": [],
-            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "September", "October", "November"]
+            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "September", "October", "November"],
+            "description": "The Chopta Chandrashila Tungnath Trek with Deorital is a beautiful and moderately challenging trek in the Indian Himalayas, taking you to the stunning Tungnath Temple, the highest Shiva temple in the world, and the beautiful Deorital Lake. The trek offers breathtaking views of the surrounding peaks, valleys, and forests, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Dayara Bugyal Trek",
@@ -192,7 +204,8 @@
             "location": "Uttarakhand",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "June", "September", "October", "November"],
+            "description": "The Dayara Bugyal Trek is a delightful and easy trek in the Indian Himalayas, perfect for beginners and nature enthusiasts. The trek takes you through the beautiful bugyals (meadows) of Dayara, offering stunning views of the surrounding peaks and valleys. Trekkers will experience the vibrant flora and fauna of the region, with chances to spot various species of birds and butterflies. The trek also offers a unique opportunity to interact with the local shepherds and learn about their traditional way of life. This trek is a perfect escape into the serene and pristine beauty of the Himalayas."
         },
         {
             "title": "Deo Tibba Peak Expedition",
@@ -206,7 +219,8 @@
             "location": "Himanchal Pradesh",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Deo Tibba Peak Expedition is a challenging and rewarding trek in the Indian Himalayas, taking adventurers to the summit of Deo Tibba Peak at an altitude of 19,700 ft. The trek offers stunning views of the surrounding peaks, glaciers, and valleys, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This expedition is perfect for experienced trekkers seeking a true wilderness adventure in one of the world's most spectacular mountain ranges."
         },
         {
             "title": "Deoban Weekend Trek",
@@ -221,7 +235,8 @@
             "location": "Uttarakhand",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["March", "April", "May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["March", "April", "May", "June", "September", "October", "November"],
+            "description": "The Deoban Weekend Trek is a short and easy trek in the Indian Himalayas, perfect for beginners and those looking for a quick escape into nature. The trek takes you through beautiful forests of pine and deodar, offering stunning views of the surrounding peaks and valleys. Trekkers will experience the vibrant flora and fauna of the region, with chances to spot various species of birds and butterflies. The trek also offers a unique opportunity to interact with the local people and learn about their traditional way of life. This trek is an ideal weekend getaway for nature lovers and adventure enthusiasts."
         },
         {
             "title": "Dodital Darwa Pass Trek",
@@ -236,7 +251,8 @@
             "location": "Uttarakhand",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Dodital Darwa Pass Trek is a beautiful and moderately challenging trek in the Indian Himalayas, taking you to the stunning Dodital Lake and over the Darwa Pass at an altitude of 11,400 ft. The trek offers breathtaking views of the surrounding peaks, valleys, and forests, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Doodhpathri Trek",
@@ -251,7 +267,8 @@
             "location": "Jammu and Kashmir",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "The Doodhpathri Trek is a stunning and moderately challenging trek in the Indian Himalayas, taking you to the beautiful Doodhpathri Valley, also known as the 'Valley of Milk'. The trek offers breathtaking views of the surrounding peaks, valleys, and forests, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Dzo Jongo Peak Trek Expedition",
@@ -265,7 +282,8 @@
             "location": "Ladakh",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Dzo Jongo Peak Trek Expedition is a challenging and rewarding trek in the Indian Himalayas, taking adventurers to the summit of Dzo Jongo Peak at an altitude of 20,500 ft. The trek offers stunning views of the surrounding peaks, glaciers, and valleys, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This expedition is perfect for experienced trekkers seeking a true wilderness adventure in one of the world's most spectacular mountain ranges."
         },
         {
             "title": "Everest Base Camp Trek",
@@ -279,7 +297,8 @@
             "location": "Nepal",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"]
+            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"],
+            "description": "The Everest Base Camp Trek is the ultimate dream for many trekkers and adventurers, taking you to the base camp of the world's highest peak, Mount Everest. The trek offers breathtaking views of the surrounding peaks, glaciers, and valleys, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the Sherpa people. This trek is a true adventure of a lifetime, offering an unforgettable experience in one of the world's most spectacular mountain ranges."
         },
         {
             "title": "Friendship Peak Expedition",
@@ -293,7 +312,8 @@
             "location": "Himanchal Pradesh",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Friendship Peak Expedition is a challenging and rewarding trek in the Indian Himalayas, taking adventurers to the summit of Friendship Peak at an altitude of 17,345 ft. The trek offers stunning views of the surrounding peaks, glaciers, and valleys, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This expedition is perfect for experienced trekkers seeking a true wilderness adventure in one of the world's most spectacular mountain ranges."
         },
         {
             "title": "Gaumukh Tapovan Trek",
@@ -308,7 +328,8 @@
             "location": "Uttarakhand",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Gaumukh Tapovan Trek is a stunning and moderately challenging trek in the Indian Himalayas, taking you to the sacred Gaumukh Glacier, the source of the Ganges River, and the beautiful Tapovan meadows. The trek offers breathtaking views of the surrounding peaks, valleys, and glaciers, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Goechala Trek",
@@ -323,7 +344,8 @@
             "location": "Sikkim",
             "distance": "87",
             "tags": [],
-            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"]
+            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"],
+            "description": "The Goechala Trek is a spectacular and moderately challenging trek in the Indian Himalayas, taking you to the stunning Goechala Pass at an altitude of 15,100 ft. The trek offers breathtaking views of the surrounding peaks, valleys, and forests, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Hampta Pass Trek",
@@ -338,7 +360,8 @@
             "location": "Himanchal Pradesh",
             "distance": "35",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Hampta Pass Trek is a beautiful and moderately challenging trek in the Indian Himalayas, taking you over the Hampta Pass at an altitude of 14,100 ft. The trek offers stunning views of the surrounding peaks, valleys, and forests, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Har Ki Doon Trek",
@@ -353,7 +376,8 @@
             "location": "Uttarakhand",
             "distance": "50",
             "tags": [],
-            "bestTimeToTarget": ["April", "May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["April", "May", "June", "September", "October", "November"],
+            "description": "The Har Ki Doon Trek is a delightful and moderately challenging trek in the Indian Himalayas, taking you to the beautiful Har Ki Doon Valley, also known as the 'Valley of God'. The trek offers breathtaking views of the surrounding peaks, valleys, and forests, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Kanamo Peak Trek Expedition",
@@ -367,7 +391,8 @@
             "location": "Himanchal Pradesh",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Kanamo Peak Trek Expedition is a challenging and rewarding trek in the Indian Himalayas, taking adventurers to the summit of Kanamo Peak at an altitude of 19,553 ft. The trek offers stunning views of the surrounding peaks, glaciers, and valleys, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This expedition is perfect for experienced trekkers seeking a true wilderness adventure in one of the world's most spectacular mountain ranges."
         },
         {
             "title": "Kang Yatse II Peak Trek Expedition",
@@ -381,7 +406,8 @@
             "location": "Ladakh",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Kang Yatse II Peak Trek Expedition is a challenging and rewarding trek in the Indian Himalayas, taking adventurers to the summit of Kang Yatse II Peak at an altitude of 20,500 ft. The trek offers stunning views of the surrounding peaks, glaciers, and valleys, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This expedition is perfect for experienced trekkers seeking a true wilderness adventure in one of the world's most spectacular mountain ranges."
         },
         {
             "title": "Kareri Lake Trek",
@@ -396,7 +422,8 @@
             "location": "Himanchal Pradesh",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["April", "May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["April", "May", "June", "September", "October", "November"],
+            "description": "The Kareri Lake Trek is a beautiful and easy trek in the Indian Himalayas, perfect for beginners and nature enthusiasts. The trek takes you to the serene Kareri Lake, offering stunning views of the surrounding peaks and valleys. Trekkers will experience the vibrant flora and fauna of the region, with chances to spot various species of birds and butterflies. The trek also offers a unique opportunity to interact with the local shepherds and learn about their traditional way of life. This trek is a perfect escape into the serene and pristine beauty of the Himalayas."
         },
         {
             "title": "Kashmir Great Lakes Trek",
@@ -411,7 +438,8 @@
             "location": "Jammu and Kashmir",
             "distance": "69",
             "tags": [],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "The Kashmir Great Lakes Trek is a stunning and moderately challenging trek in the Indian Himalayas, taking you to the beautiful alpine lakes of Vishansar, Krishansar, Gadsar, Satsar, and Gangbal. The trek offers breathtaking views of the surrounding peaks, valleys, and glaciers, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Kedar Tal Trek",
@@ -425,7 +453,8 @@
             "location": "Uttarakhand",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Kedar Tal Trek is a challenging and rewarding trek in the Indian Himalayas, taking you to the stunning Kedar Tal Lake at an altitude of 15,500 ft. The trek offers breathtaking views of the surrounding peaks, valleys, and glaciers, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Kedarkantha Peak Trek",
@@ -440,7 +469,8 @@
             "location": "Uttarakhand",
             "distance": "23",
             "tags": [],
-            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "October", "November"]
+            "bestTimeToTarget": ["December", "January", "February", "March", "April", "May", "October", "November"],
+            "description": "The Kedarkantha Peak Trek is a delightful and moderately challenging trek in the Indian Himalayas, taking you to the summit of Kedarkantha Peak at an altitude of 12,500 ft. The trek offers stunning views of the surrounding peaks, valleys, and forests, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Khopra Ridge",
@@ -454,7 +484,8 @@
             "location": "Nepal",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"]
+            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"],
+            "description": "The Khopra Ridge Trek is a stunning and moderately challenging trek in the Annapurna region of Nepal, offering breathtaking views of the Annapurna and Dhaulagiri mountain ranges. The trek takes you through beautiful rhododendron forests, charming Gurung villages, and high-altitude pastures, with the opportunity to see a wide variety of flora and fauna. The highlight of the trek is the sunrise view from Khopra Ridge, which offers a panoramic view of the Annapurna and Dhaulagiri ranges. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Kilimanjaro Peak Trek Expedition",
@@ -469,7 +500,8 @@
             "location": "Tanzania",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["January", "February", "June", "July", "August", "September", "December"]
+            "bestTimeToTarget": ["January", "February", "June", "July", "August", "September", "December"],
+            "description": "The Kilimanjaro Peak Trek Expedition is the ultimate challenge for trekkers and adventurers, taking you to the summit of Mount Kilimanjaro, the highest peak in Africa, at an altitude of 19,341 ft. The trek offers breathtaking views of the surrounding landscapes, including savannahs, rainforests, and alpine deserts, and takes you through a diverse range of ecosystems and climates. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This expedition is perfect for those seeking a true adventure of a lifetime in one of the world's most spectacular and diverse mountain ranges."
         },
         {
             "title": "Markha Valley Trek",
@@ -484,7 +516,8 @@
             "location": "Ladakh",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Markha Valley Trek is a stunning and moderately challenging trek in the Indian Himalayas, taking you through the beautiful Markha Valley, also known as the 'Valley of Kings'. The trek offers breathtaking views of the surrounding peaks, valleys, and glaciers, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people, including visits to ancient monasteries and traditional villages. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Mera Peak Expedition",
@@ -498,7 +531,8 @@
             "location": "Nepal",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"]
+            "bestTimeToTarget": ["March", "April", "May", "September", "October", "November"],
+            "description": "The Mera Peak Expedition is a challenging and rewarding trek in the Indian Himalayas, taking adventurers to the summit of Mera Peak at an altitude of 21,247 ft. The trek offers stunning views of the surrounding peaks, glaciers, and valleys, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This expedition is perfect for experienced trekkers seeking a true wilderness adventure in one of the world's most spectacular mountain ranges."
         },
         {
             "title": "Nafran Valley Trek",
@@ -513,7 +547,8 @@
             "location": "Jammu and Kashmir",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "The Nafran Valley Trek is a stunning and moderately challenging trek in the Indian Himalayas, taking you through the beautiful Nafran Valley, also known as the 'Valley of Flowers'. The trek offers breathtaking views of the surrounding peaks, valleys, and glaciers, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Nag Tibba Weekend Trek",
@@ -527,7 +562,8 @@
             "location": "Uttarakhand",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["January", "February", "March", "April", "May", "October", "November", "December"]
+            "bestTimeToTarget": ["January", "February", "March", "April", "May", "October", "November", "December"],
+            "description": "The Nag Tibba Weekend Trek is a short and easy trek in the Indian Himalayas, perfect for beginners and those looking for a quick escape into nature. The trek takes you to the serene Nag Tibba, offering stunning views of the surrounding peaks and valleys. Trekkers will experience the vibrant flora and fauna of the region, with chances to spot various species of birds and butterflies. The trek also offers a unique opportunity to interact with the local shepherds and learn about their traditional way of life. This trek is an ideal weekend getaway for nature lovers and adventure enthusiasts."
         },
         {
             "title": "Pangarchulla Peak Trek",
@@ -541,7 +577,8 @@
             "location": "Uttarakhand",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["March", "April", "May"]
+            "bestTimeToTarget": ["March", "April", "May"],
+            "description": "The Pangarchulla Peak Trek is a stunning and moderately challenging trek in the Indian Himalayas, taking you to the summit of Pangarchulla Peak at an altitude of 15,100 ft. The trek offers breathtaking views of the surrounding peaks, valleys, and glaciers, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Panwali Kantha Trek",
@@ -555,7 +592,8 @@
             "location": "Uttarakhand",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["April", "May", "October", "November"]
+            "bestTimeToTarget": ["April", "May", "October", "November"],
+            "description": "The Panwali Kantha Trek is a beautiful and moderately challenging trek in the Indian Himalayas, taking you through the stunning Panwali Kantha meadows and offering breathtaking views of the surrounding peaks and valleys. The trek also takes you through dense forests of oak and rhododendron, and past traditional villages and terraced fields. Trekkers will have the opportunity to experience the unique culture and traditions of the local people, and to enjoy the vibrant flora and fauna of the region. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Phulara Ridge Trek",
@@ -570,7 +608,8 @@
             "location": "Uttarakhand",
             "distance": "30",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Phulara Ridge Trek is a delightful and moderately challenging trek in the Indian Himalayas, taking you along the beautiful Phulara Ridge and offering stunning views of the surrounding peaks and valleys. The trek also takes you through dense forests of oak and rhododendron, and past traditional villages and terraced fields. Trekkers will have the opportunity to experience the unique culture and traditions of the local people, and to enjoy the vibrant flora and fauna of the region. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Pin Bhaba Pass Trek",
@@ -584,7 +623,8 @@
             "location": "Himanchal Pradesh",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "The Pin Bhaba Pass Trek is a stunning and moderately challenging trek in the Indian Himalayas, taking you over the Pin Bhaba Pass at an altitude of 16,100 ft. The trek offers breathtaking views of the surrounding peaks, valleys, and glaciers, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Pin Parvati Pass Trek",
@@ -598,7 +638,8 @@
             "location": "Himanchal Pradesh",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "The Pin Parvati Pass Trek is a challenging and rewarding trek in the Indian Himalayas, taking you over the Pin Parvati Pass at an altitude of 17,500 ft. The trek offers stunning views of the surrounding peaks, glaciers, and valleys, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for experienced trekkers seeking a true wilderness adventure in one of the world's most spectacular mountain ranges."
         },
         {
             "title": "Pindari Glacier Trek",
@@ -612,7 +653,8 @@
             "location": "Uttarakhand",
             "distance": "50",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Pindari Glacier Trek is a stunning and moderately challenging trek in the Indian Himalayas, taking you to the beautiful Pindari Glacier and offering breathtaking views of the surrounding peaks and valleys. The trek also takes you through dense forests of oak and rhododendron, and past traditional villages and terraced fields. Trekkers will have the opportunity to experience the unique culture and traditions of the local people, and to enjoy the vibrant flora and fauna of the region. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Pir Ki Gali / Girjan Valley Trek",
@@ -627,7 +669,8 @@
             "location": "Jammu and Kashmir",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "The Pir Ki Gali / Girjan Valley Trek is a beautiful and moderately challenging trek in the Indian Himalayas, taking you through the stunning Girjan Valley and offering breathtaking views of the surrounding peaks and valleys. The trek also takes you through dense forests of oak and rhododendron, and past traditional villages and terraced fields. Trekkers will have the opportunity to experience the unique culture and traditions of the local people, and to enjoy the vibrant flora and fauna of the region. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Ranthan Kharak Trek",
@@ -642,7 +685,8 @@
             "location": "Uttarakhand",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October", "November"]
+            "bestTimeToTarget": ["May", "June", "September", "October", "November"],
+            "description": "The Ranthan Kharak Trek is a delightful and moderately challenging trek in the Indian Himalayas, taking you to the beautiful Ranthan Kharak and offering stunning views of the surrounding peaks and valleys. The trek also takes you through dense forests of oak and rhododendron, and past traditional villages and terraced fields. Trekkers will have the opportunity to experience the unique culture and traditions of the local people, and to enjoy the vibrant flora and fauna of the region. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Roopkund Trek",
@@ -657,7 +701,8 @@
             "location": "Uttarakhand",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Roopkund Trek, also known as the 'Mystery Lake Trek', is a stunning and moderately challenging trek in the Indian Himalayas, taking you to the famous Roopkund Lake, known for the human skeletons found at its shore. The trek offers breathtaking views of the surrounding peaks, valleys, and glaciers, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Rudragaira Peak Expedition",
@@ -671,7 +716,8 @@
             "location": "Uttarakhand",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Rudragaira Peak Expedition is a challenging and rewarding trek in the Indian Himalayas, taking adventurers to the summit of Rudragaira Peak at an altitude of 19,086 ft. The trek offers stunning views of the surrounding peaks, glaciers, and valleys, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This expedition is perfect for experienced trekkers seeking a true wilderness adventure in one of the world's most spectacular mountain ranges."
         },
         {
             "title": "Rupin Pass Trek",
@@ -686,7 +732,8 @@
             "location": "Himanchal Pradesh",
             "distance": "40",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Rupin Pass Trek is a stunning and moderately challenging trek in the Indian Himalayas, taking you over the Rupin Pass at an altitude of 15,350 ft. The trek offers breathtaking views of the surrounding peaks, valleys, and glaciers, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Sandakphu Trek",
@@ -700,7 +747,8 @@
             "location": "West Bengal",
             "distance": "81",
             "tags": [],
-            "bestTimeToTarget": ["March", "April", "May", "October", "November", "December"]
+            "bestTimeToTarget": ["March", "April", "May", "October", "November", "December"],
+            "description": "The Sandakphu Trek is a stunning and moderately challenging trek in the Indian Himalayas, taking you to the summit of Sandakphu, the highest peak in West Bengal, at an altitude of 12,000 ft. The trek offers breathtaking views of the surrounding peaks, valleys, and forests, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Sar Pass Trek",
@@ -714,7 +762,8 @@
             "location": "Himanchal Pradesh",
             "distance": "28",
             "tags": [],
-            "bestTimeToTarget": ["May", "June", "September", "October"]
+            "bestTimeToTarget": ["May", "June", "September", "October"],
+            "description": "The Sar Pass Trek is a beautiful and moderately challenging trek in the Indian Himalayas, taking you over the Sar Pass at an altitude of 13,800 ft. The trek offers stunning views of the surrounding peaks, valleys, and forests, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Satopanth Lake Trek",
@@ -728,7 +777,8 @@
             "location": "Uttarakhand",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Satopanth Lake Trek is a stunning and moderately challenging trek in the Indian Himalayas, taking you to the beautiful Satopanth Lake and offering breathtaking views of the surrounding peaks and valleys. The trek also takes you through dense forests of oak and rhododendron, and past traditional villages and terraced fields. Trekkers will have the opportunity to experience the unique culture and traditions of the local people, and to enjoy the vibrant flora and fauna of the region. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Stok Kangri Peak Trek Expedition",
@@ -742,7 +792,8 @@
             "location": "Ladakh",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Stok Kangri Peak Trek Expedition is a challenging and rewarding trek in the Indian Himalayas, taking adventurers to the summit of Stok Kangri Peak at an altitude of 20,180 ft. The trek offers stunning views of the surrounding peaks, glaciers, and valleys, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This expedition is perfect for experienced trekkers seeking a true wilderness adventure in one of the world's most spectacular mountain ranges."
         },
         {
             "title": "Tarsar Marsar Trek",
@@ -756,7 +807,8 @@
             "location": "Jammu and Kashmir",
             "distance": "49",
             "tags": [],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "The Tarsar Marsar Trek is a stunning and moderately challenging trek in the Indian Himalayas, taking you to the beautiful Tarsar and Marsar lakes and offering breathtaking views of the surrounding peaks and valleys. The trek also takes you through dense forests of oak and rhododendron, and past traditional villages and terraced fields. Trekkers will have the opportunity to experience the unique culture and traditions of the local people, and to enjoy the vibrant flora and fauna of the region. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Twin Peak - Kang Yatse II, Dzo Jongo, Markha Valley Trek",
@@ -770,7 +822,8 @@
             "location": "Ladakh",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Twin Peak - Kang Yatse II, Dzo Jongo, Markha Valley Trek is a challenging and rewarding trek in the Indian Himalayas, taking adventurers to the summits of Kang Yatse II and Dzo Jongo, and through the beautiful Markha Valley. The trek offers stunning views of the surrounding peaks, glaciers, and valleys, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for experienced trekkers seeking a true wilderness adventure in one of the world's most spectacular mountain ranges."
         },
         {
             "title": "Valley of Flowers Trek",
@@ -785,7 +838,8 @@
             "location": "Uttarakhand",
             "distance": "41",
             "tags": [],
-            "bestTimeToTarget": ["July", "August", "September"]
+            "bestTimeToTarget": ["July", "August", "September"],
+            "description": "The Valley of Flowers Trek is a stunning and easy trek in the Indian Himalayas, taking you through the beautiful Valley of Flowers, a UNESCO World Heritage Site, known for its vibrant and diverse alpine flowers. The trek offers breathtaking views of the surrounding peaks, valleys, and glaciers, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Winter Kuari Pass Trek",
@@ -799,7 +853,8 @@
             "location": "Uttarakhand",
             "distance": "30",
             "tags": [],
-            "bestTimeToTarget": ["December", "January", "February"]
+            "bestTimeToTarget": ["December", "January", "February"],
+            "description": "The Winter Kuari Pass Trek is a stunning and moderately challenging trek in the Indian Himalayas, taking you over the Kuari Pass at an altitude of 12,750 ft. The trek offers breathtaking views of the surrounding peaks, valleys, and forests, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion."
         },
         {
             "title": "Yunam Peak Trek Expedition",
@@ -813,7 +868,23 @@
             "location": "Himanchal Pradesh",
             "distance": "",
             "tags": [],
-            "bestTimeToTarget": ["June", "July", "August", "September"]
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Yunam Peak Trek Expedition is a challenging and rewarding trek in the Indian Himalayas, taking adventurers to the summit of Yunam Peak at an altitude of 20,100 ft. The trek offers stunning views of the surrounding peaks, glaciers, and valleys, and takes you through a diverse range of landscapes, from lush green meadows and forests to barren high-altitude deserts. Trekkers will also have the opportunity to experience the unique culture and traditions of the local people. This expedition is perfect for experienced trekkers seeking a true wilderness adventure in one of the world's most spectacular mountain ranges."
+        },
+        {
+            "title": "Ala-Kul Trek - Kyrgyzstan",
+            "uid": "ala-kul-trek-kyrgyzstan",
+            "elevation": "12,750",
+            "duration": "7",
+            "cost": "25,000",
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Kyrgyzstan",
+            "distance": "30",
+            "tags": [],
+            "bestTimeToTarget": ["June", "July", "August", "September"],
+            "description": "The Ala-Kul Trek in Kyrgyzstan is a breathtaking journey through the heart of the Tien Shan mountains. Trekkers traverse lush valleys, alpine meadows, and dense coniferous forests before ascending to the stunning Ala-Kul Lake, a turquoise gem cradled at 12,750 ft. The route offers panoramic views of snow-capped peaks, encounters with nomadic culture in yurt camps, and the vibrant life of Kyrgyz bazaars. This trek is perfect for those seeking a blend of adventure, natural beauty, and cultural immersion in Central Asia."
         }
     ]
 }
