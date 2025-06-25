@@ -1438,7 +1438,39 @@
                 "August",
                 "September"
             ],
-            "itinerary": "- Trek to the source of the Beas River with views of Friendship Peak, Hanuman Tibba, and Pir Panjal range.\n- Walk through grasslands of Bakarthach and Dhundhi, and ancient deodar forests.\n- Day-wise guide, travel, packing, and preparation details available on the trek page.\n- Highlights: Beas Kund, lush meadows, and mountain amphitheatre.\n- See the full day-wise itinerary and details at: https://indiahikes.com/trek/beas-kund",
+            "itinerary": {
+                "start": "Manali",
+                "end": "Manali",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Manali to Dhundi",
+                        "description": "Drive from Manali to Dhundi and trek to Bakarthach.",
+                        "distance": 8,
+                        "elevation_gain": 2000,
+                        "elevation_loss": 0,
+                        "current_elevation": 9800
+                    },
+                    {
+                        "day": 2,
+                        "title": "Bakarthach to Beas Kund and back",
+                        "description": "Trek to Beas Kund and return to Bakarthach.",
+                        "distance": 10,
+                        "elevation_gain": 1972,
+                        "elevation_loss": 1972,
+                        "current_elevation": 12772
+                    },
+                    {
+                        "day": 3,
+                        "title": "Bakarthach to Dhundi to Manali",
+                        "description": "Descend to Dhundi and drive back to Manali.",
+                        "distance": 8,
+                        "elevation_gain": 0,
+                        "elevation_loss": 2000,
+                        "current_elevation": 6725
+                    }
+                ]
+            },
             "organisers": [
                 {
                     "name": "Indiahikes",
