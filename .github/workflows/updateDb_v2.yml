@@ -1,0 +1,31 @@
+name: Update Data
+
+on:
+    push:
+        branches:
+            - main
+
+jobs:
+    update-data:
+        runs-on: ubuntu-latest
+
+        environment: prod
+
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v3
+            - name: Set Up Python
+              uses: actions/setup-python@v4
+              with:
+                python-version: '3.x'			
+            - name: Install Dependencies
+              run: |
+                python -m pip install --upgrade pip
+                pip install -r requirements.txt
+            - name: Update DB
+              env:
+                DB_NAME: ${{ secrets.DB_NAME }}
+                DB_URI: ${{ secrets.DB_URI }}
+                COLLECTION_NAME: ${{ secrets.COLLECTION_NAME_V2 }}
+              run: |
+                python src/db_handler_v2.py
