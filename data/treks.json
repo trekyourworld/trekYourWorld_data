@@ -11278,6 +11278,685 @@
                     "email": ""
                 }
             ]
+        },
+        {
+            "title": "Kinnaur Kailash Trek",
+            "uid": "kinnaur-kailash-trek",
+            "description": "The Kinnaur Kailash Trek is a challenging and spiritual journey in Himachal Pradesh, leading trekkers to the revered Kinnaur Kailash Shivling at 4,800m. The trail passes through remote villages, dense forests, alpine meadows, and rocky terrain, offering panoramic views of the Kinnaur and Zanskar ranges. This trek is ideal for experienced trekkers seeking adventure and a deep cultural experience in the Himalayas.",
+            "elevation": 15750,
+            "duration": 7,
+            "difficulty": [
+                "moderate",
+                "difficult"
+            ],
+            "location": "Himachal Pradesh",
+            "distance": 38,
+            "tags": [
+                "June",
+                "July",
+                "August",
+                "September"
+            ],
+            "image": "",
+            "bestTimeToTarget": [
+                "June",
+                "July",
+                "August",
+                "September"
+            ],
+            "itinerary": {
+                "start": "Shimla",
+                "end": "Reckong Peo/Kalpa",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Shimla to Tangling Village (Drive)",
+                        "description": "Arrive in Shimla and drive to Tangling village (2,400m), the trek base. The drive takes 8–9 hours (250 km) through scenic Kinnaur valley. Overnight in homestay/tent.",
+                        "distance": 250,
+                        "elevation_gain": 2400,
+                        "elevation_loss": 0,
+                        "current_elevation": 2400
+                    },
+                    {
+                        "day": 2,
+                        "title": "Tangling to Ganesh Park",
+                        "description": "Begin trek from Tangling village. Ascend through forests, meadows, and streams to Ganesh Park (3,600m). Camp overnight.",
+                        "distance": 12,
+                        "elevation_gain": 1200,
+                        "elevation_loss": 0,
+                        "current_elevation": 3600
+                    },
+                    {
+                        "day": 3,
+                        "title": "Ganesh Park to Parvati Kund",
+                        "description": "Steep ascent through rocky terrain to Parvati Kund (4,500m), a sacred high-altitude lake. Camp near Parvati Kund.",
+                        "distance": 7,
+                        "elevation_gain": 900,
+                        "elevation_loss": 0,
+                        "current_elevation": 4500
+                    },
+                    {
+                        "day": 4,
+                        "title": "Parvati Kund to Kinnaur Kailash Shivling and back",
+                        "description": "Early morning trek to Kinnaur Kailash Shivling (4,800m), a 79-foot vertical rock pillar. Spend time at the Shivling, then return to Parvati Kund camp.",
+                        "distance": 5,
+                        "elevation_gain": 300,
+                        "elevation_loss": 300,
+                        "current_elevation": 4500
+                    },
+                    {
+                        "day": 5,
+                        "title": "Parvati Kund to Ganesh Park",
+                        "description": "Descend from Parvati Kund to Ganesh Park, retracing your steps. Camp overnight.",
+                        "distance": 7,
+                        "elevation_gain": 0,
+                        "elevation_loss": 900,
+                        "current_elevation": 3600
+                    },
+                    {
+                        "day": 6,
+                        "title": "Ganesh Park to Tangling, drive to Reckong Peo/Kalpa",
+                        "description": "Descend to Tangling village. Drive to Reckong Peo or Kalpa (1 hour). Overnight in hotel/guesthouse.",
+                        "distance": 13,
+                        "elevation_gain": 0,
+                        "elevation_loss": 1200,
+                        "current_elevation": 2300
+                    },
+                    {
+                        "day": 7,
+                        "title": "Reckong Peo/Kalpa to Shimla (Drive)",
+                        "description": "Drive back to Shimla (8-9 hours, 250 km). Trek ends.",
+                        "distance": 250,
+                        "elevation_gain": 0,
+                        "elevation_loss": 2300,
+                        "current_elevation": 1040
+                    }
+                ]
+            },
+            "organisers": [
+                {
+                    "name": "Trek The Himalayas",
+                    "contact": "",
+                    "website": "https://trekthehimalayas.com",
+                    "email": ""
+                },
+                {
+                    "name": "Bikat Adventures",
+                    "contact": "",
+                    "website": "https://www.bikatadventures.com/Home/Itinerary",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "title": "Manimahesh Trek",
+            "uid": "manimahesh-trek",
+            "description": "The Manimahesh Trek is a sacred pilgrimage and adventure in Himachal Pradesh, leading trekkers to the revered Manimahesh Lake at 4,080m, beneath the mighty Manimahesh Kailash peak. The trail passes through remote villages, dense forests, alpine meadows, and rocky terrain, offering spiritual significance and panoramic views of the Pir Panjal and Dhauladhar ranges. This trek is ideal for trekkers seeking both adventure and a deep cultural experience in the Himalayas.",
+            "elevation": 13400,
+            "duration": 5,
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Himachal Pradesh",
+            "distance": 28,
+            "tags": [
+                "June",
+                "July",
+                "August",
+                "September"
+            ],
+            "image": "",
+            "bestTimeToTarget": [
+                "June",
+                "July",
+                "August",
+                "September"
+            ],
+            "itinerary": {
+                "start": "Bharmour",
+                "end": "Bharmour",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Arrival at Bharmour",
+                        "description": "Arrive at Bharmour (2,195m) from Chamba (65 km by road). Acclimatize and visit Chaurasi Temple. Overnight in guesthouse/homestay.",
+                        "distance": 65,
+                        "elevation_gain": 2195,
+                        "elevation_loss": 0,
+                        "current_elevation": 2195
+                    },
+                    {
+                        "day": 2,
+                        "title": "Bharmour to Hadsar (Drive), trek to Dhancho",
+                        "description": "Drive to Hadsar (13 km). Trek from Hadsar to Dhancho (3,040m), passing through forests and streams. Camp at Dhancho.",
+                        "distance": 7,
+                        "elevation_gain": 845,
+                        "elevation_loss": 0,
+                        "current_elevation": 3040
+                    },
+                    {
+                        "day": 3,
+                        "title": "Dhancho to Manimahesh Lake",
+                        "description": "Trek from Dhancho to Manimahesh Lake (4,080m) via Gauri Kund and Shiv Karotri. Steep ascent. Explore the sacred lake and temple. Camp near the lake.",
+                        "distance": 7,
+                        "elevation_gain": 1040,
+                        "elevation_loss": 0,
+                        "current_elevation": 4080
+                    },
+                    {
+                        "day": 4,
+                        "title": "Manimahesh Lake to Dhancho to Hadsar, drive to Bharmour",
+                        "description": "Early morning visit to the lake. Trek back to Dhancho and Hadsar (14 km total). Drive to Bharmour. Overnight in guesthouse/homestay.",
+                        "distance": 14,
+                        "elevation_gain": 0,
+                        "elevation_loss": 1885,
+                        "current_elevation": 2195
+                    },
+                    {
+                        "day": 5,
+                        "title": "Bharmour to Chamba/Departure",
+                        "description": "Drive back to Chamba or onward destination. Trek ends.",
+                        "distance": 65,
+                        "elevation_gain": 0,
+                        "elevation_loss": 2195,
+                        "current_elevation": 996
+                    }
+                ]
+            },
+            "organisers": [
+                {
+                    "name": "Trek The Himalayas",
+                    "contact": "",
+                    "website": "https://trekthehimalayas.com",
+                    "email": ""
+                },
+                {
+                    "name": "Bikat Adventures",
+                    "contact": "",
+                    "website": "https://www.bikatadventures.com/Home/Itinerary",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "title": "Rudranath Trek",
+            "uid": "rudranath-trek",
+            "description": "The Rudranath Trek is a spiritual and scenic journey in Uttarakhand, leading trekkers to the revered Rudranath Temple, one of the Panch Kedar shrines dedicated to Lord Shiva. The trail passes through dense forests, alpine meadows, and remote villages, offering panoramic views of the Garhwal Himalayas. This trek is ideal for those seeking a blend of adventure, natural beauty, and spiritual experience.",
+            "elevation": 11800,
+            "duration": 5,
+            "difficulty": [
+                "moderate"
+            ],
+            "location": "Uttarakhand",
+            "distance": 24,
+            "tags": [
+                "May",
+                "June",
+                "September",
+                "October"
+            ],
+            "image": "",
+            "bestTimeToTarget": [
+                "May",
+                "June",
+                "September",
+                "October"
+            ],
+            "itinerary": {
+                "start": "Sagar Village",
+                "end": "Sagar Village",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Rishikesh/Haridwar to Sagar Village (Drive)",
+                        "description": "Begin with a scenic drive from Rishikesh/Haridwar (1,030 ft) to Sagar Village (6,500 ft) via Gopeshwar (approx. 220 km, 8–10 hours). Overnight in guesthouse/homestay.",
+                        "distance": 220,
+                        "elevation_gain": 5470,
+                        "elevation_loss": 0,
+                        "current_elevation": 6500
+                    },
+                    {
+                        "day": 2,
+                        "title": "Sagar Village to Panar Bugyal",
+                        "description": "Trek from Sagar Village to Panar Bugyal (11,000 ft), passing through dense forests of oak and rhododendron. The trail offers beautiful views of the Garhwal Himalayas. Camp at Panar Bugyal.",
+                        "distance": 12,
+                        "elevation_gain": 4500,
+                        "elevation_loss": 0,
+                        "current_elevation": 11000
+                    },
+                    {
+                        "day": 3,
+                        "title": "Panar Bugyal to Rudranath Temple and back to Panar",
+                        "description": "Trek from Panar Bugyal to Rudranath Temple (11,800 ft), a revered shrine dedicated to Lord Shiva. Explore the temple and enjoy panoramic mountain views. Return to Panar Bugyal for overnight camp.",
+                        "distance": 8,
+                        "elevation_gain": 800,
+                        "elevation_loss": 800,
+                        "current_elevation": 11000
+                    },
+                    {
+                        "day": 4,
+                        "title": "Panar Bugyal to Sagar Village",
+                        "description": "Descend from Panar Bugyal to Sagar Village, retracing your steps through forests and meadows. Overnight in guesthouse/homestay.",
+                        "distance": 12,
+                        "elevation_gain": 0,
+                        "elevation_loss": 4500,
+                        "current_elevation": 6500
+                    },
+                    {
+                        "day": 5,
+                        "title": "Sagar Village to Rishikesh/Haridwar (Drive)",
+                        "description": "Drive back from Sagar Village to Rishikesh/Haridwar, marking the end of your Rudranath adventure.",
+                        "distance": 220,
+                        "elevation_gain": 0,
+                        "elevation_loss": 5470,
+                        "current_elevation": 1030
+                    }
+                ]
+            },
+            "organisers": [
+                {
+                    "name": "Trek The Himalayas",
+                    "contact": "",
+                    "website": "https://trekthehimalayas.com",
+                    "email": ""
+                },
+                {
+                    "name": "Bikat Adventures",
+                    "contact": "",
+                    "website": "https://www.bikatadventures.com/Home/Itinerary",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "title": "Srikhand Mahadev Trek",
+            "uid": "srikhand-mahadev-trek",
+            "description": "The Srikhand Mahadev Trek is a challenging pilgrimage and adventure in Himachal Pradesh, leading trekkers to the sacred Srikhand Mahadev peak (5,227m/17,150 ft), believed to be the abode of Lord Shiva. The trail passes through dense forests, alpine meadows, glacial streams, and rocky moraines, offering panoramic views of the Himalayas. This trek is ideal for experienced trekkers and devotees seeking a blend of spiritual significance and high-altitude adventure.",
+            "elevation": 17150,
+            "duration": 7,
+            "difficulty": [
+                "difficult"
+            ],
+            "location": "Himachal Pradesh",
+            "distance": 56,
+            "tags": [
+                "July",
+                "August"
+            ],
+            "image": "",
+            "bestTimeToTarget": [
+                "July",
+                "August"
+            ],
+            "itinerary": {
+                "start": "Jaon Village",
+                "end": "Jaon Village",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Shimla to Jaon Village (Drive)",
+                        "description": "Arrive in Shimla and drive to Jaon Village (6,500 ft), the trek base. The drive takes 8–9 hours (approx. 180 km) via Rampur and Nirmand. Overnight in homestay/tent.",
+                        "distance": 180,
+                        "elevation_gain": 6500,
+                        "elevation_loss": 0,
+                        "current_elevation": 6500
+                    },
+                    {
+                        "day": 2,
+                        "title": "Jaon to Thachru",
+                        "description": "Begin trek from Jaon. Ascend steeply through forests and meadows to Thachru (11,000 ft). The trail passes Barati Nala and dense pine forests. Camp at Thachru.",
+                        "distance": 12,
+                        "elevation_gain": 4500,
+                        "elevation_loss": 0,
+                        "current_elevation": 11000
+                    },
+                    {
+                        "day": 3,
+                        "title": "Thachru to Bhim Dwar via Kali Ghati",
+                        "description": "Trek from Thachru to Bhim Dwar (12,500 ft) via Kali Ghati (12,800 ft). The trail ascends to Kali Ghati Pass, then descends through meadows and streams to Bhim Dwar. Camp overnight.",
+                        "distance": 14,
+                        "elevation_gain": 1800,
+                        "elevation_loss": 1300,
+                        "current_elevation": 12500
+                    },
+                    {
+                        "day": 4,
+                        "title": "Bhim Dwar to Parvati Bagh",
+                        "description": "Trek from Bhim Dwar to Parvati Bagh (13,800 ft), a beautiful meadow filled with wildflowers. The trail passes through rocky terrain and glacial streams. Camp at Parvati Bagh.",
+                        "distance": 5,
+                        "elevation_gain": 1300,
+                        "elevation_loss": 0,
+                        "current_elevation": 13800
+                    },
+                    {
+                        "day": 5,
+                        "title": "Parvati Bagh to Srikhand Mahadev Summit (17,150 ft) and back to Bhim Dwar",
+                        "description": "Early morning summit push to Srikhand Mahadev (17,150 ft), a revered rock Shivling. The trail is steep, rocky, and crosses glaciers. After darshan, descend to Bhim Dwar for overnight camp.",
+                        "distance": 15,
+                        "elevation_gain": 3350,
+                        "elevation_loss": 4850,
+                        "current_elevation": 12500
+                    },
+                    {
+                        "day": 6,
+                        "title": "Bhim Dwar to Jaon",
+                        "description": "Descend from Bhim Dwar to Jaon, retracing your steps through meadows and forests. Overnight in homestay/tent.",
+                        "distance": 14,
+                        "elevation_gain": 0,
+                        "elevation_loss": 6000,
+                        "current_elevation": 6500
+                    },
+                    {
+                        "day": 7,
+                        "title": "Jaon to Shimla (Drive)",
+                        "description": "Drive back from Jaon to  Shimla, marking the end of your Srikhand Mahadev adventure.",
+                        "distance": 180,
+                        "elevation_gain": 0,
+                        "elevation_loss": 6500,
+                        "current_elevation": 2200
+                    }
+                ]
+            },
+            "organisers": [
+                {
+                    "name": "Trek The Himalayas",
+                    "contact": "",
+                    "website": "https://trekthehimalayas.com",
+                    "email": ""
+                },
+                {
+                    "name": "Bikat Adventures",
+                    "contact": "",
+                    "website": "https://www.bikatadventures.com/Home/Itinerary",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "title": "UT Kangri Expedition",
+            "uid": "ut-kangri-expedition",
+            "description": "UT Kangri Expedition is a challenging high-altitude trek in Ladakh, taking you to the summit of UT Kangri (20,500 ft). The trek offers breathtaking views of the Zanskar and Ladakh ranges, traverses remote valleys, and provides a true Himalayan adventure for experienced trekkers and mountaineers.",
+            "elevation": 20500,
+            "duration": 9,
+            "difficulty": [
+                "difficult"
+            ],
+            "location": "Ladakh",
+            "distance": 55,
+            "tags": [
+                "June",
+                "July",
+                "August",
+                "September"
+            ],
+            "image": "",
+            "bestTimeToTarget": [
+                "June",
+                "July",
+                "August",
+                "September"
+            ],
+            "itinerary": {
+                "start": "Leh",
+                "end": "Leh",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in Leh (Acclimatization Day)",
+                        "description": "Arrive in Leh (11,500 ft). Rest and acclimatize to the high altitude. Explore the local market and monasteries if time permits. Overnight in a guesthouse or hotel.",
+                        "distance": 0,
+                        "elevation_gain": 0,
+                        "elevation_loss": 0,
+                        "current_elevation": 11500
+                    },
+                    {
+                        "day": 2,
+                        "title": "Leh Acclimatization and Sightseeing",
+                        "description": "Second day in Leh for acclimatization. Optional sightseeing to Shey Palace, Thiksey Monastery, and Hemis Monastery. Briefing and equipment check in the evening. Overnight in Leh.",
+                        "distance": 40,
+                        "elevation_gain": 0,
+                        "elevation_loss": 0,
+                        "current_elevation": 11500
+                    },
+                    {
+                        "day": 3,
+                        "title": "Leh to Stok Village (Drive), trek to Base Camp",
+                        "description": "Drive from Leh to Stok Village (11,800 ft), the trek starting point. Trek along the Stok Chu river and ascend to UT Kangri Base Camp (16,000 ft). Set up camp and rest.",
+                        "distance": 15,
+                        "elevation_gain": 4200,
+                        "elevation_loss": 0,
+                        "current_elevation": 16000
+                    },
+                    {
+                        "day": 4,
+                        "title": "Acclimatization and Training at Base Camp",
+                        "description": "Rest and acclimatization day at Base Camp. Practice using technical equipment, review summit strategy, and take short acclimatization hikes. Prepare for the summit attempt.",
+                        "distance": 3,
+                        "elevation_gain": 300,
+                        "elevation_loss": 300,
+                        "current_elevation": 16000
+                    },
+                    {
+                        "day": 5,
+                        "title": "Base Camp to Advance Base Camp",
+                        "description": "Trek from Base Camp to Advance Base Camp (17,200 ft), crossing moraines and snowfields. Set up camp and rest.",
+                        "distance": 6,
+                        "elevation_gain": 1200,
+                        "elevation_loss": 0,
+                        "current_elevation": 17200
+                    },
+                    {
+                        "day": 6,
+                        "title": "Rest and Training at Advance Base Camp",
+                        "description": "Acclimatization and technical training day at Advance Base Camp. Practice using crampons, ice axe, and ropes. Short acclimatization hikes in the area. Prepare for the summit push.",
+                        "distance": 2,
+                        "elevation_gain": 300,
+                        "elevation_loss": 300,
+                        "current_elevation": 17200
+                    },
+                    {
+                        "day": 7,
+                        "title": "Summit UT Kangri (20,500 ft) and return to Base Camp",
+                        "description": "Start pre-dawn for the summit push. Climb steep snow and scree slopes to reach the summit of UT Kangri (20,500 ft). Enjoy panoramic views of the Zanskar and Ladakh ranges. Descend carefully back to Base Camp.",
+                        "distance": 13,
+                        "elevation_gain": 3300,
+                        "elevation_loss": 5300,
+                        "current_elevation": 16000
+                    },
+                    {
+                        "day": 8,
+                        "title": "Base Camp to Stok Village, drive to Leh",
+                        "description": "Descend from Base Camp to Stok Village, retracing your steps along the Stok Chu river. Board vehicles for the drive back to Leh. Celebrate the successful expedition.",
+                        "distance": 15,
+                        "elevation_gain": 0,
+                        "elevation_loss": 4200,
+                        "current_elevation": 11500
+                    },
+                    {
+                        "day": 9,
+                        "title": "Departure from Leh",
+                        "description": "Depart from Leh for your onward journey, carrying memories of your UT Kangri adventure.",
+                        "distance": 0,
+                        "elevation_gain": 0,
+                        "elevation_loss": 0,
+                        "current_elevation": 11500
+                    }
+                ]
+            },
+            "organisers": [
+                {
+                    "name": "TrekupIndia",
+                    "contact": "",
+                    "website": "https://www.trekupindia.com/",
+                    "email": ""
+                },
+                {
+                    "name": "Bikat Adventures",
+                    "contact": "",
+                    "website": "https://www.bikatadventures.com/Home/Itinerary",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "title": "Panpatia Col Trek",
+            "uid": "panpatia-col-trek",
+            "description": "The Panpatia Col Trek is one of the most challenging and remote high-altitude traverses in the Indian Himalayas, connecting the holy shrines of Badrinath and Kedarnath. The route crosses the Panpatia Glacier and the elusive Panpatia Col (17,257 ft), passing through dense forests, alpine meadows, moraine fields, and snowfields. This trek is ideal for experienced trekkers seeking adventure, solitude, and the thrill of a true Himalayan expedition.",
+            "elevation": 17257,
+            "duration": 13,
+            "difficulty": [
+                "difficult"
+            ],
+            "location": "Uttarakhand",
+            "distance": 78,
+            "tags": [
+                "June",
+                "July",
+                "September"
+            ],
+            "image": "",
+            "bestTimeToTarget": [
+                "June",
+                "July",
+                "September"
+            ],
+            "itinerary": {
+                "start": "Joshimath",
+                "end": "Kedarnath",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Rishikesh/Haridwar to Joshimath (Drive)",
+                        "description": "Begin with a scenic drive from Rishikesh/Haridwar (1,030 ft) to Joshimath (6,725 ft), gateway to the Garhwal Himalayas. The 8-10 hour journey passes through Devprayag, Rudraprayag, and Chamoli. Overnight in a guesthouse or hotel at Joshimath.",
+                        "distance": 255,
+                        "elevation_gain": 5695,
+                        "elevation_loss": 0,
+                        "current_elevation": 6725
+                    },
+                    {
+                        "day": 2,
+                        "title": "Joshimath to Badrinath (Drive), trek to Shepherd Camp",
+                        "description": "Drive from Joshimath to Badrinath (10,200 ft). Begin trek to Shepherd Camp (11,000 ft) through alpine meadows and forests. Camp overnight.",
+                        "distance": 30,
+                        "elevation_gain": 4800,
+                        "elevation_loss": 0,
+                        "current_elevation": 11000
+                    },
+                    {
+                        "day": 3,
+                        "title": "Shepherd Camp to Snout Camp",
+                        "description": "Trek from Shepherd Camp to Snout Camp (12,500 ft), following the Alaknanda River and crossing boulder fields. Camp near the snout of the Panpatia Glacier.",
+                        "distance": 8,
+                        "elevation_gain": 1500,
+                        "elevation_loss": 0,
+                        "current_elevation": 12500
+                    },
+                    {
+                        "day": 4,
+                        "title": "Snout Camp to Moraine Camp",
+                        "description": "Trek from Snout Camp to Moraine Camp (13,500 ft), traversing glacial moraines and rocky terrain. The trail offers views of Chaukhamba and Neelkanth peaks. Camp at Moraine Camp.",
+                        "distance": 7,
+                        "elevation_gain": 1000,
+                        "elevation_loss": 0,
+                        "current_elevation": 13500
+                    },
+                    {
+                        "day": 5,
+                        "title": "Moraine Camp to Base Camp",
+                        "description": "Ascend from Moraine Camp to Panpatia Base Camp (15,000 ft), crossing snowfields and crevasses. The landscape becomes increasingly rugged and remote. Camp at Base Camp.",
+                        "distance": 6,
+                        "elevation_gain": 1500,
+                        "elevation_loss": 0,
+                        "current_elevation": 15000
+                    },
+                    {
+                        "day": 6,
+                        "title": "Base Camp to Panpatia Col (17,257 ft), descend to Sujal Sarovar",
+                        "description": "Early morning ascent to Panpatia Col (17,257 ft), the highest point of the trek. Enjoy breathtaking views of the Garhwal Himalayas. Descend to Sujal Sarovar (15,500 ft) for overnight camp.",
+                        "distance": 10,
+                        "elevation_gain": 2257,
+                        "elevation_loss": 1757,
+                        "current_elevation": 15500
+                    },
+                    {
+                        "day": 7,
+                        "title": "Sujal Sarovar to Kachni",
+                        "description": "Descend from Sujal Sarovar to Kachni (13,500 ft), passing through snowfields and alpine meadows. Camp at Kachni.",
+                        "distance": 8,
+                        "elevation_gain": 0,
+                        "elevation_loss": 2000,
+                        "current_elevation": 13500
+                    },
+                    {
+                        "day": 8,
+                        "title": "Kachni to Nanu Chatti",
+                        "description": "Trek from Kachni to Nanu Chatti (11,000 ft), a small meadow surrounded by forests. The trail descends through rhododendron and birch forests. Camp at Nanu Chatti.",
+                        "distance": 10,
+                        "elevation_gain": 0,
+                        "elevation_loss": 2500,
+                        "current_elevation": 11000
+                    },
+                    {
+                        "day": 9,
+                        "title": "Nanu Chatti to Madhmaheshwar",
+                        "description": "Descend from Nanu Chatti to Madhmaheshwar (10,500 ft), one of the Panch Kedar temples. Explore the temple and surrounding meadows. Camp or stay in a guesthouse.",
+                        "distance": 6,
+                        "elevation_gain": 0,
+                        "elevation_loss": 500,
+                        "current_elevation": 10500
+                    },
+                    {
+                        "day": 10,
+                        "title": "Madhmaheshwar to Gaundhar",
+                        "description": "Trek from Madhmaheshwar to Gaundhar (7,200 ft), passing through forests and small villages. Camp at Gaundhar.",
+                        "distance": 10,
+                        "elevation_gain": 0,
+                        "elevation_loss": 3300,
+                        "current_elevation": 7200
+                    },
+                    {
+                        "day": 11,
+                        "title": "Gaundhar to Ransi, drive to Guptkashi",
+                        "description": "Descend from Gaundhar to Ransi (6,600 ft), the roadhead. Drive to Guptkashi (4,300 ft), a major pilgrimage town. Overnight in a guesthouse.",
+                        "distance": 15,
+                        "elevation_gain": 0,
+                        "elevation_loss": 2900,
+                        "current_elevation": 4300
+                    },
+                    {
+                        "day": 12,
+                        "title": "Guptkashi to Gaurikund (Drive), trek to Kedarnath",
+                        "description": "Drive from Guptkashi to Gaurikund (6,600 ft), the starting point for the Kedarnath trek. Trek to Kedarnath (11,750 ft), one of the holiest shrines in India. Overnight in guesthouse or camp.",
+                        "distance": 20,
+                        "elevation_gain": 5150,
+                        "elevation_loss": 0,
+                        "current_elevation": 11750
+                    },
+                    {
+                        "day": 13,
+                        "title": "Kedarnath to Gaurikund, drive to Rishikesh/Haridwar",
+                        "description": "Descend from Kedarnath to Gaurikund. Board vehicles for the drive back to Rishikesh/Haridwar, marking the end of your Panpatia Col adventure.",
+                        "distance": 250,
+                        "elevation_gain": 0,
+                        "elevation_loss": 5720,
+                        "current_elevation": 1030
+                    }
+                ]
+            },
+            "organisers": [
+                {
+                    "name": "Trek The Himalayas",
+                    "contact": "",
+                    "website": "https://trekthehimalayas.com",
+                    "email": ""
+                },
+                {
+                    "name": "Bikat Adventures",
+                    "contact": "",
+                    "website": "https://www.bikatadventures.com/Home/Itinerary",
+                    "email": ""
+                }
+            ]
         }
     ]
 }
