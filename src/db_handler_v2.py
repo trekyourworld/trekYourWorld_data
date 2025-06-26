@@ -1,5 +1,6 @@
 import json
 import os
+import uuid
 from pymongo import MongoClient, UpdateOne
 
 class TrekDBHandler:
@@ -11,7 +12,12 @@ class TrekDBHandler:
     def load_json(self, json_path):
         with open(json_path, 'r', encoding='utf-8') as f:
             data = json.load(f)
-        return data.get('data', [])
+        treks = data.get('data', [])
+        # Add uuid to each trek if not present
+        for trek in treks:
+            if 'uuid' not in trek:
+                trek['uuid'] = str(uuid.uuid4())
+        return treks
 
     def upsert_treks(self, treks):
         operations = []
