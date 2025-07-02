@@ -710,7 +710,7 @@
                 "difficult"
             ],
             "location": "Uttarakhand",
-            "distance": 0,
+            "distance": 75,
             "tags": [],
             "image": "",
             "bestTimeToTarget": [
@@ -879,7 +879,7 @@
                 "moderate"
             ],
             "location": "Uttarakhand",
-            "distance": 0,
+            "distance": 43,
             "tags": [],
             "image": "",
             "bestTimeToTarget": [
@@ -994,7 +994,7 @@
                 "easy"
             ],
             "location": "Uttarakhand",
-            "distance": 0,
+            "distance": 24,
             "tags": [],
             "image": "",
             "bestTimeToTarget": [
@@ -1083,7 +1083,7 @@
                 "difficult"
             ],
             "location": "Uttarakhand",
-            "distance": 0,
+            "distance": 56,
             "tags": [
                 "June",
                 "uttarakhand",
@@ -1419,7 +1419,7 @@
                 "moderate"
             ],
             "location": "Himanchal Pradesh",
-            "distance": 0,
+            "distance": 26,
             "tags": [
                 "Difficulty",
                 "Monsoon (Jul, Aug, Mid-Sep)",
@@ -1615,7 +1615,7 @@
                 "moderate"
             ],
             "location": "Himanchal Pradesh",
-            "distance": 0,
+            "distance": 22,
             "tags": [
                 "Manali",
                 "July",
@@ -1697,7 +1697,7 @@
                 "easy"
             ],
             "location": "Himanchal Pradesh",
-            "distance": 0,
+            "distance": 6,
             "tags": [
                 "Manali",
                 "Easy",
@@ -1872,7 +1872,7 @@
                 "difficult"
             ],
             "location": "Jammu and Kashmir",
-            "distance": 0,
+            "distance": 45,
             "tags": [
                 "Jammu and Kashmir",
                 "July",
@@ -2191,7 +2191,7 @@
                 "moderate"
             ],
             "location": "Jammu and Kashmir",
-            "distance": 0,
+            "distance": 49,
             "tags": [
                 "Jammu and Kashmir",
                 "june",
@@ -2293,7 +2293,7 @@
                 "difficult"
             ],
             "location": "Himanchal Pradesh",
-            "distance": 0,
+            "distance": 40,
             "tags": [
                 "June",
                 "Summer (May, Jun)",
@@ -2650,7 +2650,7 @@
                 "difficult"
             ],
             "location": "Sikkim",
-            "distance": 0,
+            "distance": 55,
             "tags": [
                 "Spring",
                 "Autumn",
@@ -2782,7 +2782,7 @@
                 "moderate"
             ],
             "location": "Uttarakhand",
-            "distance": 0,
+            "distance": 21,
             "tags": [
                 "Dayara Bugyal",
                 "January",
@@ -2998,7 +2998,7 @@
                 "difficult"
             ],
             "location": "Himanchal Pradesh",
-            "distance": 0,
+            "distance": 42,
             "tags": [],
             "image": "",
             "bestTimeToTarget": [
@@ -3150,7 +3150,7 @@
                 "moderate"
             ],
             "location": "Uttarakhand",
-            "distance": 0,
+            "distance": 5,
             "tags": [],
             "image": "",
             "bestTimeToTarget": [
@@ -3206,7 +3206,7 @@
                 "moderate"
             ],
             "location": "Uttarakhand",
-            "distance": 0,
+            "distance": 32,
             "tags": [
                 "Easy-moderate",
                 "January",
@@ -3426,7 +3426,7 @@
                 "challenging"
             ],
             "location": "Uttarakhand",
-            "distance": 0,
+            "distance": 75,
             "tags": [],
             "image": "",
             "bestTimeToTarget": [
@@ -3551,7 +3551,7 @@
                 "moderate"
             ],
             "location": "Uttarakhand",
-            "distance": 0,
+            "distance": 40,
             "tags": [],
             "image": "",
             "bestTimeToTarget": [
@@ -3649,7 +3649,7 @@
                 "difficult"
             ],
             "location": "Jammu and Kashmir",
-            "distance": 0,
+            "distance": 49,
             "tags": [],
             "image": "",
             "bestTimeToTarget": [
@@ -3869,7 +3869,7 @@
                 "difficult"
             ],
             "location": "Nepal",
-            "distance": 0,
+            "distance": 111,
             "tags": [
                 "7+-days",
                 "Spring",
@@ -4021,7 +4021,7 @@
                 "difficult"
             ],
             "location": "Nepal",
-            "distance": 0,
+            "distance": 134,
             "tags": [
                 "Lukla",
                 "Himalaya",
