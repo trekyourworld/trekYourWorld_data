@@ -13,7 +13,7 @@
             "location": "Uttarakhand",
             "distance": 30,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -124,7 +124,7 @@
             "location": "Nepal",
             "distance": 64,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -248,7 +248,7 @@
             "location": "Nepal",
             "distance": 145,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -420,7 +420,7 @@
             "location": "Uttarakhand",
             "distance": 22,
             "tags": [],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -716,7 +716,7 @@
             "location": "Uttarakhand",
             "distance": 75,
             "tags": [],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -886,7 +886,7 @@
             "location": "Uttarakhand",
             "distance": 43,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -1002,7 +1002,7 @@
             "location": "Uttarakhand",
             "distance": 24,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "April",
@@ -1101,6 +1101,7 @@
                 "Summer",
                 "Autumn (Mid-Sep, Oct, Nov)"
             ],
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -1208,7 +1209,7 @@
             "location": "Uttarakhand",
             "distance": 22,
             "tags": [],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -1396,7 +1397,7 @@
             "location": "Uttarakhand",
             "distance": 43,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -1531,7 +1532,7 @@
                 "Summer",
                 "Autumn"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -1594,7 +1595,7 @@
             "location": "Uttarakhand",
             "distance": 61,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -1730,7 +1731,7 @@
                 "October",
                 "September"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -1810,7 +1811,7 @@
                 "June",
                 "forests of manali"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -1881,7 +1882,7 @@
             "location": "Jammu and Kashmir",
             "distance": 45,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -1987,7 +1988,7 @@
                 "Moderate-Difficult",
                 "September"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -2085,7 +2086,7 @@
             "location": "Uttarakhand",
             "distance": 63,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -2190,7 +2191,7 @@
             "location": "Uttarakhand",
             "distance": 30,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "December",
@@ -2307,7 +2308,7 @@
                 "Summer (May, Jun)",
                 "may"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -2414,7 +2415,7 @@
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Autumn"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -2522,7 +2523,7 @@
             "location": "Himachal Pradesh",
             "distance": 22,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -2636,7 +2637,7 @@
             "location": "Uttarakhand",
             "distance": 30,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "December",
@@ -2730,7 +2731,7 @@
                 "Kanchenjunga",
                 "Rhododendrons"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "April",
@@ -2876,7 +2877,7 @@
                 "Autumn",
                 "Spring (Mar, Apr)"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -2977,7 +2978,7 @@
             "location": "Himachal Pradesh",
             "distance": 37,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -3072,7 +3073,7 @@
             "location": "Himachal Pradesh",
             "distance": 42,
             "tags": [],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -3225,7 +3226,7 @@
             "location": "Uttarakhand",
             "distance": 5,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -3302,7 +3303,7 @@
                 "December",
                 "Autumn Trek"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "January",
@@ -3397,7 +3398,7 @@
             "location": "Uttarakhand",
             "distance": 36,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -3504,7 +3505,7 @@
             "location": "Uttarakhand",
             "distance": 75,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -3630,7 +3631,7 @@
             "location": "Uttarakhand",
             "distance": 40,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -3729,7 +3730,7 @@
             "location": "Jammu and Kashmir",
             "distance": 49,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -3826,7 +3827,7 @@
             "location": "Ladakh",
             "distance": 49,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -3960,7 +3961,7 @@
                 "Autumn",
                 "Nepal"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "April",
@@ -4119,7 +4120,7 @@
                 "Autumn",
                 "Nepal"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -4291,7 +4292,7 @@
             "location": "Himachal Pradesh",
             "distance": 0,
             "tags": [],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -4422,7 +4423,7 @@
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Autumn"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -4541,7 +4542,7 @@
                 "Summer",
                 "Autumn"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -4638,7 +4639,7 @@
             "location": "Himachal Pradesh",
             "distance": 28,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -4727,7 +4728,7 @@
                 "Summer",
                 "Autumn"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -4847,7 +4848,7 @@
                 "Autumn",
                 "Spring (Mar, Apr)"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -4975,7 +4976,7 @@
             "location": "Jammu and Kashmir",
             "distance": 38,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -5083,7 +5084,7 @@
                 "October",
                 "September"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -5164,7 +5165,7 @@
             "location": "Uttarakhand",
             "distance": 50,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "April",
@@ -5264,7 +5265,7 @@
             "location": "Himachal Pradesh",
             "distance": 45,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -5371,7 +5372,7 @@
             "location": "Uttarakhand",
             "distance": 99,
             "tags": [],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -5523,7 +5524,7 @@
             "location": "Himachal Pradesh",
             "distance": 0,
             "tags": [],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -5622,7 +5623,7 @@
             "location": "Ladakh",
             "distance": 78,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -5757,7 +5758,7 @@
             "location": "Himachal Pradesh",
             "distance": 0,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "April",
@@ -5831,7 +5832,7 @@
                 "September",
                 "September "
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -5937,7 +5938,7 @@
             "location": "Uttarakhand",
             "distance": 0,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -6036,7 +6037,7 @@
             "location": "Uttarakhand",
             "distance": 23,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "December",
@@ -6165,7 +6166,7 @@
                 "Mt Fishtail",
                 "Spring (Mar, Apr)"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -6283,7 +6284,7 @@
             "location": "Tanzania",
             "distance": 0,
             "tags": [],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "January",
@@ -6423,7 +6424,7 @@
                 "Spring (Mar, Apr)",
                 "Autumn Trek"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "February",
@@ -6518,7 +6519,7 @@
             "location": "Jammu and Kashmir",
             "distance": 16,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -6589,7 +6590,7 @@
             "location": "Ladakh",
             "distance": 67,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -6690,7 +6691,7 @@
             "location": "Ladakh",
             "distance": 34,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -6815,7 +6816,7 @@
             "location": "Nepal",
             "distance": 0,
             "tags": [],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -6978,7 +6979,7 @@
             "location": "Himachal Pradesh",
             "distance": 60,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -7093,7 +7094,7 @@
                 "Indonesia",
                 "September"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -7164,7 +7165,7 @@
             "location": "Uttarakhand",
             "distance": 72,
             "tags": [],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -7361,7 +7362,7 @@
             "location": "Himachal Pradesh",
             "distance": 43,
             "tags": [],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -7540,7 +7541,7 @@
             "location": "Himachal Pradesh",
             "distance": 42,
             "tags": [],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -7692,7 +7693,7 @@
             "location": "Himachal Pradesh",
             "distance": 0,
             "tags": [],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -7817,7 +7818,7 @@
             "location": "Ladakh",
             "distance": 64,
             "tags": [],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -8059,7 +8060,7 @@
             "location": "Jammu and Kashmir",
             "distance": 0,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -8169,7 +8170,7 @@
             "location": "Uttarakhand",
             "distance": 20,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "January",
@@ -8233,7 +8234,7 @@
             "location": "Uttarakhand",
             "distance": 103,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -8376,7 +8377,7 @@
             "location": "Uttarakhand",
             "distance": 0,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -8479,7 +8480,7 @@
             "location": "Uttarakhand",
             "distance": 0,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "April",
@@ -8559,7 +8560,7 @@
             "location": "Himachal Pradesh",
             "distance": 128,
             "tags": [],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -8703,7 +8704,7 @@
             "location": "Uttarakhand",
             "distance": 30,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -8810,7 +8811,7 @@
             "location": "Himachal Pradesh",
             "distance": 51,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -8928,7 +8929,7 @@
             "location": "Himachal Pradesh",
             "distance": 82,
             "tags": [],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -9071,7 +9072,7 @@
             "location": "Uttarakhand",
             "distance": 50,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -9194,7 +9195,7 @@
             "location": "Jammu and Kashmir",
             "distance": 0,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -9283,7 +9284,7 @@
             "location": "Jammu and Kashmir",
             "distance": 48,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -9496,7 +9497,7 @@
             "location": "Uttarakhand",
             "distance": 0,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -9612,7 +9613,7 @@
             "location": "Uttarakhand",
             "distance": 0,
             "tags": [],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -9773,7 +9774,7 @@
             "location": "Ladakh",
             "distance": 106,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -9911,7 +9912,7 @@
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Autumn"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -10037,7 +10038,7 @@
                 "Nepal",
                 "Spring (Mar, Apr)"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "December",
@@ -10142,7 +10143,7 @@
             "location": "Himachal Pradesh",
             "distance": 28,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -10228,7 +10229,7 @@
             "location": "Uttarakhand",
             "distance": 0,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -10326,7 +10327,7 @@
             "location": "Ladakh",
             "distance": 0,
             "tags": [],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -10442,7 +10443,7 @@
             "location": "Ladakh",
             "distance": 52,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "January",
@@ -10574,7 +10575,7 @@
                 "Mountain lover",
                 "March"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -10661,7 +10662,7 @@
                 "Rainy",
                 "September"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -10774,7 +10775,7 @@
                 "Tulian Lake",
                 "Kashmir Valley"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -10853,7 +10854,7 @@
             "location": "Ladakh",
             "distance": 0,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -11006,7 +11007,7 @@
             "location": "Uttarakhand",
             "distance": 41,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -11100,7 +11101,7 @@
             "location": "Uttarakhand",
             "distance": 63,
             "tags": [],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -11223,7 +11224,7 @@
                 "Monsoon",
                 "Difficult"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -11320,7 +11321,7 @@
             "location": "Himachal Pradesh",
             "distance": 0,
             "tags": [],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -11439,7 +11440,7 @@
                 "August",
                 "September"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -11548,7 +11549,7 @@
                 "August",
                 "September"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -11639,7 +11640,7 @@
                 "September",
                 "October"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -11728,7 +11729,7 @@
                 "July",
                 "August"
             ],
-            "type": "trek",
+            "type": ["trek"],
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -11835,7 +11836,7 @@
                 "August",
                 "September"
             ],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -11961,7 +11962,7 @@
                 "July",
                 "September"
             ],
-            "type": "expedition",
+            "type": ["expedition"],
             "image": "",
             "bestTimeToTarget": [
                 "June",
