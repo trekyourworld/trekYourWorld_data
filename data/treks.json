@@ -13,6 +13,7 @@
             "location": "Uttarakhand",
             "distance": 30,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -123,6 +124,7 @@
             "location": "Nepal",
             "distance": 64,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -246,6 +248,7 @@
             "location": "Nepal",
             "distance": 145,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -417,6 +420,7 @@
             "location": "Uttarakhand",
             "distance": 22,
             "tags": [],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -712,6 +716,7 @@
             "location": "Uttarakhand",
             "distance": 75,
             "tags": [],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -881,6 +886,7 @@
             "location": "Uttarakhand",
             "distance": 43,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -996,6 +1002,7 @@
             "location": "Uttarakhand",
             "distance": 24,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "April",
@@ -1201,6 +1208,7 @@
             "location": "Uttarakhand",
             "distance": 22,
             "tags": [],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -1388,6 +1396,7 @@
             "location": "Uttarakhand",
             "distance": 43,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -1396,9 +1405,100 @@
                 "October"
             ],
             "itinerary": {
-                "start": "",
-                "end": "",
-                "stops": []
+                "start": "Dehradun",
+                "end": "Dehradun",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Drive from Dehradun to Uttarkashi",
+                        "description": "Begin your journey with a scenic drive from Dehradun to Uttarkashi (3,800 ft), a 6-7 hour journey through winding mountain roads following the Bhagirathi River. Uttarkashi is a significant pilgrimage town and gateway to many Himalayan treks. Overnight in a guesthouse with an evening briefing about the trek ahead.",
+                        "distance": 170,
+                        "elevation_gain": 1760,
+                        "elevation_loss": 0,
+                        "current_elevation": 3800
+                    },
+                    {
+                        "day": 2,
+                        "title": "Drive from Uttarkashi to Bhatwari and trek to Jhala",
+                        "description": "After breakfast, drive to Bhatwari (4,300 ft) and begin your trek to Jhala village (6,400 ft). The trail passes through dense mixed forests and small mountain settlements. The Bhagirathi River remains your constant companion as you ascend gradually. Reach Jhala by late afternoon and camp near this traditional Garhwali village with views of distant snow peaks.",
+                        "distance": 8,
+                        "elevation_gain": 2100,
+                        "elevation_loss": 0,
+                        "current_elevation": 6400
+                    },
+                    {
+                        "day": 3,
+                        "title": "Trek from Jhala to Kyarkoti",
+                        "description": "Today's trek involves a steady climb through oak and rhododendron forests. Cross several small streams and wooden bridges along the way. As you gain altitude, notice the changing forest composition and expanding mountain vistas. Kyarkoti (8,700 ft) is a beautiful meadow surrounded by forests with a small temple nearby. Set up camp with views of the Gangotri range in the distance.",
+                        "distance": 9,
+                        "elevation_gain": 2300,
+                        "elevation_loss": 0,
+                        "current_elevation": 8700
+                    },
+                    {
+                        "day": 4,
+                        "title": "Trek from Kyarkoti to Bharadsar Bugyal",
+                        "description": "The trail continues through dense forests before opening up to the vast expanse of Bharadsar Bugyal (11,500 ft), a spectacular high-altitude meadow. During summer months, these meadows are carpeted with wildflowers and serve as grazing grounds for local shepherds. The panoramic views expand with every step, revealing numerous Himalayan peaks. Camp amidst this pristine meadow with stunning sunset views.",
+                        "distance": 7,
+                        "elevation_gain": 2800,
+                        "elevation_loss": 0,
+                        "current_elevation": 11500
+                    },
+                    {
+                        "day": 5,
+                        "title": "Acclimatization day at Bharadsar Bugyal",
+                        "description": "Spend the day acclimatizing to the higher altitude and exploring the vast Bharadsar Bugyal. Take short hikes to nearby ridges for better views of surrounding peaks including Bandarpunch, Swargarohini, and the Gangotri range. This is an excellent opportunity for photography and to observe the unique alpine flora. Return to camp for overnight stay.",
+                        "distance": 5,
+                        "elevation_gain": 500,
+                        "elevation_loss": 500,
+                        "current_elevation": 11500
+                    },
+                    {
+                        "day": 6,
+                        "title": "Trek from Bharadsar Bugyal to Bharadsar Lake",
+                        "description": "Trek to the pristine Bharadsar Lake (13,750 ft), the highlight of the journey. The trail becomes steeper and the vegetation gradually thins out. Cross rocky terrain and moraine fields before reaching the lake, which sits in a glacial basin surrounded by towering peaks. The emerald-blue waters perfectly reflect the surrounding mountains. Camp near the lake shore for an unforgettable night under the stars.",
+                        "distance": 6,
+                        "elevation_gain": 2250,
+                        "elevation_loss": 0,
+                        "current_elevation": 13750
+                    },
+                    {
+                        "day": 7,
+                        "title": "Exploration day at Bharadsar Lake",
+                        "description": "Full day to explore the lake and surrounding areas. Hike to nearby ridges for panoramic views of the entire region. The lake changes colors throughout the day as the sunlight shifts, creating magical reflections. According to local legends, the lake is sacred and has mystical properties. Spend time absorbing the tranquil atmosphere before returning to camp for another night by the lake.",
+                        "distance": 4,
+                        "elevation_gain": 600,
+                        "elevation_loss": 600,
+                        "current_elevation": 13750
+                    },
+                    {
+                        "day": 8,
+                        "title": "Trek from Bharadsar Lake to Kyarkoti",
+                        "description": "Begin the descent, retracing your steps back to Kyarkoti. The downhill trek offers different perspectives of the landscapes you climbed through. The descent is easier physically but requires careful footing on loose rocks and scree. Reach Kyarkoti by afternoon and set up camp. Celebrate with a bonfire under the starlit sky.",
+                        "distance": 10,
+                        "elevation_gain": 0,
+                        "elevation_loss": 5050,
+                        "current_elevation": 8700
+                    },
+                    {
+                        "day": 9,
+                        "title": "Trek from Kyarkoti to Jhala",
+                        "description": "Continue the descent to Jhala village through forests now familiar from your ascent. The warmer temperatures and richer oxygen at lower altitudes provide renewed energy. Reach Jhala by afternoon and spend time interacting with the villagers, learning about their traditional lifestyle that has remained largely unchanged for generations. Overnight in tents.",
+                        "distance": 9,
+                        "elevation_gain": 0,
+                        "elevation_loss": 2300,
+                        "current_elevation": 6400
+                    },
+                    {
+                        "day": 10,
+                        "title": "Trek from Jhala to Bhatwari and drive to Dehradun",
+                        "description": "Final day of trekking back to Bhatwari. After reaching Bhatwari, board vehicles for the return journey to Dehradun. The long drive provides time to reflect on the trek and the pristine beauty of Bharadsar Lake. Arrive in Dehradun by evening, marking the end of a memorable Himalayan adventure.",
+                        "distance": 178,
+                        "elevation_gain": 0,
+                        "elevation_loss": 4360,
+                        "current_elevation": 2200
+                    }
+                ]
             },
             "organisers": [
                 {
@@ -1431,6 +1531,7 @@
                 "Summer",
                 "Autumn"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -1493,6 +1594,7 @@
             "location": "Uttarakhand",
             "distance": 61,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -1628,6 +1730,7 @@
                 "October",
                 "September"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -1707,6 +1810,7 @@
                 "June",
                 "forests of manali"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -1777,6 +1881,7 @@
             "location": "Jammu and Kashmir",
             "distance": 45,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -1882,6 +1987,7 @@
                 "Moderate-Difficult",
                 "September"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -1979,6 +2085,7 @@
             "location": "Uttarakhand",
             "distance": 63,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -2083,6 +2190,7 @@
             "location": "Uttarakhand",
             "distance": 30,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "December",
@@ -2199,6 +2307,7 @@
                 "Summer (May, Jun)",
                 "may"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -2305,6 +2414,7 @@
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Autumn"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -2401,49 +2511,6 @@
             ]
         },
         {
-            "title": "Chadar Trek",
-            "uid": "chadar-trek",
-            "description": "The Chadar Trek is a unique and thrilling journey that takes you on the frozen Zanskar River in Ladakh. The trek offers breathtaking views of the surrounding peaks and the stunning ice formations on the river. Trekkers will enjoy walking through ancient monasteries, charming villages, and pristine landscapes. This trek is ideal for those seeking a once-in-a-lifetime adventure in the Himalayas.",
-            "elevation": 11100,
-            "duration": 9,
-            "difficulty": [
-                "moderate"
-            ],
-            "location": "Ladakh",
-            "distance": 61,
-            "tags": [],
-            "image": "",
-            "bestTimeToTarget": [
-                "January",
-                "February"
-            ],
-            "itinerary": {
-                "start": "",
-                "end": "",
-                "stops": []
-            },
-            "organisers": [
-                {
-                    "name": "TrekupIndia",
-                    "contact": "",
-                    "website": "https://www.trekupindia.com/",
-                    "email": ""
-                },
-                {
-                    "name": "Trek The Himalayas",
-                    "contact": "",
-                    "website": "https://trekthehimalayas.com",
-                    "email": ""
-                },
-                {
-                    "name": "Bikat Adventures",
-                    "contact": "",
-                    "website": "https://www.bikatadventures.com/Home/Itinerary",
-                    "email": ""
-                }
-            ]
-        },
-        {
             "title": "Chandrakhani Pass Trek",
             "uid": "chandrakhani-pass-trek",
             "description": "The Chandrakhani Pass Trek is a scenic journey that offers stunning views of the Kullu Valley and the surrounding peaks. The trek takes you through beautiful forests, lush meadows, and charming villages. The pass itself offers a breathtaking view of the surrounding peaks and valleys. This trek is perfect for those seeking a scenic and culturally rich trekking experience.",
@@ -2455,6 +2522,7 @@
             "location": "Himachal Pradesh",
             "distance": 22,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -2568,6 +2636,7 @@
             "location": "Uttarakhand",
             "distance": 30,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "December",
@@ -2661,6 +2730,7 @@
                 "Kanchenjunga",
                 "Rhododendrons"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "April",
@@ -2806,6 +2876,7 @@
                 "Autumn",
                 "Spring (Mar, Apr)"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -2906,6 +2977,7 @@
             "location": "Himachal Pradesh",
             "distance": 37,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -3000,6 +3072,7 @@
             "location": "Himachal Pradesh",
             "distance": 42,
             "tags": [],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -3152,6 +3225,7 @@
             "location": "Uttarakhand",
             "distance": 5,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -3228,6 +3302,7 @@
                 "December",
                 "Autumn Trek"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "January",
@@ -3322,6 +3397,7 @@
             "location": "Uttarakhand",
             "distance": 36,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -3428,6 +3504,7 @@
             "location": "Uttarakhand",
             "distance": 75,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -3553,6 +3630,7 @@
             "location": "Uttarakhand",
             "distance": 40,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -3651,6 +3729,7 @@
             "location": "Jammu and Kashmir",
             "distance": 49,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -3747,6 +3826,7 @@
             "location": "Ladakh",
             "distance": 49,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -3880,6 +3960,7 @@
                 "Autumn",
                 "Nepal"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "April",
@@ -4038,6 +4119,7 @@
                 "Autumn",
                 "Nepal"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -4209,6 +4291,7 @@
             "location": "Himachal Pradesh",
             "distance": 0,
             "tags": [],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -4339,6 +4422,7 @@
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Autumn"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -4457,6 +4541,7 @@
                 "Summer",
                 "Autumn"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -4553,6 +4638,7 @@
             "location": "Himachal Pradesh",
             "distance": 28,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -4641,6 +4727,7 @@
                 "Summer",
                 "Autumn"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -4760,6 +4847,7 @@
                 "Autumn",
                 "Spring (Mar, Apr)"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -4887,6 +4975,7 @@
             "location": "Jammu and Kashmir",
             "distance": 38,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -4994,6 +5083,7 @@
                 "October",
                 "September"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -5074,6 +5164,7 @@
             "location": "Uttarakhand",
             "distance": 50,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "April",
@@ -5173,6 +5264,7 @@
             "location": "Himachal Pradesh",
             "distance": 45,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -5279,6 +5371,7 @@
             "location": "Uttarakhand",
             "distance": 99,
             "tags": [],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -5430,6 +5523,7 @@
             "location": "Himachal Pradesh",
             "distance": 0,
             "tags": [],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -5528,6 +5622,7 @@
             "location": "Ladakh",
             "distance": 78,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -5662,6 +5757,7 @@
             "location": "Himachal Pradesh",
             "distance": 0,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "April",
@@ -5735,6 +5831,7 @@
                 "September",
                 "September "
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -5840,6 +5937,7 @@
             "location": "Uttarakhand",
             "distance": 0,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -5938,6 +6036,7 @@
             "location": "Uttarakhand",
             "distance": 23,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "December",
@@ -6066,6 +6165,7 @@
                 "Mt Fishtail",
                 "Spring (Mar, Apr)"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -6183,6 +6283,7 @@
             "location": "Tanzania",
             "distance": 0,
             "tags": [],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "January",
@@ -6322,6 +6423,7 @@
                 "Spring (Mar, Apr)",
                 "Autumn Trek"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "February",
@@ -6416,6 +6518,7 @@
             "location": "Jammu and Kashmir",
             "distance": 16,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -6486,6 +6589,7 @@
             "location": "Ladakh",
             "distance": 67,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -6586,6 +6690,7 @@
             "location": "Ladakh",
             "distance": 34,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -6710,6 +6815,7 @@
             "location": "Nepal",
             "distance": 0,
             "tags": [],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -6872,6 +6978,7 @@
             "location": "Himachal Pradesh",
             "distance": 60,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -6986,6 +7093,7 @@
                 "Indonesia",
                 "September"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -7056,6 +7164,7 @@
             "location": "Uttarakhand",
             "distance": 72,
             "tags": [],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -7252,6 +7361,7 @@
             "location": "Himachal Pradesh",
             "distance": 43,
             "tags": [],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -7430,6 +7540,7 @@
             "location": "Himachal Pradesh",
             "distance": 42,
             "tags": [],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -7581,6 +7692,7 @@
             "location": "Himachal Pradesh",
             "distance": 0,
             "tags": [],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -7705,6 +7817,7 @@
             "location": "Ladakh",
             "distance": 64,
             "tags": [],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -7946,6 +8059,7 @@
             "location": "Jammu and Kashmir",
             "distance": 0,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -8055,6 +8169,7 @@
             "location": "Uttarakhand",
             "distance": 20,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "January",
@@ -8118,6 +8233,7 @@
             "location": "Uttarakhand",
             "distance": 103,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -8260,6 +8376,7 @@
             "location": "Uttarakhand",
             "distance": 0,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -8362,6 +8479,7 @@
             "location": "Uttarakhand",
             "distance": 0,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "April",
@@ -8441,6 +8559,7 @@
             "location": "Himachal Pradesh",
             "distance": 128,
             "tags": [],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -8584,6 +8703,7 @@
             "location": "Uttarakhand",
             "distance": 30,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -8690,6 +8810,7 @@
             "location": "Himachal Pradesh",
             "distance": 51,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -8807,6 +8928,7 @@
             "location": "Himachal Pradesh",
             "distance": 82,
             "tags": [],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -8949,6 +9071,7 @@
             "location": "Uttarakhand",
             "distance": 50,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -9071,6 +9194,7 @@
             "location": "Jammu and Kashmir",
             "distance": 0,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -9159,6 +9283,7 @@
             "location": "Jammu and Kashmir",
             "distance": 48,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -9371,6 +9496,7 @@
             "location": "Uttarakhand",
             "distance": 0,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -9486,6 +9612,7 @@
             "location": "Uttarakhand",
             "distance": 0,
             "tags": [],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -9646,6 +9773,7 @@
             "location": "Ladakh",
             "distance": 106,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -9783,6 +9911,7 @@
                 "Autumn (Mid-Sep, Oct, Nov)",
                 "Autumn"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -9908,6 +10037,7 @@
                 "Nepal",
                 "Spring (Mar, Apr)"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "December",
@@ -10012,6 +10142,7 @@
             "location": "Himachal Pradesh",
             "distance": 28,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -10097,6 +10228,7 @@
             "location": "Uttarakhand",
             "distance": 0,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -10194,6 +10326,7 @@
             "location": "Ladakh",
             "distance": 0,
             "tags": [],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -10309,6 +10442,7 @@
             "location": "Ladakh",
             "distance": 52,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "January",
@@ -10440,6 +10574,7 @@
                 "Mountain lover",
                 "March"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "March",
@@ -10526,6 +10661,7 @@
                 "Rainy",
                 "September"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -10638,6 +10774,7 @@
                 "Tulian Lake",
                 "Kashmir Valley"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -10716,6 +10853,7 @@
             "location": "Ladakh",
             "distance": 0,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -10868,6 +11006,7 @@
             "location": "Uttarakhand",
             "distance": 41,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -10961,6 +11100,7 @@
             "location": "Uttarakhand",
             "distance": 63,
             "tags": [],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -11083,6 +11223,7 @@
                 "Monsoon",
                 "Difficult"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -11179,6 +11320,7 @@
             "location": "Himachal Pradesh",
             "distance": 0,
             "tags": [],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -11297,6 +11439,7 @@
                 "August",
                 "September"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -11405,6 +11548,7 @@
                 "August",
                 "September"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -11495,6 +11639,7 @@
                 "September",
                 "October"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "May",
@@ -11583,6 +11728,7 @@
                 "July",
                 "August"
             ],
+            "type": "trek",
             "image": "",
             "bestTimeToTarget": [
                 "July",
@@ -11689,6 +11835,7 @@
                 "August",
                 "September"
             ],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -11814,6 +11961,7 @@
                 "July",
                 "September"
             ],
+            "type": "expedition",
             "image": "",
             "bestTimeToTarget": [
                 "June",
@@ -11954,6 +12102,1380 @@
                     "name": "Bikat Adventures",
                     "contact": "",
                     "website": "https://www.bikatadventures.com/Home/Itinerary",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "title": "Mount Everest",
+            "uid": "mount-everest-expedition",
+            "description": "Mount Everest, the highest mountain in the world at 29,029 ft (8,848m), stands on the border of Nepal and China (Tibet). The Everest Expedition is the ultimate challenge for mountaineers, involving technical climbing, extreme altitude, and unpredictable weather. The ascent typically follows the South Col route from Nepal or the North Col route from Tibet. Climbers experience Sherpa culture, breathtaking Himalayan vistas, and the thrill of standing on top of the world.",
+            "elevation": 29029,
+            "duration": 50,
+            "difficulty": [
+                "extreme"
+            ],
+            "location": "Nepal/China",
+            "distance": 120,
+            "tags": [
+                "eight-thousander",
+                "expedition",
+                "Nepal",
+                "Tibet",
+                "Himalayas",
+                "South Col",
+                "North Col",
+                "Sherpa"
+            ],
+            "type": [
+                "mountain",
+                "expedition"
+            ],
+            "image": "",
+            "bestTimeToTarget": [
+                "April",
+                "May"
+            ],
+            "itinerary": {
+                "start": "Kathmandu (Nepal) / Lhasa (Tibet)",
+                "end": "Kathmandu (Nepal) / Lhasa (Tibet)",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in Kathmandu / Lhasa",
+                        "description": "Meet the expedition team, gear check, and final preparations."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Fly to Lukla (Nepal route) / Drive to Base Camp (Tibet route)",
+                        "description": "Begin trek to Everest Base Camp via Khumbu Valley (Nepal) or drive to Base Camp (Tibet)."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Trek to Everest Base Camp (Nepal route)",
+                        "description": "Trek through Namche Bazaar, Tengboche, Dingboche, Lobuche, and Gorak Shep."
+                    },
+                    {
+                        "day": 10,
+                        "title": "Arrive at Everest Base Camp",
+                        "description": "Acclimatization, training, and preparation for ascent."
+                    },
+                    {
+                        "day": 15,
+                        "title": "Climbing Period (Rotations)",
+                        "description": "Multiple rotations to higher camps (Camp I, II, III, IV) for acclimatization and load ferry."
+                    },
+                    {
+                        "day": 40,
+                        "title": "Summit Push",
+                        "description": "Climb from Base Camp to Camp IV (South Col), then summit attempt via Southeast Ridge (Nepal) or Northeast Ridge (Tibet)."
+                    },
+                    {
+                        "day": 42,
+                        "title": "Descent to Base Camp",
+                        "description": "Descend safely to Base Camp after summit."
+                    },
+                    {
+                        "day": 45,
+                        "title": "Return to Kathmandu / Lhasa",
+                        "description": "Trek or drive back, celebration and departure."
+                    }
+                ]
+            },
+            "organisers": [
+                {
+                    "name": "Seven Summit Treks",
+                    "website": "https://sevensummittreks.com",
+                    "contact": "",
+                    "email": ""
+                },
+                {
+                    "name": "International Mountain Guides",
+                    "website": "https://mountainguides.com",
+                    "contact": "",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "title": "K2",
+            "uid": "k2-expedition",
+            "description": "K2, the second highest mountain in the world at 28,251 ft (8,611m), stands on the border of Pakistan and China in the Karakoram Range. Known as the 'Savage Mountain', K2 is considered one of the most difficult and dangerous climbs due to its technical routes, unpredictable weather, and high fatality rate. The standard ascent follows the Abruzzi Spur from Pakistan. Climbers experience remote wilderness, dramatic glaciers, and the challenge of one of mountaineering's greatest prizes.",
+            "elevation": 28251,
+            "duration": 55,
+            "difficulty": [
+                "extreme"
+            ],
+            "location": "Pakistan/China (Karakoram)",
+            "distance": 110,
+            "tags": [
+                "eight-thousander",
+                "expedition",
+                "Pakistan",
+                "China",
+                "Karakoram",
+                "Abruzzi Spur",
+                "mountaineering"
+            ],
+            "type": [
+                "mountain",
+                "expedition"
+            ],
+            "image": "",
+            "bestTimeToTarget": [
+                "June",
+                "July"
+            ],
+            "itinerary": {
+                "start": "Islamabad / Skardu",
+                "end": "Islamabad / Skardu",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in Islamabad",
+                        "description": "Meet the expedition team, gear check, and final preparations."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Fly/Drive to Skardu",
+                        "description": "Travel to Skardu, gateway to the Karakoram."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Drive to Askole",
+                        "description": "Drive to Askole, the last village before the trek."
+                    },
+                    {
+                        "day": 4,
+                        "title": "Trek to Jhola",
+                        "description": "Begin trek along the Braldu River to Jhola camp."
+                    },
+                    {
+                        "day": 5,
+                        "title": "Trek to Paiju",
+                        "description": "Trek to Paiju, with views of the Trango Towers."
+                    },
+                    {
+                        "day": 6,
+                        "title": "Rest/Acclimatization at Paiju",
+                        "description": "Rest day for acclimatization and preparation."
+                    },
+                    {
+                        "day": 7,
+                        "title": "Trek to Urdukas",
+                        "description": "Trek along the Baltoro Glacier to Urdukas camp."
+                    },
+                    {
+                        "day": 8,
+                        "title": "Trek to Goro II",
+                        "description": "Continue along the glacier to Goro II camp."
+                    },
+                    {
+                        "day": 9,
+                        "title": "Trek to Concordia",
+                        "description": "Reach Concordia, the junction of major glaciers with views of K2."
+                    },
+                    {
+                        "day": 10,
+                        "title": "Trek to K2 Base Camp",
+                        "description": "Arrive at K2 Base Camp, acclimatization and training."
+                    },
+                    {
+                        "day": 15,
+                        "title": "Climbing Period (Rotations)",
+                        "description": "Multiple rotations to higher camps (Camp I, II, III, IV) for acclimatization and load ferry."
+                    },
+                    {
+                        "day": 50,
+                        "title": "Summit Push",
+                        "description": "Climb from Base Camp to Camp IV, then summit attempt via Abruzzi Spur."
+                    },
+                    {
+                        "day": 52,
+                        "title": "Descent to Base Camp",
+                        "description": "Descend safely to Base Camp after summit."
+                    },
+                    {
+                        "day": 55,
+                        "title": "Return to Skardu/Islamabad",
+                        "description": "Trek and drive back, celebration and departure."
+                    }
+                ]
+            },
+            "organisers": [
+                {
+                    "name": "Adventure Tours Pakistan",
+                    "website": "https://adventuretourspakistan.com",
+                    "contact": "",
+                    "email": ""
+                },
+                {
+                    "name": "Karakoram Expeditions",
+                    "website": "https://karakoramexpeditions.com",
+                    "contact": "",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "title": "Kangchenjunga",
+            "uid": "kangchenjunga-expedition",
+            "description": "Kangchenjunga, the third highest mountain in the world at 28,169 ft (8,586m), stands on the border of Nepal and India in the eastern Himalayas. The Kangchenjunga Expedition is a formidable challenge for mountaineers, involving technical climbing, remote wilderness, and unpredictable weather. The ascent typically follows the South-West Face from Nepal or the North-East Ridge from India. Climbers experience rich local culture, dramatic Himalayan vistas, and the thrill of summiting one of the world's highest peaks.",
+            "elevation": 28169,
+            "duration": 50,
+            "difficulty": [
+                "extreme"
+            ],
+            "location": "Nepal/India (Eastern Himalayas)",
+            "distance": 120,
+            "tags": [
+                "eight-thousander",
+                "expedition",
+                "Nepal",
+                "India",
+                "Himalayas",
+                "South-West Face",
+                "North-East Ridge"
+            ],
+            "type": [
+                "mountain",
+                "expedition"
+            ],
+            "image": "",
+            "bestTimeToTarget": [
+                "April",
+                "May"
+            ],
+            "itinerary": {
+                "start": "Kathmandu (Nepal) / Darjeeling (India)",
+                "end": "Kathmandu (Nepal) / Darjeeling (India)",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in Kathmandu / Darjeeling",
+                        "description": "Meet the expedition team, gear check, and final preparations."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Fly/Drive to Taplejung (Nepal route) / Yuksom (India route)",
+                        "description": "Travel to the trek starting point."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Trek to Base Camp",
+                        "description": "Trek through remote villages and forests to Kangchenjunga Base Camp."
+                    },
+                    {
+                        "day": 10,
+                        "title": "Arrive at Base Camp",
+                        "description": "Acclimatization, training, and preparation for ascent."
+                    },
+                    {
+                        "day": 15,
+                        "title": "Climbing Period (Rotations)",
+                        "description": "Multiple rotations to higher camps (Camp I, II, III, IV) for acclimatization and load ferry."
+                    },
+                    {
+                        "day": 40,
+                        "title": "Summit Push",
+                        "description": "Climb from Base Camp to Camp IV, then summit attempt via South-West Face or North-East Ridge."
+                    },
+                    {
+                        "day": 42,
+                        "title": "Descent to Base Camp",
+                        "description": "Descend safely to Base Camp after summit."
+                    },
+                    {
+                        "day": 45,
+                        "title": "Return to Kathmandu / Darjeeling",
+                        "description": "Trek or drive back, celebration and departure."
+                    }
+                ]
+            },
+            "organisers": [
+                {
+                    "name": "Seven Summit Treks",
+                    "website": "https://sevensummittreks.com",
+                    "contact": "",
+                    "email": ""
+                },
+                {
+                    "name": "International Mountain Guides",
+                    "website": "https://mountainguides.com",
+                    "contact": "",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "title": "Lhotse",
+            "uid": "lhotse-expedition",
+            "description": "Lhotse, the fourth highest mountain in the world at 27,940 ft (8,516m), is located next to Mount Everest in the Khumbu region of Nepal. The Lhotse Expedition is a demanding challenge for mountaineers, featuring technical climbing, exposure to high altitude, and unpredictable weather. The standard ascent follows the same route as Everest up to Camp III, then diverges to the Lhotse Couloir. Climbers experience Sherpa culture, dramatic Himalayan vistas, and the thrill of summiting one of the world's highest peaks.",
+            "elevation": 27940,
+            "duration": 45,
+            "difficulty": [
+                "extreme"
+            ],
+            "location": "Nepal (Khumbu Himalayas)",
+            "distance": 110,
+            "tags": [
+                "eight-thousander",
+                "expedition",
+                "Nepal",
+                "Himalayas",
+                "Lhotse Face",
+                "Lhotse Couloir"
+            ],
+            "type": [
+                "mountain",
+                "expedition"
+            ],
+            "image": "",
+            "bestTimeToTarget": [
+                "April",
+                "May"
+            ],
+            "itinerary": {
+                "start": "Kathmandu",
+                "end": "Kathmandu",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in Kathmandu",
+                        "description": "Meet the expedition team, gear check, and final preparations."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Fly to Lukla, trek to Phakding",
+                        "description": "Begin trek into the Khumbu region."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Trek to Namche Bazaar",
+                        "description": "Acclimatization and explore Sherpa culture."
+                    },
+                    {
+                        "day": 6,
+                        "title": "Trek to Everest Base Camp",
+                        "description": "Pass through Tengboche, Dingboche, Lobuche, and Gorak Shep."
+                    },
+                    {
+                        "day": 10,
+                        "title": "Arrive at Base Camp",
+                        "description": "Acclimatization, training, and preparation for ascent."
+                    },
+                    {
+                        "day": 15,
+                        "title": "Climbing Period (Rotations)",
+                        "description": "Multiple rotations to higher camps (Camp I, II, III, IV) for acclimatization and load ferry."
+                    },
+                    {
+                        "day": 38,
+                        "title": "Summit Push",
+                        "description": "Climb from Base Camp to Camp IV, then summit attempt via Lhotse Face and Lhotse Couloir."
+                    },
+                    {
+                        "day": 40,
+                        "title": "Descent to Base Camp",
+                        "description": "Descend safely to Base Camp after summit."
+                    },
+                    {
+                        "day": 43,
+                        "title": "Return to Kathmandu",
+                        "description": "Trek back to Lukla, fly to Kathmandu, celebration and departure."
+                    }
+                ]
+            },
+            "organisers": [
+                {
+                    "name": "Seven Summit Treks",
+                    "website": "https://sevensummittreks.com",
+                    "contact": "",
+                    "email": ""
+                },
+                {
+                    "name": "International Mountain Guides",
+                    "website": "https://mountainguides.com",
+                    "contact": "",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "title": "Makalu",
+            "uid": "makalu-expedition",
+            "description": "Makalu, the fifth highest mountain in the world at 27,838 ft (8,485m), stands in the Mahalangur Himalayas of Nepal, close to Everest. The Makalu Expedition is a formidable challenge for mountaineers, involving technical climbing, remote wilderness, and unpredictable weather. The ascent typically follows the Northwest Ridge from Nepal. Climbers experience rich local culture, dramatic Himalayan vistas, and the thrill of summiting one of the world's highest peaks.",
+            "elevation": 27838,
+            "duration": 50,
+            "difficulty": [
+                "extreme"
+            ],
+            "location": "Nepal (Mahalangur Himalayas)",
+            "distance": 120,
+            "tags": [
+                "eight-thousander",
+                "expedition",
+                "Nepal",
+                "Himalayas",
+                "Northwest Ridge"
+            ],
+            "type": [
+                "mountain",
+                "expedition"
+            ],
+            "image": "",
+            "bestTimeToTarget": [
+                "April",
+                "May"
+            ],
+            "itinerary": {
+                "start": "Kathmandu",
+                "end": "Kathmandu",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in Kathmandu",
+                        "description": "Meet the expedition team, gear check, and final preparations."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Fly to Tumlingtar, drive to Num",
+                        "description": "Travel to the trek starting point."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Trek to Makalu Base Camp",
+                        "description": "Trek through remote villages and forests to Makalu Base Camp."
+                    },
+                    {
+                        "day": 10,
+                        "title": "Arrive at Base Camp",
+                        "description": "Acclimatization, training, and preparation for ascent."
+                    },
+                    {
+                        "day": 15,
+                        "title": "Climbing Period (Rotations)",
+                        "description": "Multiple rotations to higher camps (Camp I, II, III, IV) for acclimatization and load ferry."
+                    },
+                    {
+                        "day": 40,
+                        "title": "Summit Push",
+                        "description": "Climb from Base Camp to Camp IV, then summit attempt via Northwest Ridge."
+                    },
+                    {
+                        "day": 42,
+                        "title": "Descent to Base Camp",
+                        "description": "Descend safely to Base Camp after summit."
+                    },
+                    {
+                        "day": 45,
+                        "title": "Return to Kathmandu",
+                        "description": "Trek back to Tumlingtar, fly to Kathmandu, celebration and departure."
+                    }
+                ]
+            },
+            "organisers": [
+                {
+                    "name": "Seven Summit Treks",
+                    "website": "https://sevensummittreks.com",
+                    "contact": "",
+                    "email": ""
+                },
+                {
+                    "name": "International Mountain Guides",
+                    "website": "https://mountainguides.com",
+                    "contact": "",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "title": "Cho Oyu",
+            "uid": "cho-oyu-expedition",
+            "description": "Cho Oyu, the sixth highest mountain in the world at 26,864 ft (8,201m), stands on the border of Nepal and Tibet. Considered the 'easiest' eight-thousander due to its less technical standard route, Cho Oyu is a popular objective for climbers aiming for their first 8,000m peak. The ascent typically follows the Northwest Ridge from Tibet. Climbers experience dramatic Himalayan vistas and the challenge of high-altitude mountaineering.",
+            "elevation": 26864,
+            "duration": 45,
+            "difficulty": [
+                "extreme"
+            ],
+            "location": "Nepal/Tibet (Himalayas)",
+            "distance": 110,
+            "tags": [
+                "eight-thousander",
+                "expedition",
+                "Nepal",
+                "Tibet",
+                "Himalayas",
+                "Northwest Ridge"
+            ],
+            "type": [
+                "mountain",
+                "expedition"
+            ],
+            "image": "",
+            "bestTimeToTarget": [
+                "April",
+                "May",
+                "September",
+                "October"
+            ],
+            "itinerary": {
+                "start": "Kathmandu / Lhasa",
+                "end": "Kathmandu / Lhasa",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in Kathmandu / Lhasa",
+                        "description": "Meet the expedition team, gear check, and final preparations."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Fly/Drive to Base Camp (Tibet route)",
+                        "description": "Travel to the trek starting point."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Trek to Cho Oyu Base Camp",
+                        "description": "Trek through remote villages and valleys to Base Camp."
+                    },
+                    {
+                        "day": 10,
+                        "title": "Arrive at Base Camp",
+                        "description": "Acclimatization, training, and preparation for ascent."
+                    },
+                    {
+                        "day": 15,
+                        "title": "Climbing Period (Rotations)",
+                        "description": "Multiple rotations to higher camps (Camp I, II, III) for acclimatization and load ferry."
+                    },
+                    {
+                        "day": 40,
+                        "title": "Summit Push",
+                        "description": "Climb from Base Camp to Camp III, then summit attempt via Northwest Ridge."
+                    },
+                    {
+                        "day": 42,
+                        "title": "Descent to Base Camp",
+                        "description": "Descend safely to Base Camp after summit."
+                    },
+                    {
+                        "day": 45,
+                        "title": "Return to Kathmandu / Lhasa",
+                        "description": "Trek or drive back, celebration and departure."
+                    }
+                ]
+            },
+            "organisers": [
+                {
+                    "name": "Seven Summit Treks",
+                    "website": "https://sevensummittreks.com",
+                    "contact": "",
+                    "email": ""
+                },
+                {
+                    "name": "International Mountain Guides",
+                    "website": "https://mountainguides.com",
+                    "contact": "",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "title": "Dhaulagiri",
+            "uid": "dhaulagiri-expedition",
+            "description": "Dhaulagiri, the seventh highest mountain in the world at 26,795 ft (8,167m), stands in western Nepal. Presumed to be the world's highest from 1808-1838, Dhaulagiri is a formidable challenge for mountaineers, involving technical climbing, remote wilderness, and unpredictable weather. The ascent typically follows the Northeast Ridge from Nepal. Climbers experience dramatic Himalayan vistas and the thrill of summiting one of the world's highest peaks.",
+            "elevation": 26795,
+            "duration": 50,
+            "difficulty": [
+                "extreme"
+            ],
+            "location": "Nepal (Himalayas)",
+            "distance": 120,
+            "tags": [
+                "eight-thousander",
+                "expedition",
+                "Nepal",
+                "Himalayas",
+                "Northeast Ridge"
+            ],
+            "type": [
+                "mountain",
+                "expedition"
+            ],
+            "image": "",
+            "bestTimeToTarget": [
+                "April",
+                "May"
+            ],
+            "itinerary": {
+                "start": "Kathmandu",
+                "end": "Kathmandu",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in Kathmandu",
+                        "description": "Meet the expedition team, gear check, and final preparations."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Fly to Pokhara, drive to Beni",
+                        "description": "Travel to the trek starting point."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Trek to Dhaulagiri Base Camp",
+                        "description": "Trek through remote villages and forests to Dhaulagiri Base Camp."
+                    },
+                    {
+                        "day": 10,
+                        "title": "Arrive at Base Camp",
+                        "description": "Acclimatization, training, and preparation for ascent."
+                    },
+                    {
+                        "day": 15,
+                        "title": "Climbing Period (Rotations)",
+                        "description": "Multiple rotations to higher camps (Camp I, II, III, IV) for acclimatization and load ferry."
+                    },
+                    {
+                        "day": 40,
+                        "title": "Summit Push",
+                        "description": "Climb from Base Camp to Camp IV, then summit attempt via Northeast Ridge."
+                    },
+                    {
+                        "day": 42,
+                        "title": "Descent to Base Camp",
+                        "description": "Descend safely to Base Camp after summit."
+                    },
+                    {
+                        "day": 45,
+                        "title": "Return to Kathmandu",
+                        "description": "Trek back to Beni, drive/fly to Kathmandu, celebration and departure."
+                    }
+                ]
+            },
+            "organisers": [
+                {
+                    "name": "Seven Summit Treks",
+                    "website": "https://sevensummittreks.com",
+                    "contact": "",
+                    "email": ""
+                },
+                {
+                    "name": "International Mountain Guides",
+                    "website": "https://mountainguides.com",
+                    "contact": "",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "title": "Manaslu",
+            "uid": "manaslu-expedition",
+            "description": "Manaslu, the eighth highest mountain in the world at 26,781 ft (8,163m), is located in the Mansiri Himal range of Nepal. Known as the 'Mountain of the Spirit', Manaslu is a popular objective for mountaineers seeking an 8,000-meter peak with relatively less technical difficulty compared to others in the region. The standard ascent route is via the Northeast Face, offering a blend of remote wilderness, Sherpa culture, and dramatic Himalayan vistas.",
+            "elevation": 26781,
+            "duration": 45,
+            "difficulty": [
+                "extreme"
+            ],
+            "location": "Nepal (Mansiri Himal)",
+            "distance": 110,
+            "tags": [
+                "eight-thousander",
+                "expedition",
+                "Nepal",
+                "Himalayas",
+                "Northeast Face"
+            ],
+            "type": [
+                "mountain",
+                "expedition"
+            ],
+            "image": "",
+            "bestTimeToTarget": [
+                "April",
+                "May",
+                "September",
+                "October"
+            ],
+            "itinerary": {
+                "start": "Kathmandu",
+                "end": "Kathmandu",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in Kathmandu",
+                        "description": "Meet the expedition team, gear check, and final preparations."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Drive to Soti Khola",
+                        "description": "Travel to the trek starting point."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Trek to Manaslu Base Camp",
+                        "description": "Trek through remote villages and forests to Manaslu Base Camp."
+                    },
+                    {
+                        "day": 10,
+                        "title": "Arrive at Base Camp",
+                        "description": "Acclimatization, training, and preparation for ascent."
+                    },
+                    {
+                        "day": 15,
+                        "title": "Climbing Period (Rotations)",
+                        "description": "Multiple rotations to higher camps (Camp I, II, III, IV) for acclimatization and load ferry."
+                    },
+                    {
+                        "day": 40,
+                        "title": "Summit Push",
+                        "description": "Climb from Base Camp to Camp IV, then summit attempt via Northeast Face."
+                    },
+                    {
+                        "day": 42,
+                        "title": "Descent to Base Camp",
+                        "description": "Descend safely to Base Camp after summit."
+                    },
+                    {
+                        "day": 45,
+                        "title": "Return to Kathmandu",
+                        "description": "Trek back, celebration and departure."
+                    }
+                ]
+            },
+            "organisers": [
+                {
+                    "name": "Seven Summit Treks",
+                    "website": "https://sevensummittreks.com",
+                    "contact": "",
+                    "email": ""
+                },
+                {
+                    "name": "International Mountain Guides",
+                    "website": "https://mountainguides.com",
+                    "contact": "",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "title": "Nanga Parbat",
+            "uid": "nanga-parbat-expedition",
+            "description": "Nanga Parbat, the ninth highest mountain in the world at 26,660 ft (8,126m), is located in the western Himalayas of Pakistan. Known as the 'Killer Mountain' due to its challenging conditions and high fatality rate, Nanga Parbat is famous for its dramatic Rupal and Diamir faces. The standard ascent is via the Diamir Face, involving technical climbing, exposure to avalanches, and unpredictable weather. Climbers experience remote wilderness, local culture, and the thrill of summiting one of the world's most formidable peaks.",
+            "elevation": 26660,
+            "duration": 45,
+            "difficulty": [
+                "extreme"
+            ],
+            "location": "Pakistan (Western Himalayas)",
+            "distance": 110,
+            "tags": [
+                "eight-thousander",
+                "expedition",
+                "Pakistan",
+                "Himalayas",
+                "Diamir Face",
+                "Rupal Face"
+            ],
+            "type": [
+                "mountain",
+                "expedition"
+            ],
+            "image": "",
+            "bestTimeToTarget": [
+                "June",
+                "July"
+            ],
+            "itinerary": {
+                "start": "Islamabad",
+                "end": "Islamabad",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in Islamabad",
+                        "description": "Meet the expedition team, gear check, and final preparations."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Drive to Chilas",
+                        "description": "Travel to Chilas via the Karakoram Highway."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Drive to Diamir Base Camp",
+                        "description": "Drive and trek to Diamir Base Camp, passing through remote villages."
+                    },
+                    {
+                        "day": 10,
+                        "title": "Arrive at Base Camp",
+                        "description": "Acclimatization, training, and preparation for ascent."
+                    },
+                    {
+                        "day": 15,
+                        "title": "Climbing Period (Rotations)",
+                        "description": "Multiple rotations to higher camps (Camp I, II, III, IV) for acclimatization and load ferry."
+                    },
+                    {
+                        "day": 40,
+                        "title": "Summit Push",
+                        "description": "Climb from Base Camp to Camp IV, then summit attempt via Diamir Face."
+                    },
+                    {
+                        "day": 42,
+                        "title": "Descent to Base Camp",
+                        "description": "Descend safely to Base Camp after summit."
+                    },
+                    {
+                        "day": 45,
+                        "title": "Return to Islamabad",
+                        "description": "Trek and drive back, celebration and departure."
+                    }
+                ]
+            },
+            "organisers": [
+                {
+                    "name": "Adventure Tours Pakistan",
+                    "website": "https://adventuretourspakistan.com",
+                    "contact": "",
+                    "email": ""
+                },
+                {
+                    "name": "Karakoram Expeditions",
+                    "website": "https://karakoramexpeditions.com",
+                    "contact": "",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "title": "Annapurna",
+            "uid": "annapurna-expedition",
+            "description": "Annapurna, the tenth highest mountain in the world at 26,545 ft (8,091m), is located in the Annapurna Himalayas of Nepal. It was the first eight-thousander to be climbed, in 1950. The Annapurna Expedition is renowned for its technical difficulty, avalanche risk, and remote wilderness. The standard ascent route is via the North Face. Climbers experience dramatic Himalayan vistas, rich local culture, and the challenge of one of the world's most dangerous peaks.",
+            "elevation": 26545,
+            "duration": 45,
+            "difficulty": [
+                "extreme"
+            ],
+            "location": "Nepal (Annapurna Himalayas)",
+            "distance": 110,
+            "tags": [
+                "eight-thousander",
+                "expedition",
+                "Nepal",
+                "Himalayas",
+                "North Face"
+            ],
+            "type": [
+                "mountain",
+                "expedition"
+            ],
+            "image": "",
+            "bestTimeToTarget": [
+                "April",
+                "May"
+            ],
+            "itinerary": {
+                "start": "Kathmandu",
+                "end": "Kathmandu",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in Kathmandu",
+                        "description": "Meet the expedition team, gear check, and final preparations."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Drive to Pokhara, then to Tatopani",
+                        "description": "Travel to the trek starting point."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Trek to Annapurna Base Camp",
+                        "description": "Trek through remote villages and forests to Annapurna Base Camp."
+                    },
+                    {
+                        "day": 10,
+                        "title": "Arrive at Base Camp",
+                        "description": "Acclimatization, training, and preparation for ascent."
+                    },
+                    {
+                        "day": 15,
+                        "title": "Climbing Period (Rotations)",
+                        "description": "Multiple rotations to higher camps (Camp I, II, III, IV) for acclimatization and load ferry."
+                    },
+                    {
+                        "day": 40,
+                        "title": "Summit Push",
+                        "description": "Climb from Base Camp to Camp IV, then summit attempt via North Face."
+                    },
+                    {
+                        "day": 42,
+                        "title": "Descent to Base Camp",
+                        "description": "Descend safely to Base Camp after summit."
+                    },
+                    {
+                        "day": 45,
+                        "title": "Return to Kathmandu",
+                        "description": "Trek back, celebration and departure."
+                    }
+                ]
+            },
+            "organisers": [
+                {
+                    "name": "Seven Summit Treks",
+                    "website": "https://sevensummittreks.com",
+                    "contact": "",
+                    "email": ""
+                },
+                {
+                    "name": "International Mountain Guides",
+                    "website": "https://mountainguides.com",
+                    "contact": "",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "title": "Gasherbrum I (Hidden Peak; K5)",
+            "uid": "gasherbrum-i-expedition",
+            "description": "Gasherbrum I, also known as Hidden Peak or K5, is the eleventh highest mountain in the world at 26,510 ft (8,080m), located in the Karakoram range on the border of Pakistan and China. The standard ascent is via the northwest ridge from Pakistan. The expedition is renowned for its remote wilderness, technical climbing, and unpredictable weather. Climbers experience dramatic glacier landscapes and the challenge of summiting one of the world's highest peaks.",
+            "elevation": 26510,
+            "duration": 45,
+            "difficulty": [
+                "extreme"
+            ],
+            "location": "Pakistan/China (Karakoram)",
+            "distance": 110,
+            "tags": [
+                "eight-thousander",
+                "expedition",
+                "Pakistan",
+                "China",
+                "Karakoram",
+                "Hidden Peak",
+                "Northwest Ridge"
+            ],
+            "type": [
+                "mountain",
+                "expedition"
+            ],
+            "image": "",
+            "bestTimeToTarget": [
+                "June",
+                "July"
+            ],
+            "itinerary": {
+                "start": "Islamabad",
+                "end": "Islamabad",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in Islamabad",
+                        "description": "Meet the expedition team, gear check, and final preparations."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Fly/Drive to Skardu",
+                        "description": "Travel to Skardu, gateway to the Karakoram."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Drive to Askole",
+                        "description": "Drive to Askole, the last village before the trek."
+                    },
+                    {
+                        "day": 4,
+                        "title": "Trek to Jhola",
+                        "description": "Begin trek along the Braldu River to Jhola camp."
+                    },
+                    {
+                        "day": 5,
+                        "title": "Trek to Paiju",
+                        "description": "Trek to Paiju, with views of the Trango Towers."
+                    },
+                    {
+                        "day": 6,
+                        "title": "Rest/Acclimatization at Paiju",
+                        "description": "Rest day for acclimatization and preparation."
+                    },
+                    {
+                        "day": 7,
+                        "title": "Trek to Urdukas",
+                        "description": "Trek along the Baltoro Glacier to Urdukas camp."
+                    },
+                    {
+                        "day": 8,
+                        "title": "Trek to Goro II",
+                        "description": "Continue along the glacier to Goro II camp."
+                    },
+                    {
+                        "day": 9,
+                        "title": "Trek to Concordia",
+                        "description": "Reach Concordia, the junction of major glaciers with views of Gasherbrum I."
+                    },
+                    {
+                        "day": 10,
+                        "title": "Trek to Gasherbrum Base Camp",
+                        "description": "Arrive at Base Camp, acclimatization and training."
+                    },
+                    {
+                        "day": 15,
+                        "title": "Climbing Period (Rotations)",
+                        "description": "Multiple rotations to higher camps (Camp I, II, III) for acclimatization and load ferry."
+                    },
+                    {
+                        "day": 40,
+                        "title": "Summit Push",
+                        "description": "Climb from Base Camp to Camp III, then summit attempt via Northwest Ridge."
+                    },
+                    {
+                        "day": 42,
+                        "title": "Descent to Base Camp",
+                        "description": "Descend safely to Base Camp after summit."
+                    },
+                    {
+                        "day": 45,
+                        "title": "Return to Islamabad",
+                        "description": "Trek and drive back, celebration and departure."
+                    }
+                ]
+            },
+            "organisers": [
+                {
+                    "name": "Adventure Tours Pakistan",
+                    "website": "https://adventuretourspakistan.com",
+                    "contact": "",
+                    "email": ""
+                },
+                {
+                    "name": "Karakoram Expeditions",
+                    "website": "https://karakoramexpeditions.com",
+                    "contact": "",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "title": "Broad Peak",
+            "uid": "broad-peak-expedition",
+            "description": "Broad Peak, the twelfth highest mountain in the world at 26,414 ft (8,051m), is located in the Karakoram range on the border of Pakistan and China. Named for its extensive summit ridge, Broad Peak is renowned for its remote wilderness, technical climbing, and unpredictable weather. The standard ascent is via the West Ridge from Pakistan, with dramatic glacier landscapes and the challenge of summiting one of the world's highest peaks.",
+            "elevation": 26414,
+            "duration": 45,
+            "difficulty": [
+                "extreme"
+            ],
+            "location": "Pakistan/China (Karakoram)",
+            "distance": 110,
+            "tags": [
+                "eight-thousander",
+                "expedition",
+                "Pakistan",
+                "China",
+                "Karakoram",
+                "Broad Peak",
+                "West Ridge"
+            ],
+            "type": [
+                "mountain",
+                "expedition"
+            ],
+            "image": "",
+            "bestTimeToTarget": [
+                "June",
+                "July"
+            ],
+            "itinerary": {
+                "start": "Islamabad",
+                "end": "Islamabad",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in Islamabad",
+                        "description": "Meet the expedition team, gear check, and final preparations."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Fly/Drive to Skardu",
+                        "description": "Travel to Skardu, gateway to the Karakoram."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Drive to Askole",
+                        "description": "Drive to Askole, the last village before the trek."
+                    },
+                    {
+                        "day": 4,
+                        "title": "Trek to Jhola",
+                        "description": "Begin trek along the Braldu River to Jhola camp."
+                    },
+                    {
+                        "day": 5,
+                        "title": "Trek to Paiju",
+                        "description": "Trek to Paiju, with views of the Trango Towers."
+                    },
+                    {
+                        "day": 6,
+                        "title": "Rest/Acclimatization at Paiju",
+                        "description": "Rest day for acclimatization and preparation."
+                    },
+                    {
+                        "day": 7,
+                        "title": "Trek to Urdukas",
+                        "description": "Trek along the Baltoro Glacier to Urdukas camp."
+                    },
+                    {
+                        "day": 8,
+                        "title": "Trek to Goro II",
+                        "description": "Continue along the glacier to Goro II camp."
+                    },
+                    {
+                        "day": 9,
+                        "title": "Trek to Concordia",
+                        "description": "Reach Concordia, the junction of major glaciers with views of Broad Peak."
+                    },
+                    {
+                        "day": 10,
+                        "title": "Trek to Broad Peak Base Camp",
+                        "description": "Arrive at Base Camp, acclimatization and training."
+                    },
+                    {
+                        "day": 15,
+                        "title": "Climbing Period (Rotations)",
+                        "description": "Multiple rotations to higher camps (Camp I, II, III) for acclimatization and load ferry."
+                    },
+                    {
+                        "day": 40,
+                        "title": "Summit Push",
+                        "description": "Climb from Base Camp to Camp III, then summit attempt via West Ridge."
+                    },
+                    {
+                        "day": 42,
+                        "title": "Descent to Base Camp",
+                        "description": "Descend safely to Base Camp after summit."
+                    },
+                    {
+                        "day": 45,
+                        "title": "Return to Islamabad",
+                        "description": "Trek and drive back, celebration and departure."
+                    }
+                ]
+            },
+            "organisers": [
+                {
+                    "name": "Adventure Tours Pakistan",
+                    "website": "https://adventuretourspakistan.com",
+                    "contact": "",
+                    "email": ""
+                },
+                {
+                    "name": "Karakoram Expeditions",
+                    "website": "https://karakoramexpeditions.com",
+                    "contact": "",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "title": "Gasherbrum II (K4)",
+            "uid": "gasherbrum-ii-expedition",
+            "description": "Gasherbrum II, originally named K4, is the thirteenth highest mountain in the world at 26,362 ft (8,035m), located in the Karakoram range on the border of Pakistan and China. The standard ascent is via the southwest ridge from Pakistan. The expedition is renowned for its remote wilderness, technical climbing, and unpredictable weather. Climbers experience dramatic glacier landscapes and the challenge of summiting one of the world's highest peaks.",
+            "elevation": 26362,
+            "duration": 45,
+            "difficulty": [
+                "extreme"
+            ],
+            "location": "Pakistan/China (Karakoram)",
+            "distance": 110,
+            "tags": [
+                "eight-thousander",
+                "expedition",
+                "Pakistan",
+                "China",
+                "Karakoram",
+                "Gasherbrum II",
+                "Southwest Ridge"
+            ],
+            "type": [
+                "mountain",
+                "expedition"
+            ],
+            "image": "",
+            "bestTimeToTarget": [
+                "June",
+                "July"
+            ],
+            "itinerary": {
+                "start": "Islamabad",
+                "end": "Islamabad",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in Islamabad",
+                        "description": "Meet the expedition team, gear check, and final preparations."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Fly/Drive to Skardu",
+                        "description": "Travel to Skardu, gateway to the Karakoram."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Drive to Askole",
+                        "description": "Drive to Askole, the last village before the trek."
+                    },
+                    {
+                        "day": 4,
+                        "title": "Trek to Jhola",
+                        "description": "Begin trek along the Braldu River to Jhola camp."
+                    },
+                    {
+                        "day": 5,
+                        "title": "Trek to Paiju",
+                        "description": "Trek to Paiju, with views of the Trango Towers."
+                    },
+                    {
+                        "day": 6,
+                        "title": "Rest/Acclimatization at Paiju",
+                        "description": "Rest day for acclimatization and preparation."
+                    },
+                    {
+                        "day": 7,
+                        "title": "Trek to Urdukas",
+                        "description": "Trek along the Baltoro Glacier to Urdukas camp."
+                    },
+                    {
+                        "day": 8,
+                        "title": "Trek to Goro II",
+                        "description": "Continue along the glacier to Goro II camp."
+                    },
+                    {
+                        "day": 9,
+                        "title": "Trek to Concordia",
+                        "description": "Reach Concordia, the junction of major glaciers with views of Gasherbrum II."
+                    },
+                    {
+                        "day": 10,
+                        "title": "Trek to Gasherbrum Base Camp",
+                        "description": "Arrive at Base Camp, acclimatization and training."
+                    },
+                    {
+                        "day": 15,
+                        "title": "Climbing Period (Rotations)",
+                        "description": "Multiple rotations to higher camps (Camp I, II, III) for acclimatization and load ferry."
+                    },
+                    {
+                        "day": 40,
+                        "title": "Summit Push",
+                        "description": "Climb from Base Camp to Camp III, then summit attempt via Southwest Ridge."
+                    },
+                    {
+                        "day": 42,
+                        "title": "Descent to Base Camp",
+                        "description": "Descend safely to Base Camp after summit."
+                    },
+                    {
+                        "day": 45,
+                        "title": "Return to Islamabad",
+                        "description": "Trek and drive back, celebration and departure."
+                    }
+                ]
+            },
+            "organisers": [
+                {
+                    "name": "Adventure Tours Pakistan",
+                    "website": "https://adventuretourspakistan.com",
+                    "contact": "",
+                    "email": ""
+                },
+                {
+                    "name": "Karakoram Expeditions",
+                    "website": "https://karakoramexpeditions.com",
+                    "contact": "",
+                    "email": ""
+                }
+            ]
+        },
+        {
+            "title": "Shishapangma",
+            "uid": "shishapangma-expedition",
+            "description": "Shishapangma, the fourteenth highest mountain in the world at 26,335 ft (8,027m), is located entirely in Tibet (China). It is the only eight-thousander situated wholly within Chinese territory. The standard ascent is via the Northwest Ridge, making it a popular objective for climbers seeking their first 8,000-meter peak. The expedition features remote wilderness, dramatic Himalayan vistas, and the challenge of high-altitude mountaineering.",
+            "elevation": 26335,
+            "duration": 40,
+            "difficulty": [
+                "extreme"
+            ],
+            "location": "Tibet (Himalayas)",
+            "distance": 100,
+            "tags": [
+                "eight-thousander",
+                "expedition",
+                "China",
+                "Tibet",
+                "Himalayas",
+                "Northwest Ridge"
+            ],
+            "type": [
+                "mountain",
+                "expedition"
+            ],
+            "image": "",
+            "bestTimeToTarget": [
+                "April",
+                "May",
+                "September",
+                "October"
+            ],
+            "itinerary": {
+                "start": "Lhasa",
+                "end": "Lhasa",
+                "stops": [
+                    {
+                        "day": 1,
+                        "title": "Arrive in Lhasa",
+                        "description": "Meet the expedition team, gear check, and final preparations."
+                    },
+                    {
+                        "day": 2,
+                        "title": "Drive to Shigatse",
+                        "description": "Travel through Tibetan plateau to Shigatse."
+                    },
+                    {
+                        "day": 3,
+                        "title": "Drive to Base Camp",
+                        "description": "Drive to Shishapangma Base Camp, acclimatization and training."
+                    },
+                    {
+                        "day": 10,
+                        "title": "Arrive at Base Camp",
+                        "description": "Acclimatization, training, and preparation for ascent."
+                    },
+                    {
+                        "day": 15,
+                        "title": "Climbing Period (Rotations)",
+                        "description": "Multiple rotations to higher camps (Camp I, II, III) for acclimatization and load ferry."
+                    },
+                    {
+                        "day": 35,
+                        "title": "Summit Push",
+                        "description": "Climb from Base Camp to Camp III, then summit attempt via Northwest Ridge."
+                    },
+                    {
+                        "day": 37,
+                        "title": "Descent to Base Camp",
+                        "description": "Descend safely to Base Camp after summit."
+                    },
+                    {
+                        "day": 40,
+                        "title": "Return to Lhasa",
+                        "description": "Drive back, celebration and departure."
+                    }
+                ]
+            },
+            "organisers": [
+                {
+                    "name": "International Mountain Guides",
+                    "website": "https://mountainguides.com",
+                    "contact": "",
                     "email": ""
                 }
             ]
